@@ -9,7 +9,6 @@ symbols:
   - {symbol: ax, type: vowel}
   - {symbol: ay, type: vowel}
   - {symbol: b, type: stop}
-  - {symbol: c, type: unknown}
   - {symbol: d, type: stop}
   - {symbol: ee, type: vowel}
   - {symbol: eh, type: vowel}
@@ -2141,7 +2140,7 @@ entries:
   - grapheme: bærbar
     phonemes: [b, ae, r, b, aa, r]
   - grapheme: bærbar CD-spiller
-    phonemes: [b, ae, r, b, aa, c, ee, d, ee, s, p, ih, l, ax, r]
+    phonemes: [b, ae, r, b, aa, s, ee, d, ee, s, p, ih, l, ax, r]
   - grapheme: bære
     phonemes: [b, ae, r, ax]
   - grapheme: bøker
