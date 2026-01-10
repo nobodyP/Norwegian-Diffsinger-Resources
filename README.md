@@ -1,5 +1,5 @@
-# Norweigan-Diffsinger-Resources
-Resources for norweigan diffsinger.
+# Norwegian-Diffsinger-Resources
+Resources for Norwegian Diffsinger.
 
 
 Dictionary based on [open-dict-data](https://github.com/open-dict-data/ipa-dict)
