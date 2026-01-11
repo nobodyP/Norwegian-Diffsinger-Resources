@@ -13,7 +13,7 @@ adekvat  aa d ax k v aa t
 adjektiv  aa d j ax k t iy v
 adkomst  aa d k ao m s t
 adlyde  aa d l ueh d ax
-administrasjon  aa d m ih n ih s t r aa S uu n
+administrasjon  aa d m ih n ih s t r aa sz uu n
 administrativ  aa d m
 administrere  aa d m ih n ih s t r ee r ax
 adoptere  aa d ao p t ee r ax
@@ -42,8 +42,8 @@ akkumulere  aa k uh m uh l ee r ax
 akselerere  aa k s ax l ax r ee r ax
 akseptabel  aa k s ax p t aa b ax l
 akseptere  aa k s ax p t ee r ax
-aksje  aa k S ax
-aksjonere  aa k S uh n ee r ax
+aksje  aa k sz ax
+aksjonere  aa k sz uh n ee r ax
 akt  aa k t
 aktbilde  aa k t b ih l d ax
 akte  aa k t ax
@@ -159,7 +159,7 @@ anseligste  aa n s ee l ih k s t ax
 ansette  aa n s eh t ax
 ansikt  aa n s ih k t
 anskaffe  aa n s k aa f ax
-anslå  aa n S l oo
+anslå  aa n sz l oo
 anspent  aa n s p eh n t
 anstendig  aa n s t eh n ih
 anstendige  aa n s t eh n ih ax
@@ -174,8 +174,8 @@ ansvarlige  aa n s v aa l ih ax
 ansvarligere  aa n s v aa l ih r ax
 ansvarligst  aa n s v aa l ih k s t
 ansvarligste  aa n s v aa l ih k s t ax
-ansvarsfull  aa n s v aa S f uh l
-ansvarsløs  aa n s v aa S l oeh s
+ansvarsfull  aa n s v aa sz f uh l
+ansvarsløs  aa n s v aa sz l oeh s
 anta  aa n t aa
 antaste  aa n t aa s t ax
 antenne  aa n t eh n ax
@@ -233,8 +233,8 @@ arkivere  aa r k ih v ee r ax
 arm  aa r m
 arme  aa r m ee
 arr  aa r
-arrangement  aa r aa ng S ax m aa ng
-arrangere  aa r aa ng S ee r ax
+arrangement  aa r aa ng sz ax m aa ng
+arrangere  aa r aa ng sz ee r ax
 arrestere  aa r ax s t ee r ax
 arrogant  aa r uh g aa n t
 arte  aa t ax
@@ -243,7 +243,7 @@ artige  aa t ih ax
 artigere  aa t ih r ax
 artigst  aa t ih k s t
 artigste  aa t ih k s t ax
-artisjokk  aa t ih S ao k
+artisjokk  aa t ih sz ao k
 artistisk  aa t ih s t ih s k
 arve  aa r v ax
 arvelig  aa r v ax l ih
@@ -253,7 +253,7 @@ arveligst  aa r v ax l ih k s t
 arveligste  aa r v ax l ih k s t ax
 asen  aa s ax n
 asfaltere  aa s f aa l t ee r ax
-asjett  aa S eh t
+asjett  aa sz eh t
 askebeger  aa s k ax b ee g ax r
 asosial  aa s uh s ih aa l
 asparges  aa s p aa r g eh s
@@ -274,12 +274,12 @@ atlantisk  aa t l aa n t ih s k
 Atle  aa t l ax
 atletisk  aa t l ee t ih s k
 atrium  aa t r ih uh m
-atskillig  aa t S ih l ih
-atskillige  aa t S ih l ih ax
-atskilligere  aa t S ih l ih r ax
-atskilligst  aa t S ih l ih k s t
-atskilligste  aa t S ih l ih k s t ax
-atskilt  aa d S ih l t
+atskillig  aa t sz ih l ih
+atskillige  aa t sz ih l ih ax
+atskilligere  aa t sz ih l ih r ax
+atskilligst  aa t sz ih l ih k s t
+atskilligste  aa t sz ih l ih k s t ax
+atskilt  aa d sz ih l t
 atten  aa t ax n
 attest  aa t eh s t
 attestere  aa t ax s t ee r ax
@@ -347,22 +347,22 @@ avsindigere  aa v s ih n ih r ax
 avsindigst  aa v s ih n ih k s t
 avsindigste  aa v s ih n ih k s t ax
 avskaffe  aa v s k aa f ax
-avskjedige  aa v S ee d ih g ax
-avskjære  aa v S ae r ax
+avskjedige  aa v sz ee d ih g ax
+avskjære  aa v sz ae r ax
 avskrekke  aa v s k r eh k ax
 avskrekkende  aa v s k r eh k ax n ax
 avskrive  aa v s k r iy v ax
-avsky  aa v S ueh
-avskyelig  aa v S ueh ax l ih
-avskyelige  aa v S ueh ax l ih ax
-avskyeligere  aa v S ueh ax l ih r ax
-avskyeligst  aa v S ueh ax l ih k s t
-avskyeligste  aa v S ueh ax l ih k s t ax
-avslappa  aa v S l aa p ax t
-avslappet  aa v S l aa p ax t
-avslutte  aa v S l uh t ax
-avsløre  aa v S l oeh r ax
-avslå  aa v S l oo
+avsky  aa v sz ueh
+avskyelig  aa v sz ueh ax l ih
+avskyelige  aa v sz ueh ax l ih ax
+avskyeligere  aa v sz ueh ax l ih r ax
+avskyeligst  aa v sz ueh ax l ih k s t
+avskyeligste  aa v sz ueh ax l ih k s t ax
+avslappa  aa v sz l aa p ax t
+avslappet  aa v sz l aa p ax t
+avslutte  aa v sz l uh t ax
+avsløre  aa v sz l oeh r ax
+avslå  aa v sz l oo
 avstand  aa v s t aa n
 avstå  aa v s t oo
 avtale  aa v t aa l ax
@@ -382,9 +382,9 @@ badering  b aa d ax r ih ng
 badevakt  b aa d ax v aa k t
 badminton  b ae d m ih n t ax n
 badstue  b aa s t uh
-bagasje  b aa g aa S ax
-bagasjeluke  b aa g aa S ax l uh k ax
-bagasjerom  b aa g aa S ax r uh m
+bagasje  b aa g aa sz ax
+bagasjeluke  b aa g aa sz ax l uh k ax
+bagasjerom  b aa g aa sz ax r uh m
 bagatellisere  b aa g aa t ax l ih s ee r ax
 bak  b aa k
 bake  b aa k ax
@@ -418,7 +418,7 @@ balsamere  b aa l s aa m ee r ax
 banal  b aa n aa l
 banan  b aa n aa n
 band  b ae n
-bandasjere  b aa n aa S ee r ax
+bandasjere  b aa n aa sz ee r ax
 bande  b aa n ax
 bane  b aa n ax
 banebrytende  b aa n ax b r ueh t ax n ax
@@ -446,18 +446,18 @@ barnehage  b aa ng ax hh aa g ax
 barneheis  b aa ng ax hh ay s
 barnelege  b aa ng ax l ee g ax
 barnemat  b aa ng ax m aa t
-barnemoderasjon  b aa ng ax m uh d ax r aa S uu n
+barnemoderasjon  b aa ng ax m uh d ax r aa sz uu n
 barnepass  b aa ng ax p aa s
-barneporsjon  b aa ng ax p uh S uu n
+barneporsjon  b aa ng ax p uh sz uu n
 barneseng  b aa ng ax s eh ng
 barnesete  b aa ng ax s ee t ax
-barnesjukdom  b aa ng ax S uh k d uh m
+barnesjukdom  b aa ng ax sz uh k d uh m
 barnevakt  b aa ng ax v aa k t
 barokk  b aa r ao k
 baron  b aa r uu n
 baroni  b aa r uh n iy
 barrikadere  b aa r ih k aa d ee r ax
-barsk  b aa S k
+barsk  b aa sz k
 bart  b aa t
 barten  b aa t ng
 baryton  b aa r ih t ao n
@@ -465,7 +465,7 @@ base  b aa s ax
 basehopping  b aa s ax hh ao p ih ng
 basere  b aa s ee r ax
 basilikum  b aa s iy l ih k uh m
-basun  b aa S uh n
+basun  b aa sz uh n
 batalje  b aa t aa l j ax
 batteri  b aa t ax r iy
 bearbeide  b ee aa r b ay d ax
@@ -537,9 +537,9 @@ behageligere  b ax hh aa g ax l ih r ax
 behageligst  b ax hh aa g ax l ih k s t
 behageligste  b ax hh aa g ax l ih k s t ax
 behandle  b ax hh aa n l ax
-beherska  b ax hh ae S k aa
-beherske  b ax hh ae S k ax
-behersket  b ax hh ae S k ax t
+beherska  b ax hh ae sz k aa
+beherske  b ax hh ae sz k ax
+behersket  b ax hh ae sz k ax t
 beholde  b ax hh ao l ax
 beholder  b eh hh ao l ax r
 behørig  b ax hh oeh r ih
@@ -548,7 +548,7 @@ behørigere  b ax hh oeh r ih r ax
 behørigst  b ax hh oeh r ih k s t
 behørigste  b ax hh oeh r ih k s t ax
 behøve  b ax hh oeh v ax
-beige  b ee S ax
+beige  b ee sz ax
 bein  b ay n
 beinhard  b ay n h aa r
 beisk  b ay s k
@@ -638,18 +638,18 @@ besiktigelse  b ax s ih k t ih g eh l s ax
 besinne  b ax s ih n ax
 besitte  b ax s ih t ax
 beskatte  b ax s k aa t ax
-beskjed  b ax S ee
-beskjeden  b ax S ee d ax n
-beskjeftige  b ax S eh f t ih g ax
-beskjære  b ax S ae r ax
+beskjed  b ax sz ee
+beskjeden  b ax sz ee d ax n
+beskjeftige  b ax sz eh f t ih g ax
+beskjære  b ax sz ae r ax
 beskrive  b ax s k r iy v ax
-beskytte  b ax S ue t ax
-beskyttelsesfaktor  b eh S ue t eh l s ax s f aa k t uh r
-beslaglegge  b ax S l aa g l ax g ax
-beslekta  b ax S l eh k t ax t
-beslektet  b ax S l eh k t ax t
-beslutte  b ax S l uh t ax
-besluttsom  b ax S l uh t s ao m
+beskytte  b ax sz ue t ax
+beskyttelsesfaktor  b eh sz ue t eh l s ax s f aa k t uh r
+beslaglegge  b ax sz l aa g l ax g ax
+beslekta  b ax sz l eh k t ax t
+beslektet  b ax sz l eh k t ax t
+beslutte  b ax sz l uh t ax
+besluttsom  b ax sz l uh t s ao m
 best  b ee s t
 bestandig  b ax s t aa n ih
 bestandige  b ax s t aa n ih ax
@@ -667,7 +667,7 @@ bestikk  b ee s t ih k
 bestikke  b ax s t ih k ax
 bestille  b ax s t ih l ax
 bestilling  b eh s t ih l ih ng
-bestimmt  b ax S t ih m t
+bestimmt  b ax sz t ih m t
 bestride  b ax s t r iy d ax
 bestøve  b ax s t oeh v ax
 bestå  b ax s t oo
@@ -734,7 +734,7 @@ bevegeligere  b ax v ee g ax l ih r ax
 bevegeligst  b ax v ee g ax l ih k s t
 bevegeligste  b ax v ee g ax l ih k s t ax
 bevegelse  b ax v ee g ax l s ax
-bevegelseshemmet  b eh v ee g eh l s ax sh eh m ax t
+bevegelseshemmet  b eh v ee g eh l s ax s h eh m ax t
 bever  b eh v ax r
 bevilge  b ax v ih l g ax
 bevise  b ax v iy s ax
@@ -768,7 +768,7 @@ billedligst  b ih l ax d l ih k s t
 billedligste  b ih l ax d l ih k s t ax
 billett  b ih l eh t
 billettluke  b ih l eh t l uh k ax
-billettmaskin  b ih l eh t m aa S iy n
+billettmaskin  b ih l eh t m aa sz iy n
 billettpris  b ih l eh t p r iy s
 billig  b ih l ih
 billige  b ih l ih ax
@@ -914,7 +914,7 @@ bortimot klokka tolv  b uh t ih m uh t k l ao k aa t ao l
 bortkasta  b uh t k aa s t aa
 bortkastet  b uh t k aa s t aa
 bortreist  b uh t r ay s t
-bortskjemt  b uh t S ax m t
+bortskjemt  b uh t sz ax m t
 bosette  b uu s eh t ax
 bosse  b oe s ax
 bosted  b uu s t ee d
@@ -931,7 +931,7 @@ brann  b r aa n
 brannfarlig  b r aa n f aa l ih
 brannmann  b r aa n m aa n
 brannsalve  b r aa n s aa l v ax
-brannslokker  b r aa n S l ao k ax r
+brannslokker  b r aa n sz l ao k ax r
 brannvesen  b r aa n v ee s ax n
 brasiliansk  b r aa s ih l ih aa n s k
 bratt  b r aa t
@@ -967,8 +967,8 @@ broket  b r uu k ax t
 bronkitt  b r uh ng k ih t
 bronse  b r ao ng s ax
 bror  b r uu r
-brors  b r uu S
-brosjyre  b r uh S ueh r ax
+brors  b r uu sz
+brosjyre  b r uh sz ueh r ax
 brosme  b r ao s m ax
 bru  b r uh
 brudd  b r uh d
@@ -1001,8 +1001,8 @@ bråkjekk  b r oo xh eh k
 bu  b uh
 bud  b uh d
 buddhistisk  b uh d ih s t ih s k
-budsjett  b uh d S eh t
-budsjettere  b uh d S ax t ee r ax
+budsjett  b uh d sz eh t
+budsjettere  b uh d sz ax t ee r ax
 bue  b uh ax
 bugne  b uh ng n ax
 bukett  b uh k eh t
@@ -1012,7 +1012,7 @@ bukt  b uh k t
 bukte  b uh k t ax
 buldre  b uh l d r ax
 bule  b uh l ax
-bulgarsk  b uh l g aa S k
+bulgarsk  b uh l g aa sz k
 bulke  b uh l k ax
 bunad  b uh n aa d
 bunke  b uh ng k ax
@@ -1055,8 +1055,8 @@ bønn  b oe n
 bønne  b oe n ax
 bønnene  b oe n ax n ax
 bønnfalle  b oe n f aa l ax
-børse  b oe S ax
-børste  b oe S t ax
+børse  b oe sz ax
+børste  b oe sz t ax
 bøte  b oeh t ax
 bøtelegge  b oeh t ax l ay ax
 bøter  b oeh t ax r
@@ -1073,16 +1073,16 @@ camping  k ae m p ih ng
 Canada  k aa n aa d aa
 canadisk  k aa n aa d ih s k
 catering  k ay t eh r ih ng
-CD  c ee d ee
-CD-spiller  c ee d ee s p ih l ax r
+CD  s ee d ee
+CD-spiller  s ee d ee s p ih l ax r
 cent  s ae n t
 centimeter  s eh n t ih m ee t ax r
-champagne  S aa m p aa n j ax
-choke  S oo k
+champagne  sz aa m p aa n j ax
+choke  sz oo k
 cirka  s ih r k aa
 crawle  k r oo l ax
 cruise  k r uh s
-curling  c oe l ih ng
+curling  s oe l ih ng
 cyanid  s ue w aa n iy d
 da  d aa
 dabbe  d aa b ax
@@ -1191,7 +1191,7 @@ dere  d ee r ax
 deres  d ee r ax s
 deretter  d ae r eh t ax r
 derfor  d ae r f ao r
-dersom  d eh S ao m
+dersom  d eh sz ao m
 desember  d ax s eh m b ax r
 desertere  d ax s ae t ee r ax
 desidert  d ax s ih d ee t
@@ -1279,7 +1279,7 @@ distre  d ih s t r ee
 distré  d ih s t r ee
 distribuere  d ih s t r ih b uh ee r ax
 ditt  d ih t
-diverse  d ih v ae S ax
+diverse  d ih v ae sz ax
 dividere  d ih v ih d ee r ax
 djerv  d j ae r v
 djevel  d j ee v ax l
@@ -1298,7 +1298,7 @@ donere  d uh n ee r ax
 dope  d uu p ax
 doppelt  d ao p ax l t
 dorme  d ao r m ax
-dorsk  d ao S k
+dorsk  d ao sz k
 dort  d ao t
 dosere  d uh s ee r ax
 dossere  d ao s ee r ax
@@ -1343,8 +1343,8 @@ dristigste  d r ih s t ih k s t ax
 drive  d r iy v ax
 dronning  d r ao n ih ng
 droppe  d r ao p ax
-drosje  d r ao S ax
-drosjesjåfør  d r ao S ax S ao f oeh r
+drosje  d r ao sz ax
+drosjesjåfør  d r ao sz ax sz ao f oeh r
 druesukker  d r uh ax s uh k ax r
 drukken  d r uh k ax n
 drukne  d r uh k n ax
@@ -1396,8 +1396,8 @@ durabeligste  d uh r aa b ax l ih k s t ax
 dure  d uh r ax
 durkdreven  d uh r k d r ee v ax n
 dusin  d uh s iy n
-dusj  d uh S
-dusje  d uh S ax
+dusj  d uh sz
+dusje  d uh sz ax
 duve  d uh v ax
 dvele  d v ee l ax
 dydig  d ueh d ih
@@ -1438,8 +1438,8 @@ dølge  d oe l g ax
 dømme  d oe m ax
 døpe  d oeh p ax
 dør  d oeh r
-dørslag  d oe S l aa g
-dørstokk  d oeh S t ao k
+dørslag  d oe sz l aa g
+dørstokk  d oeh sz t ao k
 døse  d oeh s ax
 døsig  d oeh s ih
 døsige  d oeh s ih ax
@@ -1507,7 +1507,7 @@ eksaminere  eh k s aa m ih n ee r ax
 eksempel  eh k s eh m p ax l
 eksemplarisk  eh k s ax m p l aa r ih s k
 eksentrisk  eh k s eh n t r ih s k
-eksepsjonell  eh k s ax p S uh n eh l
+eksepsjonell  eh k s ax p sz uh n eh l
 eksistensiell  eh k s ih s t ax n s ih eh l
 eksistere  eh k s ih s t ee r ax
 ekskludere  eh k s k l uh d ee r ax
@@ -1523,7 +1523,7 @@ eksplodere  eh k s p l uh d ee r ax
 eksplosiv  eh k s p l uh s iy v
 eksponere  eh k s p uh n ee r ax
 eksportere  eh k s p ao t ee r ax
-ekspresjonisme  eh k s p r eh S uh n ih s m ax
+ekspresjonisme  eh k s p r eh sz uh n ih s m ax
 ekspressbrev  eh k s p r eh s b r ee v
 ekspressbuss  eh k s p r eh s b uh s
 ekstatisk  eh k s t aa t ih s k
@@ -1556,7 +1556,7 @@ elf  eh l f
 eliminere  eh l ih m ih n ee r ax
 Elise  eh l iy s ax
 eller  eh l ax r
-ellers  eh l ax S
+ellers  eh l ax sz
 elleve  eh l v ax
 ellevill  eh l ax v ih l
 elske  eh l s k ax
@@ -1574,7 +1574,7 @@ emigrere  eh m ih g r ee r ax
 eminent  eh m ih n eh n t
 emmen  eh m ax n
 emne  eh m n ax
-emosjonell  eh m uh S uh n eh l
+emosjonell  eh m uh sz uh n eh l
 empatisk  eh m p aa t ih s k
 empfehlen  eh m p f ee l ax n
 empirisk  eh m p iy r ih s k
@@ -1592,7 +1592,7 @@ endeligste  eh n ax l ih k s t ax
 endelse  eh n ax l s ax
 endeløs  eh n ax l oeh s
 ender  eh n ax r
-endestasjon  eh n ax s t aa S uu n
+endestasjon  eh n ax s t aa sz uu n
 endevende  eh n ax v eh n ax
 endre  eh n d r ax
 endring  eh n d r ih ng
@@ -1609,7 +1609,7 @@ enfoldigere  eh n f ao l d ih r ax
 enfoldigst  eh n f ao l d ih k s t
 enfoldigste  eh n f ao l d ih k s t ax
 eng  eh ng
-engasjere  eh ng g aa S ee r ax
+engasjere  eh ng g aa sz ee r ax
 engelsk  eh ng ax l s k
 engste  eh ng s t ax
 engstelig  eh ng s t ax l ih
@@ -1656,11 +1656,11 @@ ensidige  ee n s iy d ih ax
 ensidigere  ee n s iy d ih r ax
 ensidigst  ee n s iy d ih k s t
 ensidigste  ee n s iy d ih k s t ax
-enslig  ee n S l ih
-enslige  ee n S l ih ax
-ensligere  ee n S l ih r ax
-ensligst  ee n S l ih k s t
-ensligste  ee n S l ih k s t ax
+enslig  ee n sz l ih
+enslige  ee n sz l ih ax
+ensligere  ee n sz l ih r ax
+ensligst  ee n sz l ih k s t
+ensligste  ee n sz l ih k s t ax
 ensom  ee n s ao m
 enten eller  eh n t ax n eh l ax r
 entre  eh n t r ax
@@ -1691,7 +1691,7 @@ ernst  eh ng s t
 ernære  ae ng ae r ax
 erobre  ae r uu b r ax
 erotisk  eh r uu t ih s k
-erstatte  ae S t aa t ax
+erstatte  ae sz t aa t ax
 ert  ae t
 erte  ae t ax
 erter  ae t ax r
@@ -1702,11 +1702,11 @@ essensiell  eh s ax n s ih eh l
 estetisk  eh s t ee t ih s k
 et  eh t
 et annet s t ed  eh t aa n ax t s t ee d
-et avslitt leddbånd  eh t aa v S l ih t l eh d b ao n
+et avslitt leddbånd  eh t aa v sz l ih t l eh d b ao n
 et par  eh t p aa r
 etablere  eh t aa b l ee r ax
-etasje  eh t aa S ax
-etasjeseng  eh t aa S ax s eh ng
+etasje  eh t aa sz ax
+etasjeseng  eh t aa sz ax s eh ng
 ete  ee t ax
 eter  ee t ax r
 eterisk  eh t ee r ih s k
@@ -1715,7 +1715,7 @@ etnisk  eh t n ih s k
 etnologisk museum  eh t n uh l uu g ih s k m uh s eh uh m
 ett  eh t
 etter  eh t ax r
-etterforske  eh t ax r f ao S k ax
+etterforske  eh t ax r f ao sz k ax
 etterfølge  eh t ax r f oe l ax
 etterkomme  eh t ax r k ao m ax
 etterlate  eh t ax l aa t ax
@@ -1724,9 +1724,9 @@ etterlyse  eh t ax l ueh s ax
 ettermiddag  eh t ax r m ih d aa g
 etternavn  eh t ax ng aa v ax n
 etterpåklok  eh t ax r p ao k l uu k
-etterse  eh t ax S ee
-ettersende  eh t ax S eh n ax
-ettersøke  eh t ax S oeh k ax
+etterse  eh t ax sz ee
+ettersende  eh t ax sz eh n ax
+ettersøke  eh t ax sz oeh k ax
 ettertenksom  eh t ax t eh ng k s ao m
 ettertrykkelig  eh t ax t r ue k ax l ih
 ettertrykkelige  eh t ax t r ue k ax l ih ax
@@ -1764,7 +1764,7 @@ fabelaktigst  f aa b ax l aa k t ih k s t
 fabelaktigste  f aa b ax l aa k t ih k s t ax
 fable  f aa b l ax
 fabrikant  f aa b r ih k aa n t
-fabrikasjon  f aa b r ih k aa S uu n
+fabrikasjon  f aa b r ih k aa sz uu n
 fabrikk  f aa b r ih k
 fabrikkere  f aa b r ih k ee r ax
 fager  f aa g ax r
@@ -1817,9 +1817,9 @@ farte  f aa t ax
 fartsmåler  f aa t s m oo l ax r
 fasade  f aa s aa d ax
 fascinere  f aa s ih n ee r ax
-fascistisk  f aa S ih s t ih s k
+fascistisk  f aa sz ih s t ih s k
 fase  f aa s ax
-fasjonabel  f aa S uh n aa b ax l
+fasjonabel  f aa sz uh n aa b ax l
 fast  f aa s t
 faste  f aa s t ax
 fastelavn  f aa s t ax l aa v ax n
@@ -1835,11 +1835,11 @@ fattet  f aa t ax t
 fattig  f aa t ih
 fattige  f aa t ih ax
 fattigere  f aa t ih r ax
-fattigslig  f aa t ih S l ih
-fattigslige  f aa t ih S l ih ax
-fattigsligere  f aa t ih S l ih r ax
-fattigsligst  f aa t ih S l ih k s t
-fattigsligste  f aa t ih S l ih k s t ax
+fattigslig  f aa t ih sz l ih
+fattigslige  f aa t ih sz l ih ax
+fattigsligere  f aa t ih sz l ih r ax
+fattigsligst  f aa t ih sz l ih k s t
+fattigsligste  f aa t ih sz l ih k s t ax
 fattigst  f aa t ih k s t
 fattigste  f aa t ih k s t ax
 faun  f ae w n
@@ -1864,7 +1864,7 @@ feilaktigst  f ay l aa k t ih k s t
 feilaktigste  f ay l aa k t ih k s t ax
 feile  f ay l ax
 feilfri  f ay l f r iy
-feilslått  f ay l S l ao t
+feilslått  f ay l sz l ao t
 feiltagelse  f ay l t aa g eh l s ax
 feire  f ay r ax
 feit  f ay t
@@ -1875,8 +1875,8 @@ felt  f eh l t
 fem  f eh m
 femten  f eh m t ax n
 femti  f eh m t iy
-fengsel  f eh ng S ax l
-fengsle  f eh ng S l ax
+fengsel  f eh ng sz ax l
+fengsle  f eh ng sz l ax
 fennikel  f ae n ih k ax l
 fenomenal  f eh n uh m ax n aa l
 ferdes  f ae d ax s
@@ -1891,8 +1891,8 @@ ferie  f ee r ih j ax
 feriehus  f ee r ih ax hh uh s
 feriere  f eh r ih ee r ax
 ferje  f ae r j ax
-fersk  f ae S k
-fersken  f ae S k ax n
+fersk  f ae sz k
+fersken  f ae sz k ax n
 feste  f eh s t ax
 festival  f eh s t ih v aa l
 festlig  f eh s t l ih
@@ -2111,7 +2111,7 @@ forbruke  f ao r b r uh k ax
 forbrytelse  f ao r b r ueh t ax l s ax
 forbud  f ao r b uh d
 forbudt  f ao r b uh t
-forbund for funksjonshemmede  f ao r b uh n f ao r f uh ng k S uu n sh eh m ax d ax
+forbund for funksjonshemmede  f ao r b uh n f ao r f uh ng k sz uu n s h eh m ax d ax
 forby  f ao r b ueh
 fordampe  f ao d aa m p ax
 fordel  f ao d ee l
@@ -2303,74 +2303,74 @@ forrett  f ao r ax t
 forringe  f ao r ih ng ax
 forrykende  f ao r ueh k ax n ax
 forrykt  f ao r ue k t
-forrædersk  f ao r ee d ax S k
+forrædersk  f ao r ee d ax sz k
 forråd  f ao r oo d
 forråde  f ao r oo d ax
 forrådt  f ao r ao t
-forsagt  f ao S aa k t
-forsake  f ao S aa k ax
-forsalg  f ao S aa l g
-forseggjort  f ao S ay uh t
-forsikre  f ao S ih k r ax
-forsikring  f ao S ih k r ih ng
-forsiktig  f ao S ih k t ih
-forsiktige  f ao S ih k t ih ax
-forsiktigere  f ao S ih k t ih r ax
-forsiktighet  f ao S ih k t ih hh ee t
-forsiktigst  f ao S ih k t ih k s t
-forsiktigste  f ao S ih k t ih k s t ax
-forsinke  f ao S ih ng k ax
-forsinkelse  f ao S ih ng k eh l s ax
-forske  f ao S k ax
-forskjell  f ao S ax l
-forskjellig  f ao S eh l ih
-forskjellige  f ao S eh l ih ax
-forskjelligere  f ao S eh l ih r ax
-forskjelligst  f ao S eh l ih k s t
-forskjelligste  f ao S eh l ih k s t ax
-forskning  f ao S k n ih ng
-forskrift  f ao S k r ih f t
-forskrudd  f ao S k r uh d
-forskuttere  f ao S k uh t ee r ax
-forskyve  f ao S ueh v ax
-forslag  f ao S l aa g
-forslitt  f ao S l ih t
-forsnakke  f ao S n aa k ax
-forsone  f ao S uu n ax
-forsove  f ao S oo v ax
-forspille  f ao S p ih l ax
-forstad  f ao S t aa
-forstandig  f ao S t aa n ih
-forstandige  f ao S t aa n ih ax
-forstandigere  f ao S t aa n ih r ax
-forstandigst  f ao S t aa n ih k s t
-forstandigste  f ao S t aa n ih k s t ax
-forsterke  f ao S t ae r k ax
-forstoppelse  f ao S t ao p eh l s ax
-forstrekning  f ao S t r eh k n ih ng
-forstuet  f ao S t uh ax t
-forstumme  f ao S t uh m ax
-forstyrre  f ao S t ue r ax
-forstørre  f ao S t oe r ax
-forstå  f ao S t oo
-forståelig  f ao S t oo ax l ih
-forståelige  f ao S t oo ax l ih ax
-forståeligere  f ao S t oo ax l ih r ax
-forståeligst  f ao S t oo ax l ih k s t
-forståeligste  f ao S t oo ax l ih k s t ax
-forståelsesfull  f ao S t oo ax l s ax s f uh l
-forsvare  f ao S v aa r ax
-forsvarlig  f ao S v aa l ih
-forsvarlige  f ao S v aa l ih ax
-forsvarligere  f ao S v aa l ih r ax
-forsvarligst  f ao S v aa l ih k s t
-forsvarligste  f ao S v aa l ih k s t ax
-forsvinne  f ao S v ih n ax
-forsyne  f ao S ueh n ax
-forsøk  f ao S oeh k
-forsøke  f ao S oeh k ax
-forsømme  f ao S oe m ax
-forsørge  f ao S oe r g ax
+forsagt  f ao sz aa k t
+forsake  f ao sz aa k ax
+forsalg  f ao sz aa l g
+forseggjort  f ao sz ay uh t
+forsikre  f ao sz ih k r ax
+forsikring  f ao sz ih k r ih ng
+forsiktig  f ao sz ih k t ih
+forsiktige  f ao sz ih k t ih ax
+forsiktigere  f ao sz ih k t ih r ax
+forsiktighet  f ao sz ih k t ih hh ee t
+forsiktigst  f ao sz ih k t ih k s t
+forsiktigste  f ao sz ih k t ih k s t ax
+forsinke  f ao sz ih ng k ax
+forsinkelse  f ao sz ih ng k eh l s ax
+forske  f ao sz k ax
+forskjell  f ao sz ax l
+forskjellig  f ao sz eh l ih
+forskjellige  f ao sz eh l ih ax
+forskjelligere  f ao sz eh l ih r ax
+forskjelligst  f ao sz eh l ih k s t
+forskjelligste  f ao sz eh l ih k s t ax
+forskning  f ao sz k n ih ng
+forskrift  f ao sz k r ih f t
+forskrudd  f ao sz k r uh d
+forskuttere  f ao sz k uh t ee r ax
+forskyve  f ao sz ueh v ax
+forslag  f ao sz l aa g
+forslitt  f ao sz l ih t
+forsnakke  f ao sz n aa k ax
+forsone  f ao sz uu n ax
+forsove  f ao sz oo v ax
+forspille  f ao sz p ih l ax
+forstad  f ao sz t aa
+forstandig  f ao sz t aa n ih
+forstandige  f ao sz t aa n ih ax
+forstandigere  f ao sz t aa n ih r ax
+forstandigst  f ao sz t aa n ih k s t
+forstandigste  f ao sz t aa n ih k s t ax
+forsterke  f ao sz t ae r k ax
+forstoppelse  f ao sz t ao p eh l s ax
+forstrekning  f ao sz t r eh k n ih ng
+forstuet  f ao sz t uh ax t
+forstumme  f ao sz t uh m ax
+forstyrre  f ao sz t ue r ax
+forstørre  f ao sz t oe r ax
+forstå  f ao sz t oo
+forståelig  f ao sz t oo ax l ih
+forståelige  f ao sz t oo ax l ih ax
+forståeligere  f ao sz t oo ax l ih r ax
+forståeligst  f ao sz t oo ax l ih k s t
+forståeligste  f ao sz t oo ax l ih k s t ax
+forståelsesfull  f ao sz t oo ax l s ax s f uh l
+forsvare  f ao sz v aa r ax
+forsvarlig  f ao sz v aa l ih
+forsvarlige  f ao sz v aa l ih ax
+forsvarligere  f ao sz v aa l ih r ax
+forsvarligst  f ao sz v aa l ih k s t
+forsvarligste  f ao sz v aa l ih k s t ax
+forsvinne  f ao sz v ih n ax
+forsyne  f ao sz ueh n ax
+forsøk  f ao sz oeh k
+forsøke  f ao sz oeh k ax
+forsømme  f ao sz oe m ax
+forsørge  f ao sz oe r g ax
 fort  f uh t
 fortapt  f ao t aa p t
 fortau  f ao t aw
@@ -2418,7 +2418,7 @@ forutsigeligst  f ao r uh t s iy g ax l ih k s t
 forutsigeligste  f ao r uh t s iy g ax l ih k s t ax
 forvalte  f ao r v aa l t ax
 forvandle  f ao r v aa n l ax
-forveksle  f ao r v eh k S l ax
+forveksle  f ao r v eh k sz l ax
 forvelle  f ao r v eh l ax
 forvente  f ao r v eh n t ax
 forventningsfull  f ao r v eh n t n ih ng s f uh l
@@ -2430,7 +2430,7 @@ forvise  f ao r v iy s ax
 forvisse  f ao r v ih s ax
 forvitre  f ao r v ih t r ax
 forære  f ao r ae r ax
-forårsake  f ao r ao S aa k ax
+forårsake  f ao r ao sz aa k ax
 foss  f ao s
 fosse  f ao s ax
 fossil  f ao s iy l
@@ -2502,7 +2502,7 @@ fremragende  f r eh m r aa g ax n ax
 fremsette  f r eh m s eh t ax
 fremskreden  f r eh m s k r ee d ax n
 fremskritt  f r eh m s k r ih t
-fremskynde  f r eh m S ue n ax
+fremskynde  f r eh m sz ue n ax
 fremstille  f r eh m s t ih l ax
 fremstående  f r eh m s t oo ax n ax
 fremsynt  f r eh m s ueh n t
@@ -2590,7 +2590,7 @@ funn  f uh n
 fure  f uh r ax
 furte  f uh t ax
 furu  f uh r uh
-fusjonere  f uh S uh n ee r ax
+fusjonere  f uh sz uh n ee r ax
 fuske  f uh s k ax
 fyke  f ueh k ax
 fyldig  f ue l d ih
@@ -2605,12 +2605,12 @@ fyr  f ueh r
 fyre  f ueh r ax
 fyren  f ueh ue ng
 fyrer  f ueh r ax r
-fyrstelig  f ue S t ax l ih
-fyrstelige  f ue S t ax l ih ax
-fyrsteligere  f ue S t ax l ih r ax
-fyrsteligst  f ue S t ax l ih k s t
-fyrsteligste  f ue S t ax l ih k s t ax
-fyrstikk  f ueh S t ih k
+fyrstelig  f ue sz t ax l ih
+fyrstelige  f ue sz t ax l ih ax
+fyrsteligere  f ue sz t ax l ih r ax
+fyrsteligst  f ue sz t ax l ih k s t
+fyrsteligste  f ue sz t ax l ih k s t ax
+fyrstikk  f ueh sz t ih k
 fyrverkeri  f ueh r v ae r k ax r iy
 fysiologisk  f ue s ih uh l oo g ih s k
 fysisk  f ueh s ih s k
@@ -2631,13 +2631,13 @@ føn  f oeh n
 føne  f oeh n ax
 før  f oeh r
 føre  f oeh r ax
-først  f oe S t
-første  f oe S t ax
-første etasje  f oe S t ax eh t aa S ax
-første gir  f oe S t ax g iy r
-førstehjelp  f oe S t ax j eh l p
-førstehånds  f oe S t ax hh ao n s
-førsteklasses  f oe S t ax k l aa s ax s
+først  f oe sz t
+første  f oe sz t ax
+første etasje  f oe sz t ax eh t aa sz ax
+første gir  f oe sz t ax g iy r
+førstehjelp  f oe sz t ax j eh l p
+førstehånds  f oe sz t ax hh ao n s
+førsteklasses  f oe sz t ax k l aa s ax s
 førti  f oe t iy
 føye  f oe j ax
 føyelig  f oe j ax l ih
@@ -2705,14 +2705,14 @@ geistligste  g ay s t l ih k s t ax
 geit  j ay t
 geita  j ay t aa
 geitost  j ay t uh s t
-gelatin  S eh l aa t iy n
+gelatin  sz eh l aa t iy n
 gelb  g eh l p
 gemen  g ax m ee n
 generalisere  g eh n ax r aa l ih s ee r ax
-genere  S eh n ee r ax
-generell  S ax n ax r eh l
+genere  sz eh n ee r ax
+generell  sz ax n ax r eh l
 genetisk  g ax n ee t ih s k
-Genève  S eh n ee v
+Genève  sz eh n ee v
 genial  g ax n ih aa l
 genser  g eh n s ax r
 genseren  g eh n s ae ng
@@ -2723,11 +2723,11 @@ geologisk  g ax uh l oo g ih s k
 geometrisk  g ax uh m ee t r ih s k
 gerilja  g eh r ih l j aa
 gesims  g eh s ih m s
-geskjeftig  g ax S eh f t ih
-geskjeftige  g ax S eh f t ih ax
-geskjeftigere  g ax S eh f t ih r ax
-geskjeftigst  g ax S eh f t ih k s t
-geskjeftigste  g ax S eh f t ih k s t ax
+geskjeftig  g ax sz eh f t ih
+geskjeftige  g ax sz eh f t ih ax
+geskjeftigere  g ax sz eh f t ih r ax
+geskjeftigst  g ax sz eh f t ih k s t
+geskjeftigste  g ax sz eh f t ih k s t ax
 gestikulere  g eh s t ih k uh l ee r ax
 gevinst  g ee v ih n s t
 gewinnen  g ax v ih n ax n
@@ -2751,7 +2751,7 @@ gipse  j ih p s ax
 gir  g iy r
 gire  g iy r ax
 girkasse  g iy r k aa s ax
-giro  S iy r u
+giro  sz iy r u
 gisp  j ih s p
 gispe  j ih s p ax
 gissel  g ih s ax l
@@ -2841,7 +2841,7 @@ gledelige  g l ee d ax l ih ax
 gledeligere  g l ee d ax l ih r ax
 gledeligst  g l ee d ax l ih k s t
 gledeligste  g l ee d ax l ih k s t ax
-gledeshyl  g l ee d ax sh ueh l
+gledeshyl  g l ee d ax s h ueh l
 gledestrålende  g l ee d ax s t r oo l ax n ax
 glefse  g l eh f s ax
 glemme  g l eh m ax
@@ -2885,11 +2885,11 @@ godhjertet  g uu j ae t aa
 godkjenne  g uu xh eh n ax
 godlynt  g uu l ue n t
 gods  g uh s
-godslig  g uh S l ih
-godslige  g uh S l ih ax
-godsligere  g uh S l ih r ax
-godsligst  g uh S l ih k s t
-godsligste  g uh S l ih k s t ax
+godslig  g uh sz l ih
+godslige  g uh sz l ih ax
+godsligere  g uh sz l ih r ax
+godsligst  g uh sz l ih k s t
+godsligste  g uh sz l ih k s t ax
 godsvogn  g uh d s v ao ng n
 godt  g ao t
 godta  g uu t aa
@@ -2996,7 +2996,7 @@ grønne bønner  g r oe n ax b oe n ax r
 grønnlig  g r oe n l ih
 grønnsak  g r oe n s aa k
 grønske  g r oe n s k ax
-grønt forsikringskort  g r oe n t f ao S ih k r ih ng s k ao t
+grønt forsikringskort  g r oe n t f ao sz ih k r ih ng s k ao t
 grønt kort  g r oe n t k ao t
 grøsse  g r oe s ax
 grøtete  g r oeh t ax t ax
@@ -3060,7 +3060,7 @@ gøy  g oe j
 gøyal  g oe j aa l
 gå  g oo
 gå over  g ao oo v ax r
-gå på s k i  g oo p oo S iy
+gå på s k i  g oo p oo sz iy
 gå seg vill  g oo s ay v ih l
 gå vekk  g oo v eh k
 gåen  g oo ax n
@@ -3090,7 +3090,7 @@ halte  h aa l t ax
 halv  h aa l
 halvdel  h aa l d ee l
 halvere  h aa l v ee r ax
-halvpensjon  h aa l p aa ng S uu n
+halvpensjon  h aa l p aa ng sz uu n
 halvtørr  h aa l t oe r
 halvøy  h aa l oe j
 halvår  h aa l oo r
@@ -3141,8 +3141,8 @@ harmonisere  h aa r m uh n ih s ee r ax
 harmonisk  h aa r m uu n ih s k
 harpe  h aa r p ax
 harry  h aa r ih
-harselere  h aa S ax l ee r ax
-harsk  h aa S k
+harselere  h aa sz ax l ee r ax
+harsk  h aa sz k
 hasardiøs  h aa s aa d ih oeh s
 hassel  h aa s ax l
 hasselnøtt  h aa s ax l n oe t
@@ -3203,7 +3203,7 @@ helligere  h eh l ih r ax
 helligst  h eh l ih k s t
 helligste  h eh l ih k s t ax
 Helmer  h eh l m ax r
-helpensjon  h ee l p aa ng S uu n
+helpensjon  h ee l p aa ng sz uu n
 helse  h eh l s ax
 helseskadelig  h eh l s ax s k aa d l ih
 helseskadelige  h eh l s ax s k aa d l ih ax
@@ -3242,7 +3242,7 @@ hendigste  h eh n ih k s t ax
 henføre  h eh n f oeh r ax
 henge  h eh ng ax
 hengi  h eh n j iy
-hengslete  h eh ng S l ax t ax
+hengslete  h eh ng sz l ax t ax
 henlede  h eh n l ee d ax
 henlegge  h eh n l ay ax
 henne  h eh n ax
@@ -3278,16 +3278,16 @@ hermetisk  h ae r m ee t ih s k
 herre  h ae r ax
 herreløs  h ae r ax l oeh s
 herrer  h eh r ax r
-herse  h ae S ax
-herskapelig  h ae S k aa p ax l ih
-herskapelige  h ae S k aa p ax l ih ax
-herskapeligere  h ae S k aa p ax l ih r ax
-herskapeligst  h ae S k aa p ax l ih k s t
-herskapeligste  h ae S k aa p ax l ih k s t ax
-herske  h ae S k ax
+herse  h ae sz ax
+herskapelig  h ae sz k aa p ax l ih
+herskapelige  h ae sz k aa p ax l ih ax
+herskapeligere  h ae sz k aa p ax l ih r ax
+herskapeligst  h ae sz k aa p ax l ih k s t
+herskapeligste  h ae sz k aa p ax l ih k s t ax
+herske  h ae sz k ax
 hes  h ee s
 heseblesende  h ee s ax b l ee s ax n ax
-hesje  h eh S ax
+hesje  h eh sz ax
 hest  h eh s t
 hesten  h eh s t ax n
 hestesko  h eh s t ax s k uu
@@ -3353,7 +3353,7 @@ hjemreise  j eh m r ay s ax
 hjemsted  j eh m s t ee
 hjerne  j ae ng ax
 hjernerystelse  j ae ng ax r ue s t ax l s ax
-hjerneslag  j ae ng ax S l aa g
+hjerneslag  j ae ng ax sz l aa g
 hjernevaske  j ae ng ax v aa s k ax
 hjerte  j ae t ax
 hjerteanfall  j ae t ax aa n f aa l
@@ -3364,7 +3364,7 @@ hjerteligst  j ae t ax l ih k s t
 hjerteligste  j ae t ax l ih k s t ax
 hjerteløs  j ae t ax l oeh s
 hjertens  j ae t ax n s
-hjerteskjærende  j ae t ax S ae r ax n ax
+hjerteskjærende  j ae t ax sz ae r ax n ax
 hjul  j uh l
 hjulbent  j uu l b ee n t
 hjørne  j oeh ng ax
@@ -3394,7 +3394,7 @@ horribel  h ao r iy b ax l
 hos  h uh s
 hoste  h uh s t ax
 hostesaft  h uh s t ax s aa f t
-hotellgarasje  h uu t eh l g aa r aa S ax
+hotellgarasje  h uu t eh l g aa r aa sz ax
 hovedgate  h uu v ax d g aa t ax
 hovedrett  h uu v ax d r eh t
 hovedrolle  h uu v eh d r ao l ax
@@ -3449,7 +3449,7 @@ husdyr  h uh s d ue r
 huse  h uh s ax
 huseier  h uh s ay ax r
 huset  h uh s ax
-husholdningsartikler  h uh sh ao l d n ih ng s aa t ih k l ax r
+husholdningsartikler  h uh s h ao l d n ih ng s aa t ih k l ax r
 huske  h uh s k ax
 husly  h uh s l ueh
 husnummer  h uh s n uh m ax r
@@ -3464,11 +3464,11 @@ hver  v ae r
 hver dag  v ae d aa g
 hver t ime  v ae t iy m ax
 hver uke  v ae r uh k ax
-hverdagslig  v ae d aa k S l ih
-hverdagslige  v ae d aa k S l ih ax
-hverdagsligere  v ae d aa k S l ih r ax
-hverdagsligst  v ae d aa k S l ih k s t
-hverdagsligste  v ae d aa k S l ih k s t ax
+hverdagslig  v ae d aa k sz l ih
+hverdagslige  v ae d aa k sz l ih ax
+hverdagsligere  v ae d aa k sz l ih r ax
+hverdagsligst  v ae d aa k sz l ih k s t
+hverdagsligste  v ae d aa k sz l ih k s t ax
 hvese  v ee s ax
 hvete  v ee t ax
 hvile  v iy l ax
@@ -3488,7 +3488,7 @@ hyggeligere  h ue g ax l ih r ax
 hyggeligst  h ue g ax l ih k s t
 hyggeligste  h ue g ax l ih k s t ax
 hygienisk  h ue g ih ee n ih s k
-hyklersk  h ue k l ax S k
+hyklersk  h ue k l ax sz k
 hyl  h ueh l
 hyle  h ueh l ax
 hylle  h ue l ax
@@ -3506,7 +3506,7 @@ hyppigere  h ue p ih r ax
 hyppigst  h ue p ih k s t
 hyppigste  h ue p ih k s t ax
 hyre  h ueh r ax
-hysje  h ue S ax
+hysje  h ue sz ax
 hysterisk  h ue s t ee r ih s k
 hytta  h ue t aa
 hytte  h ue t ax
@@ -3520,8 +3520,8 @@ høfligste  h oe f l ih k s t ax
 hølje  h oe l j ax
 høre  h oeh r ax
 høre på en  h oeh r ax p ao ee n
-hørsel  h oe S ax l
-hørselskadet  h oe S ax l s k aa d ax t
+hørsel  h oe sz ax l
+hørselskadet  h oe sz ax l s k aa d ax t
 hørt  h oe t
 hørte  h oe t ax
 høst  h oe s t
@@ -3583,7 +3583,7 @@ håpløs  h oo p l oeh s
 hår  h oo r
 hårete  h oo r ax t ax
 hårfin  h oo r f iy n
-hårgele  h oo S eh l ee
+hårgele  h oo sz eh l ee
 hårreisende  h oo r ay s ax n ax
 håve  h oo v ax
 i  ih
@@ -3597,7 +3597,7 @@ i morgen kveld  ih m oo ng k v eh l
 i morgen t idlig  ih m oo ng t iy d l ih
 i overmorgen  ih oo v ax r m oo ax ng
 i rett t id  ih r eh t t iy
-i s lekt  ih S l eh k t
+i s lekt  ih sz l eh k t
 i s t edet for  ih s t ee d ax f ao r
 i s tykker  ih s t ue k ax r
 i t illegg  ih t ih l eh g
@@ -3648,7 +3648,7 @@ implisere  ih m p l ih s ee r ax
 imponere  ih m p uh n ee r ax
 importere  ih m p ao t ee r ax
 impregnere  ih m p r ax g n ee r ax
-impresjonisme  ih m p r eh S uh n ih s m ax
+impresjonisme  ih m p r eh sz uh n ih s m ax
 improvisere  ih m p r uh v ih s ee r ax
 impulsiv  ih m p uh l s iy v
 imøtegå  ih m oeh t ax g oo
@@ -3668,19 +3668,19 @@ indre  ih n d r ax
 industriell  ih n uh s t r ih eh l
 ineffektiv  ih n eh f ax k t iy v
 infam  ih n f aa m
-infeksjon  ih n f eh k S uu n
+infeksjon  ih n f eh k sz uu n
 inferno  ih n f ae ng u
 infiltrere  ih n f ih l t r ee r ax
 infisere  ih n f ih s ee r ax
-informasjon  ih n f ao r m aa S uu n
+informasjon  ih n f ao r m aa sz uu n
 informativ  ih n f ao r m aa t iy v
 informere  ih n f ao r m ee r ax
 informere seg  ih n f ao m eh r ax s ay
 informieren  ih n f ao r m iy r ax n
-infusjon  ih n f uh S uu n
+infusjon  ih n f uh sz uu n
 ingen  ih ng ax n
 ingen s t eder  ih ng ax n s t ee d ax r
-ingeniør  ih n S ax n j oeh r
+ingeniør  ih n sz ax n j oeh r
 ingenting  ih ng ax n t ih ng
 inhabil  ih n h aa b iy l
 inhalere  ih n h aa l ee r ax
@@ -3711,13 +3711,13 @@ innebære  ih n ax b ae r ax
 inneha  ih n ax hh aa
 inneholde  ih n ax hh ao l ax
 innen  ih n ax n
-innendørs  ih n ax n oeh S
+innendørs  ih n ax n oeh sz
 innenfor  ih n ax n f ao r
 innenriks  ih n ax n r ih k s
 innenriksfly  ih n ax n r ih k s f l ueh
 innertak  ih n ax t aa k
-inneslutta  ih n ax S l uh t ax t
-innesluttet  ih n ax S l uh t ax t
+inneslutta  ih n ax sz l uh t ax t
+innesluttet  ih n ax sz l uh t ax t
 inneværende  ih n ax v ae r ax n ax
 innfinne  ih n f ih n ax
 innflytelse  ih n f l ueh t ax l s ax
@@ -3728,7 +3728,7 @@ innfri  ih n f r iy
 innfødt  ih n f oe t
 innføre  ih n f oeh r ax
 innføring  ih m f oeh r ih ng
-innførsel  ih m f oe S ax l
+innførsel  ih m f oe sz ax l
 inngang  ih ng aa ng
 inngangsbillett  ih ng aa ng s b ih l eh t
 inngangspenger  ih ng aa ng s p eh ng ax r
@@ -3742,7 +3742,7 @@ innholdsløs  ih n h ao l s l oeh s
 innholdsrik  ih n h ao l s r iy k
 innkalle  ih n k aa l ax
 innkassere  ih n k aa s ee r ax
-innkjørsel  ih n xh oe S ax l
+innkjørsel  ih n xh oe sz ax l
 innkvartere  ih n k v aa t ee r ax
 innlate  ih n l aa t ax
 innlede  ih n l ee d ax
@@ -3754,15 +3754,15 @@ innmari  ih n m aa r ih
 innordne  ih n ao d n ax
 innpakning  ih n p aa k n ih ng
 innprente  ih n p r eh n t ax
-innpåsliten  ih n p ao S l iy t ax n
+innpåsliten  ih n p ao sz l iy t ax n
 innrede  ih n r ee d ax
 innreise  ih n r ay s ax
 innrette  ih n r eh t ax
 innrømme  ih n r oe m ax
 innse  ih n s ee
-innsjekking  ih n S eh k ih ng
-innsjø  ih n S oeh
-innskjerpe  ih n S ae r p ax
+innsjekking  ih n sz eh k ih ng
+innsjø  ih n sz oeh
+innskjerpe  ih n sz ae r p ax
 innskrenke  ih n s k r eh n k ax
 innskrift  ih n s k r ih f t
 innsmigre  ih n s m ih g r ax
@@ -3813,8 +3813,8 @@ interessere seg for  ih n t ax r eh s ee r ax s ay f ao r
 interessieren  ih n t ax r eh s iy r ax n
 interiør  ih n t ax r ih oeh r
 intern  ih n t ae ng
-internasjonal  ih n t ax ng aa S uh n aa l
-internasjonalisere  ih n t ax ng aa S uh n aa l ih s ee r ax
+internasjonal  ih n t ax ng aa sz uh n aa l
+internasjonalisere  ih n t ax ng aa sz uh n aa l ih s ee r ax
 interrail  ih n t ax r ay l
 intervenere  ih n t ax r v ax n ee r ax
 intervjue  ih n t ax r v j uh ax
@@ -3827,7 +3827,7 @@ intuitiv  ih n t uh ih t iy v
 invadere  ih n v aa d ee r ax
 invalid  ih n v aa l iy d
 investere  ih n v ax s t ee r ax
-invitasjon  ih n v ih t aa S uu n
+invitasjon  ih n v ih t aa sz uu n
 invitere  ih n v ih t ee r ax
 involvere  ih n v ao l v ee r ax
 irakisk  ih r aa k ih s k
@@ -3835,16 +3835,16 @@ iransk  ih r aa n s k
 ire  iy r ax
 irettesette  ih r eh t ax s eh t ax
 ironisk  ih r uu n ih s k
-irrasjonell  ih r aa S uh n ax l
+irrasjonell  ih r aa sz uh n ax l
 irre  ih r ax
 irrelevant  ih r ax l ax v aa n t
 irritabel  ih r ih t aa b ax l
 irritere  ih r ih t ee r ax
-irsk  iy S k
+irsk  iy sz k
 is  iy s
 iscenesette  ih s ee n ax s eh t ax
 iscenesettelse  ih s ee n ax s eh t eh l s ax
-ishockey  iy sh ao k iy
+ishockey  iy s h ao k iy
 iskald  iy s k aa l
 iskrem  iy s k r ee m
 islamsk  ih s l aa m s k
@@ -3879,7 +3879,7 @@ jekke  j eh k ax
 jenke  j eh ng k ax
 jenta  j eh n t aa
 jente  j eh n t ax
-jernbanestasjon  j ae ng b aa n ax s t aa S uu n
+jernbanestasjon  j ae ng b aa n ax s t aa sz uu n
 jevn  j eh v ax n
 jevne  j eh v n ax
 jevnføre  j aa m f oeh r ax
@@ -3899,8 +3899,8 @@ jorde  j uu r ax
 jordisk  j uh d ih s k
 jordnær  j uu ng ae r
 jorte  j ao t ax
-journalføre  S uh ng aa l f oeh r ax
-journalist  S uh ng aa l ih s t
+journalføre  sz uh ng aa l f oeh r ax
+journalist  sz uh ng aa l ih s t
 jovial  j uh v ih aa l
 jubel  j uh b ax l
 jubilere  j uh b ih l ee r ax
@@ -3951,18 +3951,18 @@ kalibrere  k aa l ih b r ee r ax
 kalk  k aa l k
 kalkulere  k aa l k uh l ee r ax
 kalle  k aa l ax
-kalosje  k aa l ao S ax
+kalosje  k aa l ao sz ax
 kalv  k aa l v
 kalvbent  k aa l v b ee n t
 kalve  k aa l v ax
 kam  k aa m
 kamel  k aa m ee l
 kamerat  k aa m ax r aa t
-kameratslig  k aa m ax r aa t S l ih
-kameratslige  k aa m ax r aa t S l ih ax
-kameratsligere  k aa m ax r aa t S l ih r ax
-kameratsligst  k aa m ax r aa t S l ih k s t
-kameratsligste  k aa m ax r aa t S l ih k s t ax
+kameratslig  k aa m ax r aa t sz l ih
+kameratslige  k aa m ax r aa t sz l ih ax
+kameratsligere  k aa m ax r aa t sz l ih r ax
+kameratsligst  k aa m ax r aa t sz l ih k s t
+kameratsligste  k aa m ax r aa t sz l ih k s t ax
 kamfer  k aa m f ax r
 kamillete  k aa m ih l ax t ee
 kamme  k aa m ax
@@ -3977,7 +3977,7 @@ kano  k aa n u
 kanon  k aa n ao n
 kanonisk  k aa n uu n ih s k
 kansellere  k aa n s ax l ee r ax
-kanskje  k aa ng S ax
+kanskje  k aa ng sz ax
 kant  k aa n t
 kantre  k aa n t r ax
 kaotisk  k aa uu t ih s k
@@ -4025,7 +4025,7 @@ kategorisk  k aa t ax g uu r ih s k
 katolsk  k aa t uu l s k
 katt  k aa t
 katte  k aa t ax
-kausjonere  k aw S uh n ee r ax
+kausjonere  k aw sz uh n ee r ax
 kave  k aa v ax
 keiser  k ay s ax r
 keiserinne  xh ay s ax r ih n ax
@@ -4055,12 +4055,12 @@ kinkigere  xh ih ng k ih r ax
 kinkigst  xh ih ng k ih k s t
 kinkigste  xh ih ng k ih k s t ax
 kinn  xh ih n
-kinnskjegg  xh ih n S ae g
+kinnskjegg  xh ih n sz ae g
 kino  xh iy n u
 kirke  xh ih r k ax
 kirkegård  xh ih r k ax g oo r
 kirketårn  xh ih r k ax t oo ng
-kirsebær  xh ih S ax b ae r
+kirsebær  xh ih sz ax b ae r
 kirurg  xh ih r uh r g
 kirurgisk  xh ih r uh r g ih s k
 kiste  xh ih s t ax
@@ -4131,11 +4131,11 @@ kjøligste  xh oeh l ih k s t ax
 kjønnsmoden  xh oe n s m uu d ax n
 kjøpe  xh oeh p ax
 kjøpmann  xh oeh p m aa n
-kjøpslå  xh oeh p S l oo
+kjøpslå  xh oeh p sz l oo
 kjøre  xh oeh r ax
 kjøre forbi  xh oeh r ax f ao r b iy
 kjører  xh oeh r ax r
-kjørsel  xh oe S ax l
+kjørsel  xh oe sz ax l
 kjøtt  xh oe t
 kjøttdeig  xh oe t d ay
 kladde  k l aa d ax
@@ -4183,7 +4183,7 @@ klem  k l eh m
 klemme  k l eh m ax
 klenge  k l eh ng ax
 kleptoman  k l ax p t uh m aa n
-kleshenger  k l ee sh eh ng ax r
+kleshenger  k l ee s h eh ng ax r
 klikke  k l ih k ax
 klima  k l iy m aa
 klimatisk  k l ih m aa t ih s k
@@ -4301,7 +4301,7 @@ komme t il s kade  k ao m ax t ih l s k aa d ax
 kommen  k ao m ax n
 kommentere  k uh m ax n t ee r ax
 kommer  k ao m ax r
-kommersiell  k uh m ae S ih eh l
+kommersiell  k uh m ae sz ih eh l
 kommunal  k uh m uh n aa l
 kommunisere  k uh m uh n ih s ee r ax
 kompakt  k uh m p aa k t
@@ -4348,7 +4348,7 @@ konkurransedyktige  k uh n k uh r aa ng s ax d ue k t ih ax
 konkurransedyktigere  k uh n k uh r aa ng s ax d ue k t ih r ax
 konkurransedyktigst  k uh n k uh r aa ng s ax d ue k t ih k s t
 konkurransedyktigste  k uh n k uh r aa ng s ax d ue k t ih k s t ax
-konkurs  k uh ng k uh S
+konkurs  k uh ng k uh sz
 Konrad  k ao n r aa d
 konsekvent  k uh n s ax k v eh n t
 konsentrere  k uh n s ax n t r ee r ax
@@ -4360,7 +4360,7 @@ konsolidere  k uh n s uh l ih d ee r ax
 konstant  k uh n s t aa n t
 konstatere  k uh n s t aa t ee r ax
 konstituere  k uh n s t ih t uh ee r ax
-konstitusjonell  k uh n s t ih t uh S uh n eh l
+konstitusjonell  k uh n s t ih t uh sz uh n eh l
 konstruere  k uh n s t r uh ee r ax
 konstruktiv  k uh n s t r uh k t iy v
 konsulat  k uh n s uh l aa t
@@ -4384,10 +4384,10 @@ kontrakt  k uh n t r aa k t
 kontrollere  k uh n t r ao l ee r ax
 kontrollieren  k ao n t r ao l iy r ax n
 kontrollør  k uh n t r uh l oeh r
-kontroversiell  k uh n t r uh v ae S ih j eh l
+kontroversiell  k uh n t r uh v ae sz ih j eh l
 konveks  k ao n v eh k s
-konvensjonell  k ao n v ax n S uh n eh l
-konversere  k uh n v ae S ee r ax
+konvensjonell  k ao n v ax n sz uh n eh l
+konversere  k uh n v ae sz ee r ax
 konvertere  k uh n v ae t ee r ax
 konvolutt  k ao n v ao l uh t
 koordinere  k uh ao d ih n ee r ax
@@ -4403,9 +4403,9 @@ korpulent  k ao r p uh l eh n t
 korrekt  k uh r eh k t
 korrigere  k uh r ih g ee r ax
 korrupt  k uh r uh p t
-kors  k ao S
-korsfeste  k ao S f eh s t ax
-korsgang  k ao S g aa ng
+kors  k ao sz
+korsfeste  k ao sz f eh s t ax
+korsgang  k ao sz g aa ng
 kort  k ao t
 korte  k ao t ax
 korterma  k ao t ae r m ax t
@@ -4413,7 +4413,7 @@ kortermet  k ao t ae r m ax t
 kortfatta  k ao t f aa t ax t
 kortfattet  k ao t f aa t ax t
 kortfilm  k ao t f ih l m
-kortslutning  k uh t S l uh t n ih ng
+kortslutning  k uh t sz l uh t n ih ng
 korttenkt  k ao t t eh ng t
 kortvarig  k ao t v aa r ih
 kortvarige  k ao t v aa r ih ax
@@ -4423,11 +4423,11 @@ kortvarigste  k ao t v aa r ih k s t ax
 kortvokst  k ao t v ao k s t
 kos  k uu s
 kose  k uu s ax
-koselig  k uu S l ih
-koselige  k uu S l ih ax
-koseligere  k uu S l ih r ax
-koseligst  k uu S l ih k s t
-koseligste  k uu S l ih k s t ax
+koselig  k uu sz l ih
+koselige  k uu sz l ih ax
+koseligere  k uu sz l ih r ax
+koseligst  k uu sz l ih k s t
+koseligste  k uu sz l ih k s t ax
 kosmetisk  k uh s m ee t ih s k
 kost  k ao s t
 kostbar  k ao s t b aa r
@@ -4459,7 +4459,7 @@ krangel  k r aa ng ax l
 krangle  k r aa ng l ax
 kranglete  k r aa ng l ax t ax
 krapp  k r aa p
-krasje  k r ae S ax
+krasje  k r ae sz ax
 krass  k r aa s
 kravle  k r aa v l ax
 kravstor  k r aa v s t uu r
@@ -4513,11 +4513,11 @@ kronologisk  k r uh n uh l oo g ih s k
 kronprins  k r uu n p r ih n s
 kropp  k r ao p
 kroppsbygging  k r ao p s b ueh g ih ng
-kroppslig  k r ao p S l ih
-kroppslige  k r ao p S l ih ax
-kroppsligere  k r ao p S l ih r ax
-kroppsligst  k r ao p S l ih k s t
-kroppsligste  k r ao p S l ih k s t ax
+kroppslig  k r ao p sz l ih
+kroppslige  k r ao p sz l ih ax
+kroppsligere  k r ao p sz l ih r ax
+kroppsligst  k r ao p sz l ih k s t
+kroppsligste  k r ao p sz l ih k s t ax
 krum  k r uh m
 kry  k r ueh
 krydder  k r ue d ax r
@@ -4572,8 +4572,8 @@ kuppel  k uh p ax l
 kurant  k uh r aa n t
 kurere  k uh r ee r ax
 kuriøs  k uh r ih oeh s
-kurs  k uh S
-kursiv  k uh S iy v
+kurs  k uh sz
+kursiv  k uh sz iy v
 kurtisere  k uh t ih s ee r ax
 kurv  k uh r v
 kurve  k uh r v ax
@@ -4773,7 +4773,7 @@ leken  l ee k ax n
 leker  l ee k ax r
 leketøy  l ee k ax t oe j
 lekk  l eh k
-lekkasje  l ax k aa S ax
+lekkasje  l ax k aa sz ax
 lekke  l eh k ax
 lekker  l eh k ax r
 lekse  l eh k s ax
@@ -4835,7 +4835,7 @@ lidenskapeligere  l ih d ax n s k aa p ax l ih r ax
 lidenskapeligst  l ih d ax n s k aa p ax l ih k s t
 lidenskapeligste  l ih d ax n s k aa p ax l ih k s t ax
 lieb  l iy p
-liechtensteinsk  l ih xh t ax n S t ay n s k
+liechtensteinsk  l ih xh t ax n sz t ay n s k
 ligge  l ih g ax
 liggevogn  l ih g ax v ao ng
 ligne  l ih ng n ax
@@ -4935,8 +4935,8 @@ lommekjent  l uh m ax xh eh n t
 loppe  l ao p ax
 loppemarked  l ao p ax m aa r k eh d
 lose  l uu s ax
-losje  l uu S ax
-loslitt  l uu S l ih t
+losje  l uu sz ax
+loslitt  l uu sz l ih t
 losse  l ao s ax
 Louis  l uh ih s
 lov  l oo v
@@ -4984,7 +4984,7 @@ lunefull  l uh n ax f uh l
 lunge  l uh ng ax
 lungebetennelse  l uh ng ax b eh t eh n eh l s ax
 lunken  l uh ng k ax n
-lunsj  l oe n S
+lunsj  l oe n sz
 lunte  l uh n t ax
 lur  l uh r
 lure  l uh r ax
@@ -5017,7 +5017,7 @@ lykkeønskning  l ue k oe n s k n ih ng
 lyn  l ueh n
 lyne  l ueh n ax
 Lyngen  l ue ng n
-lynsje  l ue n S ax
+lynsje  l ue n sz ax
 lys  l ueh s
 lysbryter  l ueh s b r ueh t ax r
 lyse  l ueh s ax
@@ -5027,7 +5027,7 @@ lyske  l ue s k ax
 lyskebrokk  l ue s k ax b r ao k
 lysmåler  l ue s m oo l ax r
 lyspære  l ueh s p ae r ax
-lyssky  l ueh s S ueh
+lyssky  l ueh s sz ueh
 lyst  l ue s t
 lystbetont  l ue s t b ax t uu n t
 lysten  l ue s t ax n
@@ -5065,7 +5065,7 @@ løs  l oeh s
 løse  l oeh s ax
 løslate  l oeh s l aa t ax
 løsrive  l oeh s r iy v ax
-løssluppen  l oeh s S l uh p ax n
+løssluppen  l oeh s sz l uh p ax n
 løstenner  l oeh s t h eh n ax r
 løye  l oe j ax
 løype  l oe j p ax
@@ -5134,7 +5134,7 @@ mangfoldigere  m aa ng f ao l d ih r ax
 mangfoldigst  m aa ng f ao l d ih k s t
 mangfoldigste  m aa ng f ao l d ih k s t ax
 mangle  m aa ng l ax
-mangslungen  m aa ng S l uh ng ax n
+mangslungen  m aa ng sz l uh ng ax n
 manifest  m aa n ih f eh s t
 manipulere  m aa n ih p uh l ee r ax
 mann  m aa n
@@ -5160,17 +5160,17 @@ markedsføring  m aa r k ax d s f oeh r ih ng
 markere  m aa r k ee r ax
 markert  m aa r k ee t
 marokkansk  m aa r uh k aa n s k
-mars  m aa S
-marsjere  m aa S ee r ax
+mars  m aa sz
+marsjere  m aa sz ee r ax
 mas  m aa s
-masasje  m aa s aa S ax
+masasje  m aa s aa sz ax
 mascara  m aa s k aa r aa
 mase  m aa s ax
 masete  m aa s ax t ax
 maske  m aa s k ax
-maskin  m aa S iy n
-maskinell  m aa S ih n eh l
-maskingevær  m aa S iy ng ax v ae r
+maskin  m aa sz iy n
+maskinell  m aa sz ih n eh l
+maskingevær  m aa sz iy ng ax v ae r
 maskulin  m aa s k uh l iy n
 massakrere  m aa s aa k r ee r ax
 masse  m aa s ax
@@ -5207,11 +5207,11 @@ meditere  m ax d ih t ee r ax
 medium  m ee d ih uh m
 medlem  m ee d l ax m
 medlemskap  m ee d l ax m s k aa p
-medskyldig  m ee d S ue l d ih
-medskyldige  m ee d S ue l d ih ax
-medskyldigere  m ee d S ue l d ih r ax
-medskyldigst  m ee d S ue l d ih k s t
-medskyldigste  m ee d S ue l d ih k s t ax
+medskyldig  m ee d sz ue l d ih
+medskyldige  m ee d sz ue l d ih ax
+medskyldigere  m ee d sz ue l d ih r ax
+medskyldigst  m ee d sz ue l d ih k s t
+medskyldigste  m ee d sz ue l d ih k s t ax
 medvirke  m ee d v ih r k ax
 meg  m ae iy
 megle  m eh g l ax
@@ -5247,7 +5247,7 @@ menneskeligere  m eh n ax s k ax l ih r ax
 menneskeligst  m eh n ax s k ax l ih k s t
 menneskeligste  m eh n ax s k ax l ih k s t ax
 mens  m eh n s
-menstruasjon  m eh n s t r uh aa S uu n
+menstruasjon  m eh n s t r uh aa sz uu n
 mental  m ax n t aa l
 meny  m eh n ueh
 mer  m ee r
@@ -5342,8 +5342,8 @@ minutt  m ih n uh t
 mirakuløs  m ih r aa k uh l oeh s
 misbruke  m ih s b r uh k ax
 misfornøyd  m ih s f ao ng oe j d
-misforstå  m ih s f ao S t oo
-mishandle  m ih sh aa n l ax
+misforstå  m ih s f ao sz t oo
+mishandle  m ih s h aa n l ax
 mislike  m ih s l iy k ax
 mislykka  m ih s l ue k aa
 mislykkes  m ih s l ue k ax s
@@ -5401,10 +5401,10 @@ more seg  m uu r ax s ae iy
 morgen  m oo ao ng
 morken  m ao r k ax n
 moro  m uh r u
-morsk  m uh S k
-morsom  m uh S ao m
+morsk  m uh sz k
+morsom  m uh sz ao m
 mose  m uu s ax
-mosjonere  m uh S uh n ee r ax
+mosjonere  m uh sz uh n ee r ax
 mot  m uu t
 motarbeide  m uu t aa r b ay d ax
 motbevise  m uu t b ax v iy s ax
@@ -5425,7 +5425,7 @@ motivere  m uh t ih v ee r ax
 motløs  m uu t l oeh s
 motor  m uh t uu r
 motoren  m uh t uu uh ng
-motorsykkel  m uu t uh S ue k ax l
+motorsykkel  m uu t uh sz ue k ax l
 motorvei  m uu t uh r v ae iy
 motorvei klasse B  m uu t uh r v ay k l aa s ax b ee
 motsatt  m uu t s aa t
@@ -5481,7 +5481,7 @@ muskulær  m uh s k uh l ae r
 muskuløs  m uh s k uh l oeh s
 musli  m uh s l iy
 muslimsk  m uh k f iy m s k
-musling  m uh S l ih ng
+musling  m uh sz l ih ng
 mye  m ueh ax
 mygg  m ue g
 myk  m ueh k
@@ -5559,10 +5559,10 @@ narkose  n aa r k uu s ax
 narr  n aa r
 narre  n aa r ax
 narren  n aa ng
-nasjonal  n aa S uh n aa l
-nasjonalitet  n aa S uh n aa l ih t ee t
-nasjonalitetstegn  n aa S uh n aa l ih t ee t s t ay n
-nasjonalpark  n aa S uh n aa l p aa r k
+nasjonal  n aa sz uh n aa l
+nasjonalitet  n aa sz uh n aa l ih t ee t
+nasjonalitetstegn  n aa sz uh n aa l ih t ee t s t ay n
+nasjonalpark  n aa sz uh n aa l p aa r k
 naske  n aa s k ax
 natt  n aa t
 nattbord  n aa t b uu r
@@ -5594,13 +5594,13 @@ nedlate  n ee d l aa t ax
 nedlatende  n ee d l aa t ax n ax
 nedsette  n ee d s eh t ax
 nedsettende  n ee d s eh t ax n ax
-nedslående  n ee d S l oo ax n ax
+nedslående  n ee d sz l oo ax n ax
 nedstemme  n ee d s t eh m ax
 nedstemt  n ee d s t eh m t
 nedtrykt  n ee d t r ue k t
 nedverdige  n ee d v ae d ih g ax
 negativ  n ee g aa t ih v
-neglisjere  n ax g l ih S ee r ax
+neglisjere  n ax g l ih sz ee r ax
 nei  n ay
 neie  n ay ax
 nekte  n eh k t ax
@@ -5612,7 +5612,7 @@ nervøs  n ae r v oeh s
 nese  n ee s ax
 nesebor  n ee s ax b uu r
 nesevis  n ee s ax v iy s
-neshorn  n ee sh uu ng
+neshorn  n ee s h uu ng
 neste  n eh s t ax
 neste år  n eh s t ax oo r
 nesten  n eh s t ax n
@@ -5647,7 +5647,7 @@ normalisere  n uh r m aa l ih s ee r ax
 normalt  n uh r m aa l t
 normere  n ao r m ee r ax
 norrøn  n uh r oe n
-norsk  n ao S k
+norsk  n ao sz k
 nostalgisk  n uh s t aa l g ih s k
 notere  n uh t ee r ax
 notorisk  n uh t uu r ih s k
@@ -5657,7 +5657,7 @@ null  n uh l
 nulle  n uh l ax
 nummer  n uh m ax r
 nummerere  n uh m ax r ee r ax
-nummerskilt  n uh m ax S ih l t
+nummerskilt  n uh m ax sz ih l t
 ny  n ueh
 nyansere  n ue aa ng s ee r ax
 nybakt  n ueh b aa k t
@@ -5674,18 +5674,18 @@ nyligere  n ueh l ih r ax
 nyligst  n ueh l ih k s t
 nyligste  n ueh l ih k s t ax
 nynne  n ue n ax
-nynorsk  n ueh n ao S k
+nynorsk  n ueh n ao sz k
 nype  n ueh p ax
 nyre  n ueh r ax
 nyrebelte  n ueh r ax b eh l t ax
 nyrebetennelse  n ueh r ax b eh t eh n eh l s ax
 nyrestein  n ueh r ax s t ay n
 nyse  n ueh s ax
-nysgjerrig  n ue S ae r ih
-nysgjerrige  n ue S ae r ih ax
-nysgjerrigere  n ue S ae r ih r ax
-nysgjerrigst  n ue S ae r ih k s t
-nysgjerrigste  n ue S ae r ih k s t ax
+nysgjerrig  n ue sz ae r ih
+nysgjerrige  n ue sz ae r ih ax
+nysgjerrigere  n ue sz ae r ih r ax
+nysgjerrigst  n ue sz ae r ih k s t
+nysgjerrigste  n ue sz ae r ih k s t ax
 nyss  n ue s
 nyte  n ueh t ax
 nytte  n ue t ax
@@ -5702,7 +5702,7 @@ næring  n ae r ih ng
 næringsrik  n ae r ih ng s r iy k
 nærliggende  n ae l ih g ax n ax
 nærme  n ae r m ax
-nærsynt  n ae S ueh n t
+nærsynt  n ae sz ueh n t
 nærtagende  n ae t aa g ax n ax
 nødsfall  n oeh d s f aa l
 nødt  n oe t
@@ -5817,7 +5817,7 @@ ondskapsfull  uh n s k aa p s f uh l
 onkel  uh ng k ax l
 onsdag  uh n s d aa g
 opera  uu p ax r aa
-operasjon  uh p ax r aa S uu n
+operasjon  uh p ax r aa sz uu n
 operativ  ao p ax r aa t iy v
 operere  ao p ax r ee r ax
 operette  uh p ax r eh t ax
@@ -5886,7 +5886,7 @@ opptatt  ao p t aa t
 opptre  ao p t r ee
 oppvakt  ao p v aa k t
 oppvarte  ao p v aa t ax
-oppvaskbørste  ao p v aa s k b oe S t ax
+oppvaskbørste  ao p v aa s k b oe sz t ax
 oppvaskklut  ao p v aa s k l uh t
 oppvaskkum  ao p v aa s k uh m
 oppvaskmiddel  ao p v aa s k m ih d ax l
@@ -5894,8 +5894,8 @@ optiker  ao p t ih k ax r
 optimal  ao p t ih m aa l
 optimistisk  ao p t ih m ih s t ih s k
 optisk  ao p t ih s k
-orange  ao r aa ng S ax
-oransje  uh r aa n S
+orange  ao r aa ng sz ax
+oransje  uh r aa n sz
 ord  uu r
 ordbok  uu r b uu k
 orden  ao d ax n
@@ -5916,13 +5916,13 @@ organisk  ao r g aa n ih s k
 orgel  ao r g ax l
 orientere  ao r ih ax n t ee r ax
 original  ao r ih g ih n aa l
-originalversjon  ao r ih g ih n aa l v eh S uu n
+originalversjon  ao r ih g ih n aa l v eh sz uu n
 orke  ao r k ax
 orkester  ao r k eh s t ax r
 orm  ao r m
 ortodoks  ao t uh d ao k s
 ose  uu s ax
-Oslo  uh S l u
+Oslo  uh sz l u
 oss  ao s
 ost  uh s t
 oval  uh v aa l
@@ -5975,23 +5975,23 @@ overraske  oo v ax r aa s k ax
 overrasket  oo v ax r aa s k ax t
 overrekke  ao v ax r eh k ax
 overrumple  ao v ax r uh m p l ax
-overse  oo v ax S ee
-oversette  oo v ax S eh t ax
-oversettelse  oo v ax S eh t ax l s ax
-oversiktlig  oo v ax S ih k t l ih
-oversiktlige  oo v ax S ih k t l ih ax
-oversiktligere  oo v ax S ih k t l ih r ax
-oversiktligst  oo v ax S ih k t l ih k s t
-oversiktligste  oo v ax S ih k t l ih k s t ax
-overskride  oo v ax S k r iy d ax
-overskrift  oo v ax S k r ih f t
-overskuelig  oo v ax S k uh ax l ih
-overskuelige  oo v ax S k uh ax l ih ax
-overskueligere  oo v ax S k uh ax l ih r ax
-overskueligst  oo v ax S k uh ax l ih k s t
-overskueligste  oo v ax S k uh ax l ih k s t ax
-overskyet  oo v ax S ueh ax t
-overstige  oo v ax S t iy g ax
+overse  oo v ax sz ee
+oversette  oo v ax sz eh t ax
+oversettelse  oo v ax sz eh t ax l s ax
+oversiktlig  oo v ax sz ih k t l ih
+oversiktlige  oo v ax sz ih k t l ih ax
+oversiktligere  oo v ax sz ih k t l ih r ax
+oversiktligst  oo v ax sz ih k t l ih k s t
+oversiktligste  oo v ax sz ih k t l ih k s t ax
+overskride  oo v ax sz k r iy d ax
+overskrift  oo v ax sz k r ih f t
+overskuelig  oo v ax sz k uh ax l ih
+overskuelige  oo v ax sz k uh ax l ih ax
+overskueligere  oo v ax sz k uh ax l ih r ax
+overskueligst  oo v ax sz k uh ax l ih k s t
+overskueligste  oo v ax sz k uh ax l ih k s t ax
+overskyet  oo v ax sz ueh ax t
+overstige  oo v ax sz t iy g ax
 overta  oo v ax t aa
 overtale  oo v ax t aa l ax
 overtre  oo v ax t r ee
@@ -6050,7 +6050,7 @@ park  p aa r k
 parkere  p aa r k ee r ax
 parkeringslys  p aa r k ee r ih ng s l ueh s
 parkeringsplass  p aa r k ee r ih ng s p l aa s
-parkeringsplass for funksjonshemmede  p aa r k ee r ih ng s p l aa s f ao r f uh ng k S uu n sh eh m ax d ax
+parkeringsplass for funksjonshemmede  p aa r k ee r ih ng s p l aa s f ao r f uh ng k sz uu n s h eh m ax d ax
 parkett  p aa r k eh t
 parkometer  p aa r k uh m ee t ax r
 parodiere  p aa r uh d ih ee r ax
@@ -6059,7 +6059,7 @@ partisk  p aa t ih s k
 parykk  p aa r ue k
 pasient  p aa s ih eh n t
 pass  p aa s
-passasjer  p aa s aa S ee r
+passasjer  p aa s aa sz ee r
 passe  p aa s ax
 passé  p aa s ee
 passe på  p aa s ax p oo
@@ -6087,7 +6087,7 @@ pengepung  p eh ng ax p uh ng
 penger  p eh ng ax r
 pengeseddel  p eh ng ax s eh d ax l
 penn  p eh n
-pensjonat  p aa ng S uh n aa t
+pensjonat  p aa ng sz uh n aa t
 pensle  p eh n s l ax
 pepper  p eh p ax r
 pepre  p eh p r ax
@@ -6098,21 +6098,21 @@ permanent  p ae r m aa n eh n t
 permittere  p ae r m ih t ee r ax
 perpleks  p ae r p l eh k s
 perrong  p eh r ao ng
-persille  p eh S ih l ax
-persisk  p ae S ih s k
-person  p ae S uu n
-personalia  p eh S ao n aa l ih aa
-personlig  p ae S uu n l ih
-personlige  p ae S uu n l ih ax
-personligere  p ae S uu n l ih r ax
-personligst  p ae S uu n l ih k s t
-personligste  p ae S uu n l ih k s t ax
+persille  p eh sz ih l ax
+persisk  p ae sz ih s k
+person  p ae sz uu n
+personalia  p eh sz ao n aa l ih aa
+personlig  p ae sz uu n l ih
+personlige  p ae sz uu n l ih ax
+personligere  p ae sz uu n l ih r ax
+personligst  p ae sz uu n l ih k s t
+personligste  p ae sz uu n l ih k s t ax
 pertentlig  p ae t eh n t l ih
 pertentlige  p ae t eh n t l ih ax
 pertentligere  p ae t eh n t l ih r ax
 pertentligst  p ae t eh n t l ih k s t
 pertentligste  p ae t eh n t l ih k s t ax
-pervers  p ae r v ae S
+pervers  p ae r v ae sz
 pese  p ee s ax
 pessimistisk  p ax s ih m ih s t ih s k
 pianist  p ih aa n ih s t
@@ -6204,9 +6204,9 @@ pompøs  p uh m p oeh s
 pop  p ao p
 poppel  p ao p ax l
 populær  p uh p uh l ae r
-porselen  p uh S ax l ee n
-porsjon  p uh S uu n
-porsjonere  p uh S uh n ee r ax
+porselen  p uh sz ax l ee n
+porsjon  p uh sz uu n
+porsjonere  p uh sz uh n ee r ax
 port  p uh t
 portal  p uh t aa l
 portier  p uh t ih ee r
@@ -6247,10 +6247,10 @@ prekær  p r ax k ae r
 prelle  p r eh l ax
 premie  p r ee m ih ax
 premiere  p r ax m ih ae r ax
-preposisjon  p r ax p uh s ih S uu n
+preposisjon  p r ax p uh s ih sz uu n
 presang  p r ax s aa ng
 presentabel  p r ax s aa ng t aa b ax l
-presentasjon  p r eh s aa ng t aa S uu n
+presentasjon  p r eh s aa ng t aa sz uu n
 presentere  p r ax s aa ng t ee r ax
 presentere noen for noen  p r eh s aa ng t ee r ax n uu ax n f ao ng uu ax n
 presis  p r eh s iy s
@@ -6259,9 +6259,9 @@ presse  p r eh s ax
 presserende  p r eh s ee r ax n ax
 prest  p r eh s t
 prestere  p r ax s t ee r ax
-prestisjefylt  p r ax s t iy S ax f ue l t
+prestisjefylt  p r ax s t iy sz ax f ue l t
 pretensiøs  p r ax t aa ng s ih oeh s
-prevensjon  p r ee v ax n S uu n
+prevensjon  p r ee v ax n sz uu n
 preventiv  p r eh v aa ng t iy v
 prikke  p r ih k ax
 prima  p r iy m aa
@@ -6279,11 +6279,11 @@ prn jeg  j ae iy
 problem  p r uh b l ee m
 problematisk  p r uh b l ax m aa t ih s k
 problemer med blodomløpet  p r uh b l ee m ax r m ee b l uu uh m l oeh p ax
-produksjon  p r uh d uh k S uu n
+produksjon  p r uh d uh k sz uu n
 produkt  p r uh d uh k t
 produktiv  p r uh d uh k t iy v
 produsere  p r uh d uh s ee r ax
-profesjonell  p r uh f ax S uh n eh l
+profesjonell  p r uh f ax sz uh n eh l
 proff  p r uh f
 profittere  p r uh f ih t ee r ax
 program  p r uh g r aa m
@@ -6295,13 +6295,13 @@ promille  p r uh m ih l ax
 prominent  p r uh m ih n eh n t
 promotere  p r uh m uh t ee r ax
 prompe  p r uh m p ax
-proporsjonal  p r uh p uh S uh n aa l
+proporsjonal  p r uh p uh sz uh n aa l
 proppe  p r ao p ax
 prosaisk  p r uh s aa ih s k
 prosent  p r uh s eh n t
-prosesjon  p r uh s ax S uu n
+prosesjon  p r uh s ax sz uu n
 prosess  p r uh s eh s
-prosjektere  p r uh S eh k t ee r ax
+prosjektere  p r uh sz eh k t ee r ax
 prospektkort  p r uh s p eh k t k uh t
 prost  p r uu s t
 prostituere  p r uh s t ih t uh ee r ax
@@ -6342,7 +6342,7 @@ punktligste  p uh ng t l ih k s t ax
 pupp  p uh p
 purke  p uh r k ax
 purre  p uh r ax
-pusle  p uh S l ax
+pusle  p uh sz l ax
 pussa  p uh s aa
 pusse  p uh s ax
 pussig  p uh s ih
@@ -6364,7 +6364,7 @@ på baksiden  p ao b aa k s iy d ax n
 på denne t iden  p ao d eh n ax t iy d ax n
 på forhånd  p ao f ao r hh ao n
 på hverdager  p oo v ae d aa g ax r
-på norsk  p ao n ao S k
+på norsk  p ao n ao sz k
 påberope  p oo b ax r uu p ax
 påbud  p oo b uh d
 påby  p oo b ueh
@@ -6389,7 +6389,7 @@ påpasseligst  p ao p aa s ax l ih k s t
 påpasseligste  p ao p aa s ax l ih k s t ax
 påpeke  p oo p ee k ax
 påske  p oo s k ax
-påskynde  p oo S ue n ax
+påskynde  p oo sz ue n ax
 påstand  p oo s t aa n
 påstigningshjelp  p oo s t iy g n ih ng s j eh l p
 påstå  p oo s t oo
@@ -6403,7 +6403,7 @@ påvirke  p oo v ih r k ax
 påvise  p oo v iy s ax
 rabatt  r aa b aa t
 rable  r aa b l ax
-racersykkel  r ae s eh S ue k ax l
+racersykkel  r ae s eh sz ue k ax l
 racket  r ae k ax t
 rade  r oo d ax
 radering  r aa d ee r ih ng
@@ -6424,7 +6424,7 @@ ramponere  r aa m p uh n ee r ax
 rane  r aa n ax
 rang  r aa ng
 rangel  r aa ng ax l
-rangere  r aa ng S ee r ax
+rangere  r aa ng sz ee r ax
 rangle  r aa ng rx ax
 ransake  r aa n s aa k ax
 rapp  r ae p
@@ -6435,17 +6435,17 @@ rase  r aa s ax
 rasende  r aa s ax n ax
 rasere  r aa s ee r ax
 rasistisk  r aa s ih s t ih s k
-rasjonell  r aa S uh n eh l
+rasjonell  r aa sz uh n eh l
 rask  r aa s k
 raskt  r aa s k t
-rasle  r aa S l ax
+rasle  r aa sz l ax
 raspe  r aa s p ax
 rastløs  r aa s t l oeh s
 raus  r aw s
 raute  r aw t ax
 re  r ee
 reagere  r ax aa g ee r ax
-reaksjon  r ax aa k S uu n
+reaksjon  r ax aa k sz uu n
 real  r ee aa l
 realisere  r ax aa l ih s ee r ax
 realistisk  r ax aa l ih s t
@@ -6476,7 +6476,7 @@ regelmessige  r ee g ax l m eh s ih ax
 regelmessigere  r ee g ax l m eh s ih r ax
 regelmessigst  r ee g ax l m eh s ih k s t
 regelmessigste  r ee g ax l m eh s ih k s t ax
-regi  r eh S iy
+regi  r eh sz iy
 regional  r ax g ih uh n aa l
 registrere  r ax g ih s t r ee r ax
 regjere  r ax j ee r ax
@@ -6499,7 +6499,7 @@ reise t il  r ay s ax t ih l
 reisebyrå  r ay s ax b ue r oo
 reisehåndbok  r ay s ax hh ao n b uu k
 reiseselskap  r ay s ax s eh l s k aa p
-reisesjekk  r ay s ax S eh k
+reisesjekk  r ay s ax sz eh k
 reiseveske  r ay s ax v eh s k ax
 reke  r ee k ax
 reker  r eh k ax r
@@ -6519,17 +6519,17 @@ renovere  r ax n uh v ee r ax
 rense  r eh n s ax
 renseri  r eh n s ee r iy
 renske  r ax n s k ax
-renslig  r ee n S l ih
-renslige  r ee n S l ih ax
-rensligere  r ee n S l ih r ax
-rensligst  r ee n S l ih k s t
-rensligste  r ee n S l ih k s t ax
+renslig  r ee n sz l ih
+renslige  r ee n sz l ih ax
+rensligere  r ee n sz l ih r ax
+rensligst  r ee n sz l ih k s t
+rensligste  r ee n sz l ih k s t ax
 reparere  r eh p aa r ee r ax
 repetere  r ax p ax t ee r ax
 representativ  r ax p r ax s eh n t aa t iy v
 representere  r ax p r ax s ax n t ee r ax
 reprodusere  r ax p r uh d uh s ee r ax
-resepsjon  r eh s eh p S uu n
+resepsjon  r eh s eh p sz uu n
 resept  r eh s eh p t
 reserve  r eh s ae r v ax
 reservere  r eh s ae r v ee r ax
@@ -6545,9 +6545,9 @@ respektabel  r eh s p eh k t aa b ax l
 respektere  r eh s p eh k t ee r ax
 respektiv  r eh s p ax k t iy v
 respektløs  r eh s p eh k t l oeh s
-ressurs  r eh s uh S
-ressurssterk  r eh s uh S s t ae r k
-ressurssvak  r eh s uh S s v aa k
+ressurs  r eh s uh sz
+ressurssterk  r eh s uh sz s t ae r k
+ressurssvak  r eh s uh sz s v aa k
 rest  r eh s t
 restaurant  r eh s t uh r aa ng
 restaurantvogn  r eh s t aa uh r aa ng v ao ng n
@@ -6567,11 +6567,11 @@ rettferdigste  r eh t f ae d ih k s t ax
 rettssak  r eh t s aa k
 returbillett  r eh t uh r b ih l eh t
 returnere  r ax t uh ng ee r ax
-revers  r eh v ae S
+revers  r eh v ae sz
 revidere  r ax v ih d ee r ax
 revne  r eh v n ax
-revolusjon  r ax v uh l uh S uu n
-revolusjonere  r ax v uh l uh S uh n ee r ax
+revolusjon  r ax v uh l uh sz uu n
+revolusjonere  r ax v uh l uh sz uh n ee r ax
 revy  r ee v y
 rheumatisme  r aw m aa t ih s m ax
 ri  r iy
@@ -6630,12 +6630,12 @@ romantisk  r uh m aa n t ih s k
 rombe  r uh m b ax
 romfart  r uh m f aa t
 romme  r uh m ax
-romskip  r uh m S iy p
-romslig  r uh m S l ih
-romslige  r uh m S l ih ax
-romsligere  r uh m S l ih r ax
-romsligst  r uh m S l ih k s t
-romsligste  r uh m S l ih k s t ax
+romskip  r uh m sz iy p
+romslig  r uh m sz l ih
+romslige  r uh m sz l ih ax
+romsligere  r uh m sz l ih r ax
+romsligst  r uh m sz l ih k s t
+romsligste  r uh m sz l ih k s t ax
 rope  r uu p ax
 roper  r uu p ax r
 ror  r uu r
@@ -6673,13 +6673,13 @@ rune  r uh n ax
 runge  r uh ng ax
 ruse  r uh s ax
 rusk  r uh s k
-rusle  r uh S l ax
+rusle  r uh sz l ax
 russisk  r uh s ih s k
 rust  r uh s t
 ruste  r uh s t ax
 rusten  r uh s t ax n
 rute  r uh t ax
-rutebilstasjon  r uh t ax b iy l s t aa S uu n
+rutebilstasjon  r uh t ax b iy l s t aa sz uu n
 ruteplan  r uh t ax p l aa n
 rutete  r uh t ax t ax
 rutine  r uh t iy n ax
@@ -6717,11 +6717,11 @@ røntgen  r oe n t k ax n
 røntgenbilde  r oe n t k ax n b ih l d ax
 røpe  r oeh p ax
 røre  r oeh r ax
-røslig  r oe S l ih
-røslige  r oe S l ih ax
-røsligere  r oe S l ih r ax
-røsligst  r oe S l ih k s t
-røsligste  r oe S l ih k s t ax
+røslig  r oe sz l ih
+røslige  r oe sz l ih ax
+røsligere  r oe sz l ih r ax
+røsligst  r oe sz l ih k s t
+røsligste  r oe sz l ih k s t ax
 røyk  r oe j k
 røyke  r oe j k ax
 røyker  r oe j k ax r
@@ -6832,7 +6832,7 @@ saumfare  s aw m f aa r ax
 saus  s aw s
 savn  s aa v ax n
 savne  s aa v n ax
-schæfer  S ee f ax r
+schæfer  sz ee f ax r
 scooter  s k uh t ax r
 score  s k oo r
 se  s ee
@@ -6861,7 +6861,7 @@ seksuell  s ax k s uh eh l
 sekund  s eh k uh n
 sel  s ee l
 sele  s ee l ax
-seleksjon  s eh l eh k S uu n
+seleksjon  s eh l eh k sz uu n
 selektiv  s eh l eh k t iy v
 selg  s eh l
 selge  s eh l ax
@@ -6870,7 +6870,7 @@ selskap  s eh l s k aa p
 selsom  s ee l s ao m
 selv  s eh l
 selvbetjening  s eh l b eh t j ee n ih ng
-selvforskyldt  s eh l f ao S ue l t
+selvforskyldt  s eh l f ao sz ue l t
 selvfølgelig  s ax l f oe l g ax l ih
 selvfølgelige  s ax l f oe l g ax l ih ax
 selvfølgeligere  s ax l f oe l g ax l ih r ax
@@ -6901,7 +6901,7 @@ senil  s ax n iy l
 senior  s ee n ih uh r
 senke  s eh ng k ax
 sennep  s eh n eh p
-sensasjonell  s ax n s aa S uh n eh l
+sensasjonell  s ax n s aa sz uh n eh l
 sensitiv  s eh n s ih t iy v
 sensuell  s ax n s uh eh l
 sensurere  s ax n s uh r ee r ax
@@ -6909,7 +6909,7 @@ sent  s ee n t
 sentimental  s eh n t ih m eh n t aa l
 sentral  s eh n t r aa l
 sentralisere  s ax n t r aa l ih s ee r ax
-sentralstasjon  s eh n t r aa l s t aa S uu n
+sentralstasjon  s eh n t r aa l s t aa sz uu n
 sentralvarme  s eh n t r aa l v aa r m ax
 sentrere  s ax n t r ee r ax
 sentrisk  s eh n t r ih s k
@@ -6920,21 +6920,21 @@ septer  s eh p t ax r
 ser  s ee r
 serbisk  s ae r b ih s k
 seriøs  s ae r ih oeh s
-serv  S ae r v
+serv  sz ae r v
 servere  s ae r v ee r ax
 service  s oe r v ih s
 serviett  s ae r v ih j eh t
 servitør  s ae r v ih t oeh r
 ses  s ee ax s
-sesjon  s eh S uu n
+sesjon  s eh sz uu n
 sesong  s eh s ao ng
 setning  s eh t n ih ng
 sette  s eh t ax
 sette på  s eh t ax p oo
 sexy  s eh k s ih
-sherry  S ae r iy
-shorts  S oo t s
-show  S ao u
+sherry  sz ae r iy
+shorts  sz oo t s
+show  sz ao u
 si  s iy
 si ja  s iy j aa
 siameser  s ih j aa m ee s ax r
@@ -6990,38 +6990,38 @@ sitere  s ih t ee r ax
 sitron  s ih t r uu n
 sitte  s ih t ax
 sitteplass  s ih t ax p l aa s
-situasjon  s ih t uh aa S uu n
+situasjon  s ih t uh aa sz uu n
 sive  s iy v ax
-sjal  S aa l
-sjalu  S aa l uh
-sjampanje  S aa m p aa n j ax
-sjampinjong  S aa m p ih n j ao ng
-sjampo  S aa m p u
-sjanse  S aa ng s ax
-sjarmere  S aa r m ee r ax
-sjarmerende  S aa r m ee r ax n ax
-sjef  S ee f
-sjekk  S eh k
-sjekke  S eh k ax
-sjekke inn  S eh k ax ih n
-sjel  S ee l
-sjelden  S eh l d ax n
-sjenere  S ax n ee r ax
-sjenert  S ax n ee t
-sjenerøs  S ax n ax r oeh s
-sjikanere  S ih k aa n ee r ax
-sjokkere  S ao k ee r ax
-sjokolade  S uh k uh l aa d ax
-sjonglere  S ao ng l ee r ax
-sjuk  S uh k
-sjukdom  S uh k d uh m
-sjuskete  S uh s k ax t ax
-sjø  S oeh
-sjøgang  S oeh g aa ng
-sjøl  S oeh l
-sjøsette  S oeh s eh t ax
-sjøsyk  S oeh s ueh k
-sjåfør  S ao f oeh r
+sjal  sz aa l
+sjalu  sz aa l uh
+sjampanje  sz aa m p aa n j ax
+sjampinjong  sz aa m p ih n j ao ng
+sjampo  sz aa m p u
+sjanse  sz aa ng s ax
+sjarmere  sz aa r m ee r ax
+sjarmerende  sz aa r m ee r ax n ax
+sjef  sz ee f
+sjekk  sz eh k
+sjekke  sz eh k ax
+sjekke inn  sz eh k ax ih n
+sjel  sz ee l
+sjelden  sz eh l d ax n
+sjenere  sz ax n ee r ax
+sjenert  sz ax n ee t
+sjenerøs  sz ax n ax r oeh s
+sjikanere  sz ih k aa n ee r ax
+sjokkere  sz ao k ee r ax
+sjokolade  sz uh k uh l aa d ax
+sjonglere  sz ao ng l ee r ax
+sjuk  sz uh k
+sjukdom  sz uh k d uh m
+sjuskete  sz uh s k ax t ax
+sjø  sz oeh
+sjøgang  sz oeh g aa ng
+sjøl  sz oeh l
+sjøsette  sz oeh s eh t ax
+sjøsyk  sz oeh s ueh k
+sjåfør  sz ao f oeh r
 skade  s k aa d ax
 skadede  s k aa d ax d ax
 skadelig  s k aa d ax l ih
@@ -7053,93 +7053,93 @@ skarpt  s k aa r p t
 skarre  s k aa r ax
 skateboard  s k ay t b oo d
 skatt  s k aa t
-skeie  S ay ax
+skeie  sz ay ax
 skeptisk  s k eh p t ih s k
-ski  S iy
-Ski  S iy
-skibinding  S iy b ih n ih ng
-skift  S ih f t ax
-skifte ut  S k ih f t ax uh t
-skiftende  S ih f t ax n ax
-skiinstruktør  S ih ih n s t r uh k t oe r
-skikka  S ih k aa
-skikke  S ih k ax
-skikkelig  S ih k ax l ih
-skikkelige  S ih k ax l ih ax
-skikkeligere  S ih k ax l ih r ax
-skikkeligst  S ih k ax l ih k s t
-skikkeligste  S ih k ax l ih k s t ax
-skikket  S ih k ax t
-skildre  S ih l d r ax
-skill  S ih l
-skille  S ih l ax
-skilt  S ih l t
-skilte  S ih l t ax
-skiløper  S iy l oeh p ax r
-skimte  S ih m t ax
-skinke  S ih ng k ax
-skinn  S ih n
-skinne  S ih n ax
-skinnebein  S ih n b ay n
-skinnhellig  S ih n h eh l ih
-skinnhellige  S ih n h eh l ih ax
-skinnhelligere  S ih n h eh l ih r ax
-skinnhelligst  S ih n h eh l ih k s t
-skinnhelligste  S ih n h eh l ih k s t ax
-skinnvarer  S ih n v aa r ax r
-skissere  S ih s ee r ax
-skistav  S iy s t aa v
-skitrekk  S iy t r eh k
-skitt  S ih t
-skitten  S ih t ax n
-skive  S iy v ax
-skje  S ee
-skjebne  S ee b n ax
-skjebnesvanger  S ee b n ax s v aa ng ax r
-skjegg  S eh g
-skjeggete  S ay ax t ax
-skjele  S ee l ax
-skjelett  S ax l eh t
-skjell  S eh l
-skjelle  S eh l ax
-skjellig  S eh l ih
-skjellige  S eh l ih ax
-skjelligere  S eh l ih r ax
-skjelligst  S eh l ih k s t
-skjelligste  S eh l ih k s t ax
-skjellsettende  S eh l s eh t ax n ax
-skjelmsk  S eh l m s k t
-skjelne  S eh l n ax
-skjelve  S eh l v ax
-skjelven  S eh l v ax n
-skjeløyd  S ee l oe j d
-skjematisk  S ax m aa t ih s k
-skjemme  S eh m ax
-skjemmes  S eh m ax s
-skjende  S eh n ax
-skjene  S ee n ax
-skjenke  S eh n k ax
-skjenne  S eh n ax
-skjerf  S ae r f
-skjerm  S ae r m
-skjerme  S ae r m ax
-skjerpe  S ae r p ax
-skjev  S ee v
-skjoldete  S ao l ax t ax
-skjorte  S uh t ax
-skjule  S uh l ax
-skjær  S ae r
-skjære  S ae r ax
-skjærtorsdag  S ae t ao S d aa g
-skjødesløs  S oeh d ax s l oeh s
-skjønn  S oe n
-skjønne  S oe n ax
-skjønt  S oe n t
-skjør  S oeh r
-skjørt  S oe t
-skjøt  S oeh t
-skjøteledning  S oeh t ax l eh d n ih ng
-skjøtte  S oe t ax
+ski  sz iy
+Ski  sz iy
+skibinding  sz iy b ih n ih ng
+skift  sz ih f t ax
+skifte ut  sz k ih f t ax uh t
+skiftende  sz ih f t ax n ax
+skiinstruktør  sz ih ih n s t r uh k t oe r
+skikka  sz ih k aa
+skikke  sz ih k ax
+skikkelig  sz ih k ax l ih
+skikkelige  sz ih k ax l ih ax
+skikkeligere  sz ih k ax l ih r ax
+skikkeligst  sz ih k ax l ih k s t
+skikkeligste  sz ih k ax l ih k s t ax
+skikket  sz ih k ax t
+skildre  sz ih l d r ax
+skill  sz ih l
+skille  sz ih l ax
+skilt  sz ih l t
+skilte  sz ih l t ax
+skiløper  sz iy l oeh p ax r
+skimte  sz ih m t ax
+skinke  sz ih ng k ax
+skinn  sz ih n
+skinne  sz ih n ax
+skinnebein  sz ih n b ay n
+skinnhellig  sz ih n h eh l ih
+skinnhellige  sz ih n h eh l ih ax
+skinnhelligere  sz ih n h eh l ih r ax
+skinnhelligst  sz ih n h eh l ih k s t
+skinnhelligste  sz ih n h eh l ih k s t ax
+skinnvarer  sz ih n v aa r ax r
+skissere  sz ih s ee r ax
+skistav  sz iy s t aa v
+skitrekk  sz iy t r eh k
+skitt  sz ih t
+skitten  sz ih t ax n
+skive  sz iy v ax
+skje  sz ee
+skjebne  sz ee b n ax
+skjebnesvanger  sz ee b n ax s v aa ng ax r
+skjegg  sz eh g
+skjeggete  sz ay ax t ax
+skjele  sz ee l ax
+skjelett  sz ax l eh t
+skjell  sz eh l
+skjelle  sz eh l ax
+skjellig  sz eh l ih
+skjellige  sz eh l ih ax
+skjelligere  sz eh l ih r ax
+skjelligst  sz eh l ih k s t
+skjelligste  sz eh l ih k s t ax
+skjellsettende  sz eh l s eh t ax n ax
+skjelmsk  sz eh l m s k t
+skjelne  sz eh l n ax
+skjelve  sz eh l v ax
+skjelven  sz eh l v ax n
+skjeløyd  sz ee l oe j d
+skjematisk  sz ax m aa t ih s k
+skjemme  sz eh m ax
+skjemmes  sz eh m ax s
+skjende  sz eh n ax
+skjene  sz ee n ax
+skjenke  sz eh n k ax
+skjenne  sz eh n ax
+skjerf  sz ae r f
+skjerm  sz ae r m
+skjerme  sz ae r m ax
+skjerpe  sz ae r p ax
+skjev  sz ee v
+skjoldete  sz ao l ax t ax
+skjorte  sz uh t ax
+skjule  sz uh l ax
+skjær  sz ae r
+skjære  sz ae r ax
+skjærtorsdag  sz ae t ao sz d aa g
+skjødesløs  sz oeh d ax s l oeh s
+skjønn  sz oe n
+skjønne  sz oe n ax
+skjønt  sz oe n t
+skjør  sz oeh r
+skjørt  sz oe t
+skjøt  sz oeh t
+skjøteledning  sz oeh t ax l eh d n ih ng
+skjøtte  sz oe t ax
 skli  s k l iy
 sko  s k uu
 skobutikk  s k uu b uh t ih k
@@ -7168,7 +7168,7 @@ skrekkelige  s k r eh k ax l ih ax
 skrekkeligere  s k r eh k ax l ih r ax
 skrekkeligst  s k r eh k ax l ih k s t
 skrekkeligste  s k r eh k ax l ih k s t ax
-skrekkslagen  s k r eh k S l aa g ax n
+skrekkslagen  s k r eh k sz l aa g ax n
 skrelle  s k r eh l ax
 skremme  s k r eh m ax
 skrible  s k r ih b l ax
@@ -7233,97 +7233,97 @@ skvetten  s k v eh t ax n
 skvise  s k v iy s ax
 skvulpe  s k v uh l p ax
 skvære  s k v ae r ax
-sky  S ueh
-skyet  S ueh ax t
-skyfri  S ueh f r iy
-skygge  S ue g ax
-skyld  S ue l
-skylde  S ue l ax
-skyldig  S ue l d ih
-skyldige  S ue l d ih ax
-skyldigere  S ue l d ih r ax
-skyldigst  S ue l d ih k s t
-skyldigste  S ue l d ih k s t ax
-skylle  S ue l ax
-skynde  S ue n ax
-skynde seg  S ue n ax s ae iy
-skysse  S ue s ax
-skyte  S ueh t ax
-skyve  S ueh v ax
+sky  sz ueh
+skyet  sz ueh ax t
+skyfri  sz ueh f r iy
+skygge  sz ue g ax
+skyld  sz ue l
+skylde  sz ue l ax
+skyldig  sz ue l d ih
+skyldige  sz ue l d ih ax
+skyldigere  sz ue l d ih r ax
+skyldigst  sz ue l d ih k s t
+skyldigste  sz ue l d ih k s t ax
+skylle  sz ue l ax
+skynde  sz ue n ax
+skynde seg  sz ue n ax s ae iy
+skysse  sz ue s ax
+skyte  sz ueh t ax
+skyve  sz ueh v ax
 skøye  s k oe j ax
-skøyte  S oe j t ax
-skøytebane  S oe j t ax b aa n ax
+skøyte  sz oe j t ax
+skøytebane  sz oe j t ax b aa n ax
 skål  s k oo l
 skålde  s k ao l ax
 skåle  s k oo l ax
 skåne  s k oo n ax
 skånsom  s k oo n s ao m
-sladder  S l aa d ax r
-sladre  S l aa d r ax
-slafse  S l aa f s ax
-slag  S l aa g
-slaganfall  S l aa g aa n f aa l
-slak  S l aa k
-slakk  S l aa k
-slakte  S l aa k t ax
-slakter  S l aa k t ax r
-slange  S l aa ng ax
-slank  S l aa ng k
-slanke  S l aa ng k ax
-slapp  S l aa p
-slappe  S l aa p ax
-slede  S l ee d ax
-slegge  S l eh g ax
-sleip  S l ay p
-sleivete  S l ay v ax t ax
-slekte  S l eh k t ax
-slem  S l eh m
-slenge  S l eh ng ax
-slepe  S l ee p ax
-slepphendt  S l eh p h eh n t
-slett  S l eh t
-slette  S l eh t ax
-slibrig  S l iy b r ih
-slibrige  S l iy b r ih ax
-slibrigere  S l iy b r ih r ax
-slibrigst  S l iy b r ih k s t
-slibrigste  S l iy b r ih k s t ax
-slik  S l iy k
-slikke  S l ih k ax
-slipe  S l iy p ax
-slippe  S l ih p ax
+sladder  sz l aa d ax r
+sladre  sz l aa d r ax
+slafse  sz l aa f s ax
+slag  sz l aa g
+slaganfall  sz l aa g aa n f aa l
+slak  sz l aa k
+slakk  sz l aa k
+slakte  sz l aa k t ax
+slakter  sz l aa k t ax r
+slange  sz l aa ng ax
+slank  sz l aa ng k
+slanke  sz l aa ng k ax
+slapp  sz l aa p
+slappe  sz l aa p ax
+slede  sz l ee d ax
+slegge  sz l eh g ax
+sleip  sz l ay p
+sleivete  sz l ay v ax t ax
+slekte  sz l eh k t ax
+slem  sz l eh m
+slenge  sz l eh ng ax
+slepe  sz l ee p ax
+slepphendt  sz l eh p h eh n t
+slett  sz l eh t
+slette  sz l eh t ax
+slibrig  sz l iy b r ih
+slibrige  sz l iy b r ih ax
+slibrigere  sz l iy b r ih r ax
+slibrigst  sz l iy b r ih k s t
+slibrigste  sz l iy b r ih k s t ax
+slik  sz l iy k
+slikke  sz l ih k ax
+slipe  sz l iy p ax
+slippe  sz l ih p ax
 slips  s l ih p s
-slite  S l iy t ax
-sliten  S l iy t ax n
-slitesterk  S l iy t ax s t ae r k
-slitsom  S l iy t s ao m
-slott  S l ao t
-slovakisk  S l uh v aa k ih s k
-slovensk  S l uh v ee n s k
-slu  S l uh
-sludde  S l uh d ax
-sluke  S l uh k ax
-slukke  S l uh k ax
-slum  S l uh m
-slumre  S l uh m r ax
-slumse  S l uh m s ax
-sluntre  S l uh n t r ax
-slurpe  S l uh r p ax
-slurve  S l uh r v ax
-sluse  S l uh s ax
-slutt  S l uh t
-slutte  S l uh t ax
-slynge  S l ue ng ax
-sløse  S l oeh s ax
-sløv  S l oeh v
-sløve  S l oeh v ax
-sløyd  S l oe j d
-sløyfe  S l oe j f ax
-slå  S l oo
-slå på  S l oo p oo
-slående  S l oo ax n ax
-slåmaskin  S l oo m aa S iy n
-slåss  S l ao s
+slite  sz l iy t ax
+sliten  sz l iy t ax n
+slitesterk  sz l iy t ax s t ae r k
+slitsom  sz l iy t s ao m
+slott  sz l ao t
+slovakisk  sz l uh v aa k ih s k
+slovensk  sz l uh v ee n s k
+slu  sz l uh
+sludde  sz l uh d ax
+sluke  sz l uh k ax
+slukke  sz l uh k ax
+slum  sz l uh m
+slumre  sz l uh m r ax
+slumse  sz l uh m s ax
+sluntre  sz l uh n t r ax
+slurpe  sz l uh r p ax
+slurve  sz l uh r v ax
+sluse  sz l uh s ax
+slutt  sz l uh t
+slutte  sz l uh t ax
+slynge  sz l ue ng ax
+sløse  sz l oeh s ax
+sløv  sz l oeh v
+sløve  sz l oeh v ax
+sløyd  sz l oe j d
+sløyfe  sz l oe j f ax
+slå  sz l oo
+slå på  sz l oo p oo
+slående  sz l oo ax n ax
+slåmaskin  sz l oo m aa sz iy n
+slåss  sz l ao s
 smadre  s m aa d r ax
 smak  s m aa k
 smake  s m aa k ax
@@ -7395,7 +7395,7 @@ snerpete  s n ae r p ax t ax
 snerre  s n ae r ax
 snerten  s n ae t ax n
 snever  s n ee v ax r
-sneversynt  s n ee v ax S ueh n t
+sneversynt  s n ee v ax sz ueh n t
 snike  s n iy k ax
 snill  s n ih l
 snitte  s n ih t ax
@@ -7431,7 +7431,7 @@ sokkene  s ao k ax n ax
 sol  s uu l
 sola  s uu rx aa
 solarium  s uh l aa r ih uh m
-solbeskyttelse  s uu l b eh S ue t eh l s ax
+solbeskyttelse  s uu l b eh sz ue t eh l s ax
 solbrent  s uu l b r eh n t
 solbrenthet  s uu l b r eh n t h ee t
 soldag  s uu l d aa g
@@ -7445,7 +7445,7 @@ solkrem  s uu l k r ee m
 sololje  s uu l ao l j ax
 solppgang  s uu l ao p g aa ng
 solrikt  s uu l r ih k t
-solskinn  s uu l S ih n
+solskinn  s uu l sz ih n
 solstikk  s uu l s t ih k
 som  s ao m
 somle  s uh m l ax
@@ -7476,8 +7476,8 @@ spane  s p aa n ax
 spansk  s p aa n s k
 spare  s p aa r ax
 sparke  s p aa r k ax
-sparsom  s p aa S ao m
-sparsommelighet  s p aa S ao m l ih hh ee t
+sparsom  s p aa sz ao m
+sparsommelighet  s p aa sz ao m l ih hh ee t
 spartansk  s p aa t aa n s k
 spas  s p aa s
 spasere  s p aa s ee r ax
@@ -7510,7 +7510,7 @@ spesiell  s p ax s ih eh l
 spesielt  s p eh s ih eh l t
 spesifikk  s p ax s ih f ih k
 spesifisere  s p ax s ih f ih s ee r ax
-spielen  S p iy l ax n
+spielen  sz p iy l ax n
 spiker  s p iy k ax r
 spikke  s p ih k ax
 spikre  s p iy k r ax
@@ -7547,11 +7547,11 @@ sporadisk  s p uh r aa d ih s k
 spore  s p uu r ax
 sport  s p ao t
 sporte  s p ao t ax
-sportslig  s p ao t S l ih
-sportslige  s p ao t S l ih ax
-sportsligere  s p ao t S l ih r ax
-sportsligst  s p ao t S l ih k s t
-sportsligste  s p ao t S l ih k s t ax
+sportslig  s p ao t sz l ih
+sportslige  s p ao t sz l ih ax
+sportsligere  s p ao t sz l ih r ax
+sportsligst  s p ao t sz l ih k s t
+sportsligste  s p ao t sz l ih k s t ax
 sporty  s p oo t ih
 spotte  s p ao t ax
 spraglete  s p r aa g l ax t ax
@@ -7593,7 +7593,7 @@ spytte  s p ue t ax
 spøk  s p oeh k
 spøke  s p oeh k ax
 spørre  s p oe r ax
-spørsmål  s p oe S m oo l
+spørsmål  s p oe sz m oo l
 spå  s p oo
 sta  s t aa
 stabbe  s t aa b ax
@@ -7608,12 +7608,12 @@ stadigste  s t aa d ih k s t ax
 stadion  s t aa d ih uh n
 stagge  s t aa g ax
 stagnere  s t aa g n ee r ax
-stakkars  s t aa k aa S
-stakkarslig  s t aa k aa S l ih
-stakkarslige  s t aa k aa S l ih ax
-stakkarsligere  s t aa k aa S l ih r ax
-stakkarsligst  s t aa k aa S l ih k s t
-stakkarsligste  s t aa k aa S l ih k s t ax
+stakkars  s t aa k aa sz
+stakkarslig  s t aa k aa sz l ih
+stakkarslige  s t aa k aa sz l ih ax
+stakkarsligere  s t aa k aa sz l ih r ax
+stakkarsligst  s t aa k aa sz l ih k s t
+stakkarsligste  s t aa k aa sz l ih k s t ax
 stamgjest  s t aa m j eh s t
 stamme  s t aa m ax
 stampe  s t aa m p ax
@@ -7636,9 +7636,9 @@ staselige  s t aa s ax l ih ax
 staseligere  s t aa s ax l ih r ax
 staseligst  s t aa s ax l ih k s t
 staseligste  s t aa s ax l ih k s t ax
-stasjon  s t aa S uu n
-stasjonere  s t aa S uh n ee r ax
-stasjonær  s t aa S uh n ae r
+stasjon  s t aa sz uu n
+stasjonere  s t aa sz uh n ee r ax
+stasjonær  s t aa sz uh n ae r
 stat  s t aa t
 statisk  s t aa t ih s k
 statistisk  s t aa t ih s t ih s k
@@ -7657,7 +7657,7 @@ stave  s t aa v ax
 stavkirke  s t aa v xh ih r k ax
 stearinlys  s t eh aa r iy n l ueh s
 sted  s t ee d
-stehlen  S t ee l ax n
+stehlen  sz t ee l ax n
 steil  s t ay l
 steile  s t ay l ax
 stein  s t ay n
@@ -7878,7 +7878,7 @@ svak  s v aa k
 sval  s v aa l
 svale  s v aa l ax
 svane  s v aa n ax
-svangerskap  s v aa ng ax S k aa p
+svangerskap  s v aa ng ax sz k aa p
 svar  s v aa r
 svare  s v aa r ax
 svare på  s v aa r ax p ao
@@ -7999,7 +7999,7 @@ synligere  s ueh n l ih r ax
 synligst  s ueh n l ih k s t
 synligste  s ueh n l ih k s t ax
 synonym  s ue n uh n ueh m
-synshemmet  s ueh n sh eh m ax t
+synshemmet  s ueh n s h eh m ax t
 synsk  s ueh n s k
 synspunkt  s ueh n s p uh ng t
 syntetisk  s ue n t ee t ih s k
@@ -8025,7 +8025,7 @@ særligere  s ae l ih r ax
 særligst  s ae l ih k s t
 særligste  s ae l ih k s t ax
 særprege  s ae r p r ee g ax
-særskilt  s ae r S ih l t
+særskilt  s ae r sz ih l t
 søke  s oeh k ax
 søker  s oeh k ax r
 søkkvåt  s oe k v oo t
@@ -8073,7 +8073,7 @@ søvnige  s oe v n ih ax
 søvnigere  s oe v n ih r ax
 søvnigst  s oe v n ih k s t
 søvnigste  s oe v n ih k s t ax
-søvnløshet  s oe v n l oeh sh ee t
+søvnløshet  s oe v n l oeh s h ee t
 så  s oo
 så synd  s ao s ue n
 såkalt  s oo k aa l t
@@ -8086,9 +8086,9 @@ sårbar  s oo r b aa r
 såre  s oo r ax
 såte  s oo t ax
 T-bane  t ee b aa n ax
-t-skjorte  t ee S uh t ax
+t-skjorte  t ee sz uh t ax
 ta  t aa
-ta avskjed  t aa aa v S ee d
+ta avskjed  t aa aa v sz ee d
 ta bort  t aa b uh t
 ta hensyn t il  t aa hh eh n s ueh n t ih l
 ta imot  t aa ih m uu t
@@ -8135,7 +8135,7 @@ tanke opp  t aa ng k ax ao p
 tankefull  t aa ng k ax f uh l
 tankeløs  t aa ng k ax l oeh s
 tann  t aa n
-tannbørste  t aa m b oe S t ax
+tannbørste  t aa m b oe sz t ax
 tannhjul  t aa n j uh l
 tannkjøtt  t aa n xh oe t
 tannkrem  t aa ng k r ee m
@@ -8161,10 +8161,10 @@ tau  t aw
 taubane  t aw b aa n ax
 taue  t aw ax
 taus  t ae w s
-taushet  t aw sh ee t
+taushet  t aw s h ee t
 te  t ee
 teater  t eh aa t ax r
-teaterstykke  t eh aa t ax S t ue k ax
+teaterstykke  t eh aa t ax sz t ue k ax
 teatralsk  t eh aa t r aa l s k
 tegn  t ay n
 tegne  t ay n ax
@@ -8233,9 +8233,9 @@ terreng  t ee r eh ng
 terrengsykkel  t eh r ae s ue k ax l
 terrorisere  t ae r uh r ih s ee r ax
 terroristisk  t ae r uh r ih s t ih s k
-terskel  t eh S k ax l
+terskel  t eh sz k ax l
 tese  t ee s ax
-teskje  t ee S ee
+teskje  t ee sz ee
 tess  t eh s
 teste  t eh s t ax
 tett  t eh t
@@ -8348,7 +8348,7 @@ tiltrekke  t ih l t r eh k ax
 tiltro  t ih l t r uu
 tiltru  t ih l t r uh
 tilvirke  t ih l v ih r k ax
-tilårskommen  t ih l oo S k ao m ax n
+tilårskommen  t ih l oo sz k ao m ax n
 time  t iy m ax
 timian  t ih m ih aa n
 tindre  t ih n d r ax
@@ -8359,7 +8359,7 @@ tinglyse  t ih ng l ueh s ax
 tippe  t ih p ax
 tips  t ih p s
 tirre  t ih r ax
-tirsdag  t iy S d aa g
+tirsdag  t iy sz d aa g
 tispe  t ih s p ax
 tistel  t ih s t ax l
 titte  t ih t ax
@@ -8392,7 +8392,7 @@ tolerere  t ao l ax r ee r ax
 tolke  t ao l k ax
 toll  t ao l
 tollavgift  t ao l aa v j ih f t
-tolldeklarasjon  t ao l d eh k l aa r aa S uu n
+tolldeklarasjon  t ao l d eh k l aa r aa sz uu n
 tollfri  t ao l f r iy
 tolv  t ao l
 tom  t ao m
@@ -8414,12 +8414,12 @@ tore  t uu r ax
 torg  t ao r g
 tornete  t uu ng ax t ax
 Toro  t uu r u
-torsdag  t uu S d aa g
+torsdag  t uu sz d aa g
 torturere  t uh t uh r ee r ax
 tosk  t ao s k
 total  t uh t aa l
 totalitær  t uh t aa l ih t ae r
-tradisjonell  t r aa d ih S uh n eh l
+tradisjonell  t r aa d ih sz uh n eh l
 trafikk  t r aa f ih k
 trafikkere  t r aa f ih k ee r ax
 trafikklys  t r aa f ih k l ue t r aa s
@@ -8506,11 +8506,11 @@ tromme  t r uh m ax
 trommehinne  t r uh m ax hh ih n ax
 trone  t r uu n ax
 tropisk  t r uu p ih s k
-troskyldig  t r uh S ue l d ih
-troskyldige  t r uh S ue l d ih ax
-troskyldigere  t r uh S ue l d ih r ax
-troskyldigst  t r uh S ue l d ih k s t
-troskyldigste  t r uh S ue l d ih k s t ax
+troskyldig  t r uh sz ue l d ih
+troskyldige  t r uh sz ue l d ih ax
+troskyldigere  t r uh sz ue l d ih r ax
+troskyldigst  t r uh sz ue l d ih k s t
+troskyldigste  t r uh sz ue l d ih k s t ax
 trosse  t r ao s ax
 troverdig  t r uh v ae d ih
 troverdige  t r uh v ae d ih ax
@@ -8564,15 +8564,15 @@ turkart  t uh r k aa t
 turkis  t uh r k iy s
 turne  t uh ng ax
 turnsko  t uh ng s k uu
-tursti  t uh S t iy
+tursti  t uh sz t iy
 tusen  t uh s ax n
-tusle  t uh S l ax
+tusle  t uh sz l ax
 tussete  t uh s ax t ax
 tute  t uh t ax
 TV  t ee v ee
 TV-rom  t ee v ee r uh m
 tverr  t v ae r
-tvers gjennom  t v ax S j ax n uh m
+tvers gjennom  t v ax sz j ax n uh m
 tvetydig  t v ee t ueh d ih
 tvetydige  t v ee t ueh d ih ax
 tvetydigere  t v ee t ueh d ih r ax
@@ -8621,7 +8621,7 @@ tørke  t oe r k ax
 tørketrommel  t oe r k ax t r uh m ax l
 tørr  t oe r
 tørre  t oe r ax
-tørst  t oe S t
+tørst  t oe sz t
 tørt  t oe t
 tørt hår  t oe t hh oo r
 tøye  t oe j ax
@@ -8668,11 +8668,11 @@ uansvarlige  uh aa n s v aa l ih ax
 uansvarligere  uh aa n s v aa l ih r ax
 uansvarligst  uh aa n s v aa l ih k s t
 uansvarligste  uh aa n s v aa l ih k s t ax
-uatskillelig  uh aa t S ih l ax l ih
-uatskillelige  uh aa t S ih l ax l ih ax
-uatskilleligere  uh aa t S ih l ax l ih r ax
-uatskilleligst  uh aa t S ih l ax l ih k s t
-uatskilleligste  uh aa t S ih l ax l ih k s t ax
+uatskillelig  uh aa t sz ih l ax l ih
+uatskillelige  uh aa t sz ih l ax l ih ax
+uatskilleligere  uh aa t sz ih l ax l ih r ax
+uatskilleligst  uh aa t sz ih l ax l ih k s t
+uatskilleligste  uh aa t sz ih l ax l ih k s t ax
 uavbrutt  uh aa v b r uh t
 uavgjort  uh aa v j uh t
 uavhengig  uh aa v hh eh ng ih
@@ -8685,7 +8685,7 @@ uavlatelige  uh aa v l aa t ax l ih ax
 uavlateligere  uh aa v l aa t ax l ih r ax
 uavlateligst  uh aa v l aa t ax l ih k s t
 uavlateligste  uh aa v l aa t ax l ih k s t ax
-uavsluttet  uh aa v S l uh t ax t
+uavsluttet  uh aa v sz l uh t ax t
 ubalansert  uh b aa l aa ng s ee t
 ubarmhjertig  uh b aa r m j ae t ih
 ubarmhjertige  uh b aa r m j ae t ih ax
@@ -8775,11 +8775,11 @@ uenige  uh ee n ih ax
 uenigere  uh ee n ih r ax
 uenigst  uh ee n ih k s t
 uenigste  uh ee n ih k s t ax
-uerstattelig  uh ae S t aa t ax l ih
-uerstattelige  uh ae S t aa t ax l ih ax
-uerstatteligere  uh ae S t aa t ax l ih r ax
-uerstatteligst  uh ae S t aa t ax l ih k s t
-uerstatteligste  uh ae S t aa t ax l ih k s t ax
+uerstattelig  uh ae sz t aa t ax l ih
+uerstattelige  uh ae sz t aa t ax l ih ax
+uerstatteligere  uh ae sz t aa t ax l ih r ax
+uerstatteligst  uh ae sz t aa t ax l ih k s t
+uerstatteligste  uh ae sz t aa t ax l ih k s t ax
 ufarlig  uh f aa l ih
 ufarlige  uh f aa l ih ax
 ufarligere  uh f aa l ih r ax
@@ -8828,30 +8828,30 @@ uformeligst  uh f ao r m ax l ih k s t
 uformeligste  uh f ao r m ax l ih k s t ax
 uformell  uh f ao r m eh l
 uforpliktende  uh f ao r p l ih k t ax n ax
-uforsiktig  uh f ao S ih k t ih
-uforsiktige  uh f ao S ih k t ih ax
-uforsiktigere  uh f ao S ih k t ih r ax
-uforsiktigst  uh f ao S ih k t ih k s t
-uforsiktigste  uh f ao S ih k t ih k s t ax
-uforskamma  uh f ao S k aa m ax t
-uforskammet  uh f ao S k aa m ax t
-uforskyldt  uh f ao S ue l t
-uforstandig  uh f ao S t aa n ih
-uforstandige  uh f ao S t aa n ih ax
-uforstandigere  uh f ao S t aa n ih r ax
-uforstandigst  uh f ao S t aa n ih k s t
-uforstandigste  uh f ao S t aa n ih k s t ax
-uforståelig  uh f ao S t oo ax l ih
-uforståelige  uh f ao S t oo ax l ih ax
-uforståeligere  uh f ao S t oo ax l ih r ax
-uforståeligst  uh f ao S t oo ax l ih k s t
-uforståeligste  uh f ao S t oo ax l ih k s t ax
-uforstående  uh f ao S t oo ax n ax
-uforsvarlig  uh f ao S v aa l ih
-uforsvarlige  uh f ao S v aa l ih ax
-uforsvarligere  uh f ao S v aa l ih r ax
-uforsvarligst  uh f ao S v aa l ih k s t
-uforsvarligste  uh f ao S v aa l ih k s t ax
+uforsiktig  uh f ao sz ih k t ih
+uforsiktige  uh f ao sz ih k t ih ax
+uforsiktigere  uh f ao sz ih k t ih r ax
+uforsiktigst  uh f ao sz ih k t ih k s t
+uforsiktigste  uh f ao sz ih k t ih k s t ax
+uforskamma  uh f ao sz k aa m ax t
+uforskammet  uh f ao sz k aa m ax t
+uforskyldt  uh f ao sz ue l t
+uforstandig  uh f ao sz t aa n ih
+uforstandige  uh f ao sz t aa n ih ax
+uforstandigere  uh f ao sz t aa n ih r ax
+uforstandigst  uh f ao sz t aa n ih k s t
+uforstandigste  uh f ao sz t aa n ih k s t ax
+uforståelig  uh f ao sz t oo ax l ih
+uforståelige  uh f ao sz t oo ax l ih ax
+uforståeligere  uh f ao sz t oo ax l ih r ax
+uforståeligst  uh f ao sz t oo ax l ih k s t
+uforståeligste  uh f ao sz t oo ax l ih k s t ax
+uforstående  uh f ao sz t oo ax n ax
+uforsvarlig  uh f ao sz v aa l ih
+uforsvarlige  uh f ao sz v aa l ih ax
+uforsvarligere  uh f ao sz v aa l ih r ax
+uforsvarligst  uh f ao sz v aa l ih k s t
+uforsvarligste  uh f ao sz v aa l ih k s t ax
 ufortrøden  uh f ao t r oeh d ax n
 uforvarende  uh f ao r v aa r ax n ax
 ufravikelig  uh f r aa v iy k ax l ih
@@ -9098,13 +9098,13 @@ underligste  uh n ax l ih k s t ax
 underliv  uh n ax l iy v
 undermåls  uh n ax r m oo l s
 underrette  uh n ax r eh t ax
-underskrift  uh n ax S k r ih f t
-underskrive  uh n ax S k r iy v ax
-underslå  uh n ax S l oo
-understreke  uh n ax S t r ee k ax
-understøtte  uh n ax S t oe t ax
-undersøke  uh n ax S oeh k ax
-undersøkelse  uh n ax S oeh k eh l s ax
+underskrift  uh n ax sz k r ih f t
+underskrive  uh n ax sz k r iy v ax
+underslå  uh n ax sz l oo
+understreke  uh n ax sz t r ee k ax
+understøtte  uh n ax sz t oe t ax
+undersøke  uh n ax sz oeh k ax
+undersøkelse  uh n ax sz oeh k eh l s ax
 undertegne  uh n ax t ay n ax
 undertittel  uh n ax t ih t ax l
 undertrykke  uh n ax t r ue k ax
@@ -9135,17 +9135,17 @@ ungmøy  uh ng m oe j
 ungnaut  uh ng n ae w t
 unik  uh n iy k
 unison  uh n ih s uu n
-universell  uh n ih v ae S eh l
-universitet  uh n ih v ae S ih t ee t
+universell  uh n ih v ae sz eh l
+universitet  uh n ih v ae sz ih t ee t
 unndra  uh n d r aa
 unne  uh n ax
 unnfange  uh n f aa ng ax
 unngjelde  uh n j eh l ax
 unngå  uh ng oo
 unnlate  uh n l aa t ax
-unnskylde  uh n S ue l ax
-unnskylde seg  uh n S ue l ax s ae iy
-unnskyldning  uh n S ue l n ih ng
+unnskylde  uh n sz ue l ax
+unnskylde seg  uh n sz ue l ax s ae iy
+unnskyldning  uh n sz ue l n ih ng
 unnta  uh n t aa
 unntatt  uh n t aa t
 unnvikende  uh n v iy k ax n ax
@@ -9183,11 +9183,11 @@ uovervinneligere  uh oo v ax r v ih n ax l ih r ax
 uovervinneligst  uh oo v ax r v ih n ax l ih k s t
 uovervinneligste  uh oo v ax r v ih n ax l ih k s t ax
 upassende  uh p aa s ax n ax
-upersonlig  uh p ae S uu n l ih
-upersonlige  uh p ae S uu n l ih ax
-upersonligere  uh p ae S uu n l ih r ax
-upersonligst  uh p ae S uu n l ih k s t
-upersonligste  uh p ae S uu n l ih k s t ax
+upersonlig  uh p ae sz uu n l ih
+upersonlige  uh p ae sz uu n l ih ax
+upersonligere  uh p ae sz uu n l ih r ax
+upersonligst  uh p ae sz uu n l ih k s t
+upersonligste  uh p ae sz uu n l ih k s t ax
 upopulær  uh p uh p uh l ae r
 upraktisk  uh p r aa k t ih s k
 upåklagelig  uh p oo k l aa g ax l ih
@@ -9224,11 +9224,11 @@ uregelmessigere  uh r ee g ax l m eh s ih r ax
 uregelmessigst  uh r ee g ax l m eh s ih k s t
 uregelmessigste  uh r ee g ax l m eh s ih k s t ax
 ureglementert  uh r ay l ax m ax n t ee t
-urenslig  uh r ee n S l ih
-urenslige  uh r ee n S l ih ax
-urensligere  uh r ee n S l ih r ax
-urensligst  uh r ee n S l ih k s t
-urensligste  uh r ee n S l ih k s t ax
+urenslig  uh r ee n sz l ih
+urenslige  uh r ee n sz l ih ax
+urensligere  uh r ee n sz l ih r ax
+urensligst  uh r ee n sz l ih k s t
+urensligste  uh r ee n sz l ih k s t ax
 urett  uh r eh t
 urettferdig  uh r ax t f ae d ih
 urettferdige  uh r ax t f ae d ih ax
@@ -9292,19 +9292,19 @@ usigeligere  uh s iy g ax l ih r ax
 usigeligst  uh s iy g ax l ih k s t
 usigeligste  uh s iy g ax l ih k s t ax
 usikker  uh s ih k ax r
-usjenert  uh S ax n ee t
+usjenert  uh sz ax n ee t
 uskadelig  uh s k aa d ax l ih
 uskadelige  uh s k aa d ax l ih ax
 uskadeligere  uh s k aa d ax l ih r ax
 uskadeligst  uh s k aa d ax l ih k s t
 uskadeligste  uh s k aa d ax l ih k s t ax
 uskarp  uh s k aa r p
-uskyld  uh S ue l
-uskyldig  uh S ue l d ih
-uskyldige  uh S ue l d ih ax
-uskyldigere  uh S ue l d ih r ax
-uskyldigst  uh S ue l d ih k s t
-uskyldigste  uh S ue l d ih k s t ax
+uskyld  uh sz ue l
+uskyldig  uh sz ue l d ih
+uskyldige  uh sz ue l d ih ax
+uskyldigere  uh sz ue l d ih r ax
+uskyldigst  uh sz ue l d ih k s t
+uskyldigste  uh sz ue l d ih k s t ax
 usmakelig  uh s m aa k ax l ih
 usmakelige  uh s m aa k ax l ih ax
 usmakeligere  uh s m aa k ax l ih r ax
@@ -9352,7 +9352,7 @@ utallige  uh t aa l ih ax
 utalligere  uh t aa l ih r ax
 utalligst  uh t aa l ih k s t
 utalligste  uh t aa l ih k s t ax
-utbasunere  uh t b aa S uh n ee r ax
+utbasunere  uh t b aa sz uh n ee r ax
 utbedre  uh t b ee d r ax
 utbrent  uh t b r eh n t
 utbryte  uh t b r ueh t ax
@@ -9367,9 +9367,9 @@ utebli  uh t ax b l iy
 utelate  uh t ax l aa t ax
 utelukke  uh t ax l uh k ax
 uten  uh t ax n
-utendørs  uh t ax n oeh S
+utendørs  uh t ax n oeh sz
 utenfor  uh t ax n f ao r
-utenforstående  uh t ax n f ao S t oo ax n ax
+utenforstående  uh t ax n f ao sz t oo ax n ax
 utenlandsk  uh t ax n l aa n s k
 utenlandssamtale  uh t ax n l aa n s aa m t aa l ax
 utenom  uh t ax n uh m
@@ -9382,7 +9382,7 @@ utfordre  uh t f ao d r ax
 utfordrende  uh t f ao d r ax n ax
 utfordring  uh t f ao d r ih ng
 utfore  uh t f oeh r ax
-utforske  uh t f ao S k ax
+utforske  uh t f ao sz k ax
 utføre  uh t f oeh r ax
 utførlig  uh t f oeh l ih
 utførlige  uh t f oeh l ih ax
@@ -9439,8 +9439,8 @@ utseende  uh t s ee ax n ax
 utsette  uh t s eh t ax
 utsikt  uh t s ih k t
 utsiktspunkt  uh t s ih k t s p uh ng t
-utslett  uh t S l eh t
-utslette  uh t S l eh t ax
+utslett  uh t sz l eh t
+utslette  uh t sz l eh t ax
 utspekulert  uh t s p ax k uh l ee t
 utstilling  uh t s t ih l ih ng
 utstillingsgjenstand  uh t s t ih l ih ng s j eh n s t aa n
@@ -9463,7 +9463,7 @@ utuktigst  uh t uh k t ih k s t
 utuktigste  uh t uh k t ih k s t ax
 utvalg  uh t v aa l g
 utvandre  uh t v aa n d r ax
-utveksle  uh t v eh k S l ax
+utveksle  uh t v eh k sz l ax
 utvetydig  uh t v eh t ueh d ih
 utvetydige  uh t v eh t ueh d ih ax
 utvetydigere  uh t v eh t ueh d ih r ax
@@ -9512,11 +9512,11 @@ uutholdelige  uh uh t h ao l d ax l ih ax
 uutholdeligere  uh uh t h ao l d ax l ih r ax
 uutholdeligst  uh uh t h ao l d ax l ih k s t
 uutholdeligste  uh uh t h ao l d ax l ih k s t ax
-uutslettelig  uh uh t S l eh t ax l ih
-uutslettelige  uh uh t S l eh t ax l ih ax
-uutsletteligere  uh uh t S l eh t ax l ih r ax
-uutsletteligst  uh uh t S l eh t ax l ih k s t
-uutsletteligste  uh uh t S l eh t ax l ih k s t ax
+uutslettelig  uh uh t sz l eh t ax l ih
+uutslettelige  uh uh t sz l eh t ax l ih ax
+uutsletteligere  uh uh t sz l eh t ax l ih r ax
+uutsletteligst  uh uh t sz l eh t ax l ih k s t
+uutsletteligste  uh uh t sz l eh t ax l ih k s t ax
 uvanlig  uh v aa n l ih
 uvanlige  uh v aa n l ih ax
 uvanligere  uh v aa n l ih r ax
@@ -9576,11 +9576,11 @@ vaken  v oo k ax n
 vakker  v aa k ax r
 vakle  v aa k l ax
 vaklevoren  v aa k l ax v uu r ax n
-vaksinasjon  v aa k s ih n aa S uu n
-vaksinasjonsattest  v aa k s ih n aa S uu n s aa t eh s t
+vaksinasjon  v aa k s ih n aa sz uu n
+vaksinasjonsattest  v aa k s ih n aa sz uu n s aa t eh s t
 vaksinere  v aa k s ih n ee r ax
 vakt  v aa k t
-vaktskifte  v aa k t S ih f t ax
+vaktskifte  v aa k t sz ih f t ax
 valen  v aa l ax n
 valene  v aa l n ax
 valfarte  v aa l f aa t ax
@@ -9612,8 +9612,8 @@ vannkran  v aa n k r aa n
 vannmelon  v aa n m eh l uu n
 vannmerke  v aa m ae r k ax
 vannrett  v aa n r eh t
-vannski  v aa n S iy
-vannskylling  v aa n S ue l ih ng
+vannski  v aa n sz iy
+vannskylling  v aa n sz ue l ih ng
 vanntett  v aa n t eh t
 vansire  v aa n s iy r ax
 vanskapt  v aa n s k aa p t
@@ -9622,7 +9622,7 @@ vanskelige  v aa n s k ax l ih ax
 vanskeligere  v aa n s k ax l ih r ax
 vanskeligst  v aa n s k ax l ih k s t
 vanskeligste  v aa n s k ax l ih k s t ax
-vanskjøtte  v aa n S oe t ax
+vanskjøtte  v aa n sz oe t ax
 vansmekte  v aa n s m eh k t ax
 vant  v aa n t
 vante  v aa n t ax
@@ -9652,10 +9652,10 @@ varme  v aa r m ax
 varmebølge  v aa r m ax b oe l g ax
 varmt  v aa r m t
 varmt vann  v aa r m t v aa n
-varsellys  v aa S eh l ue s
-varsku  v aa S k uh
-varsle  v aa S l ax
-varsom  v aa S ao m
+varsellys  v aa sz eh l ue s
+varsku  v aa sz k uh
+varsle  v aa sz l ax
+varsom  v aa sz ao m
 varte  v aa t ax
 vase  v aa s ax
 vask  v aa s k ax n
@@ -9694,9 +9694,9 @@ veiskilt  v ay v iy s ax r
 veive  v ay v ax
 vekk  v eh k
 vekke  v eh k ax
-veksle  v eh k S l ax
-vekslepenger  v eh k S l ax p eh ng ax r
-veksling  v eh k S l ih ng
+veksle  v eh k sz l ax
+vekslepenger  v eh k sz l ax p eh ng ax r
+veksling  v eh k sz l ih ng
 vekt  v eh k t
 vektig  v eh k t ih
 vektige  v eh k t ih ax
@@ -9799,13 +9799,13 @@ verktøy  v ae r k t oe j
 vern  v ae ng
 verne  v ae ng ax
 verpe  v ae r p ax
-vers  v ae S
-versere  v ae S ee r ax
-versjon  v ae S uu n
+vers  v ae sz
+versere  v ae sz ee r ax
+versjon  v ae sz uu n
 vert  v ae t
 vertikal  v ae t ih k aa l
 vertinne  v ae t ih n ax
-vertshus  v eh t sh uh s
+vertshus  v eh t s h uh s
 verve  v ae r v ax
 vesentlig  v ee s ax n t l ih
 vesentlige  v ee s ax n t l ih ax
@@ -9813,7 +9813,7 @@ vesentligere  v ee s ax n t l ih r ax
 vesentligst  v ee s ax n t l ih k s t
 vesentligste  v ee s ax n t l ih k s t ax
 veske  v eh s k ax
-vesle  v eh S l ax
+vesle  v eh sz l ax
 vesper  v eh s p ax r
 vest  v eh s t
 vestlig  v eh s t l ih
@@ -9908,7 +9908,7 @@ virvle  v ih r v l ax
 vis  v iy s
 vise  v iy s ax
 visittid  v ih s ih t iy
-visjonær  v ih S uh n ae r
+visjonær  v ih sz uh n ae r
 viske  v ih s k ax
 visne  v ih s n ax
 vispe  v ih s p ax
@@ -9981,10 +9981,10 @@ vær  v ae r
 være  v ae r ax
 være for  ao v ae r ax f ao r
 være mot  ao v ae r ax m uu t
-være t il overs  v ae r ax t ih l oo v ax S
+være t il overs  v ae r ax t ih l oo v ax sz
 værelse  v ae r eh l s ax
 værmelding  v ae m eh l ih ng
-væromslag  v ae r ao m S l aa g
+væromslag  v ae r ao m sz l aa g
 væske  v eh s k ax
 væte  v ee t ax
 vågal  v oo g aa l
@@ -9997,7 +9997,7 @@ vårdag  v oo d aa g
 vårlig  v oo r
 vårluft  v oo l uh f t
 vårnatt  v oo ng aa t
-vårsol  v oo S uu l
+vårsol  v oo sz uu l
 vårtegn  v oo t oe j n
 våse  v oo s ax
 våt  v oo t
@@ -10028,7 +10028,7 @@ ypperlige  ue p ax l ih ax
 ypperligere  ue p ax l ih r ax
 ypperligst  ue p ax l ih k s t
 ypperligste  ue p ax l ih k s t ax
-ypperst  ue p ax S t
+ypperst  ue p ax sz t
 yppig  ue p ih
 yppige  ue p ih ax
 yppigere  ue p ih r ax
@@ -10084,11 +10084,11 @@ zappe  s aa p ax
 ørering  oeh r ax r ih ng
 ørken  oe r k ax n
 ørliten  oeh l iy t ax n
-ørske  oe S k ax
+ørske  oe sz k ax
 øse  oeh s ax
 østerriker  oe s t ax r iy k ax r
 østerriksk  oe s t ax r ih k s k
-østers  oe s t ax S
+østers  oe s t ax sz
 østlig  oe s t l ih
 østlige  oe s t l ih ax
 østligere  oe s t l ih r ax
@@ -10096,7 +10096,7 @@ zappe  s aa p ax
 østligste  oe s t l ih k s t ax
 øve  oeh v ax
 øvelse  oeh v ax l s ax
-øvre s tasjon  oe v r ax s t aa S uh n
+øvre s tasjon  oe v r ax s t aa sz uh n
 øvrig  oeh v r ih
 øvrige  oeh v r ih ax
 øvrigere  oeh v r ih r ax
@@ -10141,7 +10141,7 @@ zappe  s aa p ax
 årligere  oo l ih r ax
 årligst  oo l ih k s t
 årligste  oo l ih k s t ax
-årsak  oo S aa k
-årstid  oo S t iy
+årsak  oo sz aa k
+årstid  oo sz t iy
 årvåken  oo r v oo k ax n
 åtte  ao t ax
