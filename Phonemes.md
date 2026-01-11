@@ -18,22 +18,22 @@
 
 | phoneme  | ipa    | usage/notes  |
 |  :-----: | :----: | :----------: |
-|   aa     |   ɑ/ɑː  |             |
-|   oo     |   oː    |             |
-|   ao     |   ɔ     |             |
-|   uu     |   uː    |             |
+|   aa     |   ɑ/ɑː  |   **a**bbor |
+|   oo     |   oː    |   bl**å**   |
+|   ao     |   ɔ     |   b**o**dy  |
+|   uu     |   uː    |   b**o**k   |
 |   uuh    |   ʊ     | uncommon    |
-|   uh     |   ʉ     |             |
-|   ue     |   ʏ     |             |
-|   ueh    |   yː    |             |
-|   oeh    |   øː    |             |
-|   oe     |   œ     |             |
-|   iy     |   iː    |             |
-|   ih     |   ɪ     |             |
-|   eh     |   ɛ     |             |
-|   ee     |   eː    |             |
-|   ae     |   æ/æː  |             |
-|   ax     |   ə     |             |
+|   uh     |   ʉ     |   b**or**t  |
+|   ue     |   ʏ     |  br**y**sk  |
+|   ueh    |   yː    |   b**y**er  |
+|   oeh    |   øː    |  b**ø**te   |
+|   oe     |   œ     | bel**ø**nne |
+|   iy     |   iː    |  b**i**bel  |
+|   ih     |   ɪ     |   b**i**ff  |
+|   eh     |   ɛ     |  bj**e**ffe |
+|   ee     |   eː    |   bl**e**k  |
+|   ae     |   æ/æː  |  bl**æ**re  |
+|   ax     |   ə     |  bor**e**   |
 
 
 ###
@@ -61,4 +61,5 @@
 |     r    |    ɾ   |         |
 |     rx   |    ɽ   |         |
 |     w    |    w   |         |
+
 
