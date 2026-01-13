@@ -161,7 +161,7 @@ entries:
   - grapheme: alter
     phonemes: [aa, l, t, ax, r]
   - grapheme: alternativ
-    phonemes: [aa, l, t, ae, nng, aa, t, iy, v]
+    phonemes: [aa, l, t, ae, ng, aa, t, iy, v]
   - grapheme: altså
     phonemes: [aa, l, t, s, ao]
   - grapheme: alvorlig
@@ -174,19 +174,19 @@ entries:
     phonemes: [aa, l, v, oo, l, ih, k, s, t]
   - grapheme: alvorligste
     phonemes: [aa, l, v, oo, l, ih, k, s, t, ax]
-  - grapheme: amatoehrmessig
+  - grapheme: amatørmessig
     phonemes: [aa, m, t, oeh, r, m, ax, s, ih]
-  - grapheme: amatoehrmessige
+  - grapheme: amatørmessige
     phonemes: [aa, m, t, oeh, r, m, ax, s, ih, ax]
-  - grapheme: amatoehrmessigere
+  - grapheme: amatørmessigere
     phonemes: [aa, m, t, oeh, r, m, ax, s, ih, r, ax]
-  - grapheme: amatoehrmessigst
+  - grapheme: amatørmessigst
     phonemes: [aa, m, t, oeh, r, m, ax, s, ih, k, s, t]
-  - grapheme: amatoehrmessigste
+  - grapheme: amatørmessigste
     phonemes: [aa, m, t, oeh, r, m, ax, s, ih, k, s, t, ax]
   - grapheme: ambassade
     phonemes: [aa, m, b, aa, s, aa, d, ax]
-  - grapheme: ambisioehs
+  - grapheme: ambisiøs
     phonemes: [aa, m, b, ih, s, ih, oeh, s]
   - grapheme: amerikansk
     phonemes: [aa, m, ax, r, ih, k, aa, n, s, k]
@@ -352,7 +352,7 @@ entries:
     phonemes: [aa, n, s, v, aa, l, ih, k, s, t, ax]
   - grapheme: ansvarsfull
     phonemes: [aa, n, s, v, aa, sz, f, uh, l]
-  - grapheme: ansvarsloehs
+  - grapheme: ansvarsløs
     phonemes: [aa, n, s, v, aa, sz, l, oeh, s]
   - grapheme: anta
     phonemes: [aa, n, t, aa]
@@ -436,7 +436,7 @@ entries:
     phonemes: [aa, r, b, ay, d, s, l, ee, d, ih, k, s, t]
   - grapheme: arbeidsledigste
     phonemes: [aa, r, b, ay, d, s, l, ee, d, ih, k, s, t, ax]
-  - grapheme: arbeidsloehs
+  - grapheme: arbeidsløs
     phonemes: [aa, r, b, ay, d, s, l, oeh, s]
   - grapheme: arbeidsom
     phonemes: [aa, r, b, ay, d, s, ao, m]
@@ -467,7 +467,7 @@ entries:
   - grapheme: arme
     phonemes: [aa, r, m, ee]
   - grapheme: Arnt
-    phonemes: [aa, nng, t]
+    phonemes: [aa, ng, t]
   - grapheme: arr
     phonemes: [aa, r]
   - grapheme: arrangement
@@ -604,23 +604,23 @@ entries:
     phonemes: [aa, v, d, eh, k, ax]
   - grapheme: avduke
     phonemes: [aa, v, d, uh, k, ax]
-  - grapheme: avdoehd
+  - grapheme: avdød
     phonemes: [aa, v, d, oeh, d]
   - grapheme: avertere
     phonemes: [aa, v, ae, t, ee, r, ax]
   - grapheme: avfall
     phonemes: [aa, v, f, aa, l]
-  - grapheme: avfoehring
+  - grapheme: avføring
     phonemes: [aa, v, f, oeh, r, ih, ng]
   - grapheme: avgang
     phonemes: [aa, v, g, aa, ng]
   - grapheme: avgifter
     phonemes: [aa, v, j, ih, f, t, ax, r]
-  - grapheme: avgjoehre
+  - grapheme: avgjøre
     phonemes: [aa, v, j, oeh, r, ax]
-  - grapheme: avgjoehrelse
+  - grapheme: avgjørelse
     phonemes: [aa, v, j, oeh, r, ax, l, s, ax]
-  - grapheme: avgjoehrende
+  - grapheme: avgjørende
     phonemes: [aa, v, j, oeh, r, ax, n, ax]
   - grapheme: avgrense
     phonemes: [aa, v, g, r, eh, n, s, ax]
@@ -636,13 +636,13 @@ entries:
     phonemes: [aa, v, h, eh, ng, ih, k, s, t, ax]
   - grapheme: avholdt
     phonemes: [aa, v, h, ao, l, t]
-  - grapheme: avhoehre
+  - grapheme: avhøre
     phonemes: [aa, v, h, oeh, r, ax]
   - grapheme: avis
     phonemes: [aa, v, iy, s]
   - grapheme: aviskiosk
     phonemes: [aa, v, iy, s, xh, ih, ao, s, k]
-  - grapheme: avkjoehle
+  - grapheme: avkjøle
     phonemes: [aa, v, xh, oeh, l, ax]
   - grapheme: avkledd
     phonemes: [aa, v, k, l, eh, d]
@@ -664,7 +664,7 @@ entries:
     phonemes: [aa, v, l, iy, v, ax]
   - grapheme: avlyse
     phonemes: [aa, v, l, ueh, s, ax]
-  - grapheme: avloehse
+  - grapheme: avløse
     phonemes: [aa, v, l, oeh, s, ax]
   - grapheme: avmålt
     phonemes: [aa, v, m, oo, l, t]
@@ -722,7 +722,7 @@ entries:
     phonemes: [aa, v, sz, l, aa, p, ax, t]
   - grapheme: avslutte
     phonemes: [aa, v, sz, l, uh, t, ax]
-  - grapheme: avsloehre
+  - grapheme: avsløre
     phonemes: [aa, v, sz, l, oeh, r, ax]
   - grapheme: avslå
     phonemes: [aa, v, sz, l, oo]
@@ -871,41 +871,41 @@ entries:
   - grapheme: bare
     phonemes: [b, aa, r, ax]
   - grapheme: baren
-    phonemes: [b, aa, nng]
+    phonemes: [b, aa, ng]
   - grapheme: barer
     phonemes: [b, aa, r, ax, r]
   - grapheme: barn
-    phonemes: [b, aa, nng]
+    phonemes: [b, aa, ng]
   - grapheme: barna
-    phonemes: [b, aa, nng, aa]
+    phonemes: [b, aa, ng, aa]
   - grapheme: barnebarn
-    phonemes: [b, aa, nng, ax, b, aa, nng]
+    phonemes: [b, aa, ng, ax, b, aa, ng]
   - grapheme: barnebasseng
-    phonemes: [b, aa, nng, ax, b, aa, s, eh, ng]
+    phonemes: [b, aa, ng, ax, b, aa, s, eh, ng]
   - grapheme: barnebillett
-    phonemes: [b, aa, nng, ax, b, ih, l, eh, t]
+    phonemes: [b, aa, ng, ax, b, ih, l, eh, t]
   - grapheme: barnehage
-    phonemes: [b, aa, nng, ax, h, aa, g, ax]
+    phonemes: [b, aa, ng, ax, h, aa, g, ax]
   - grapheme: barneheis
-    phonemes: [b, aa, nng, ax, h, ay, s]
+    phonemes: [b, aa, ng, ax, h, ay, s]
   - grapheme: barnelege
-    phonemes: [b, aa, nng, ax, l, ee, g, ax]
+    phonemes: [b, aa, ng, ax, l, ee, g, ax]
   - grapheme: barnemat
-    phonemes: [b, aa, nng, ax, m, aa, t]
+    phonemes: [b, aa, ng, ax, m, aa, t]
   - grapheme: barnemoderasjon
-    phonemes: [b, aa, nng, ax, m, uuh, d, ax, r, aa, sz, uu, n]
+    phonemes: [b, aa, ng, ax, m, uuh, d, ax, r, aa, sz, uu, n]
   - grapheme: barnepass
-    phonemes: [b, aa, nng, ax, p, aa, s]
+    phonemes: [b, aa, ng, ax, p, aa, s]
   - grapheme: barneporsjon
-    phonemes: [b, aa, nng, ax, p, uuh, sz, uu, n]
+    phonemes: [b, aa, ng, ax, p, uuh, sz, uu, n]
   - grapheme: barneseng
-    phonemes: [b, aa, nng, ax, s, eh, ng]
+    phonemes: [b, aa, ng, ax, s, eh, ng]
   - grapheme: barnesete
-    phonemes: [b, aa, nng, ax, s, ee, t, ax]
+    phonemes: [b, aa, ng, ax, s, ee, t, ax]
   - grapheme: barnesjukdom
-    phonemes: [b, aa, nng, ax, sz, uh, k, d, uuh, m]
+    phonemes: [b, aa, ng, ax, sz, uh, k, d, uuh, m]
   - grapheme: barnevakt
-    phonemes: [b, aa, nng, ax, v, aa, k, t]
+    phonemes: [b, aa, ng, ax, v, aa, k, t]
   - grapheme: barokk
     phonemes: [b, aa, r, ao, k]
   - grapheme: baron
@@ -919,7 +919,7 @@ entries:
   - grapheme: bart
     phonemes: [b, aa, t]
   - grapheme: barten
-    phonemes: [b, aa, t, nng]
+    phonemes: [b, aa, t, ng]
   - grapheme: baryton
     phonemes: [b, aa, r, ih, t, ao, n]
   - grapheme: base
@@ -968,23 +968,23 @@ entries:
     phonemes: [b, ee, d, r, ax]
   - grapheme: bedrive
     phonemes: [b, ax, d, r, iy, v, ax]
-  - grapheme: bedroehvelig
+  - grapheme: bedrøvelig
     phonemes: [b, ax, d, r, oeh, v, ax, l, ih]
-  - grapheme: bedroehvelige
+  - grapheme: bedrøvelige
     phonemes: [b, ax, d, r, oeh, v, ax, l, ih, ax]
-  - grapheme: bedroehveligere
+  - grapheme: bedrøveligere
     phonemes: [b, ax, d, r, oeh, v, ax, l, ih, r, ax]
-  - grapheme: bedroehveligst
+  - grapheme: bedrøveligst
     phonemes: [b, ax, d, r, oeh, v, ax, l, ih, k, s, t]
-  - grapheme: bedroehveligste
+  - grapheme: bedrøveligste
     phonemes: [b, ax, d, r, oeh, v, ax, l, ih, k, s, t, ax]
   - grapheme: bedugga
     phonemes: [b, ax, d, uh, g, ax, t]
   - grapheme: bedugget
     phonemes: [b, ax, d, uh, g, ax, t]
-  - grapheme: bedoehmme
+  - grapheme: bedømme
     phonemes: [b, ax, d, oe, m, ax]
-  - grapheme: bedoehve
+  - grapheme: bedøve
     phonemes: [b, ax, d, oeh, v, ax]
   - grapheme: bedårende
     phonemes: [b, ax, d, oo, r, ax, n, ax]
@@ -1082,17 +1082,17 @@ entries:
     phonemes: [b, ax, h, ao, l, ax]
   - grapheme: beholder
     phonemes: [b, eh, h, ao, l, ax, r]
-  - grapheme: behoehrig
+  - grapheme: behørig
     phonemes: [b, ax, h, oeh, r, ih]
-  - grapheme: behoehrige
+  - grapheme: behørige
     phonemes: [b, ax, h, oeh, r, ih, ax]
-  - grapheme: behoehrigere
+  - grapheme: behørigere
     phonemes: [b, ax, h, oeh, r, ih, r, ax]
-  - grapheme: behoehrigst
+  - grapheme: behørigst
     phonemes: [b, ax, h, oeh, r, ih, k, s, t]
-  - grapheme: behoehrigste
+  - grapheme: behørigste
     phonemes: [b, ax, h, oeh, r, ih, k, s, t, ax]
-  - grapheme: behoehve
+  - grapheme: behøve
     phonemes: [b, ax, h, oeh, v, ax]
   - grapheme: beige
     phonemes: [b, ee, sz]
@@ -1140,7 +1140,7 @@ entries:
     phonemes: [b, ax, k, l, ee]
   - grapheme: beklemt
     phonemes: [b, ax, k, l, eh, m, t]
-  - grapheme: bekmoehrk
+  - grapheme: bekmørk
     phonemes: [b, ee, k, m, oe, r, k]
   - grapheme: bekrefte
     phonemes: [b, ax, k, r, eh, f, t, ax]
@@ -1178,11 +1178,11 @@ entries:
     phonemes: [b, ax, l, ueh, s, ax]
   - grapheme: belære
     phonemes: [b, ax, l, ae, r, ax]
-  - grapheme: beloehnne
+  - grapheme: belønne
     phonemes: [b, ax, l, oe, n, ax]
-  - grapheme: beloehnning
+  - grapheme: belønning
     phonemes: [b, eh, l, oe, n, ih, ng]
-  - grapheme: beloehp
+  - grapheme: beløp
     phonemes: [b, eh, l, oeh, p]
   - grapheme: bemerke
     phonemes: [b, ax, m, ae, r, k, ax]
@@ -1246,11 +1246,11 @@ entries:
     phonemes: [b, ax, r, ue, k, t, ax, t]
   - grapheme: beryktet
     phonemes: [b, ax, r, ue, k, t, ax, t]
-  - grapheme: beroehmme
+  - grapheme: berømme
     phonemes: [b, ax, r, oe, m, ax]
-  - grapheme: beroehmt
+  - grapheme: berømt
     phonemes: [b, ax, r, oe, m, t]
-  - grapheme: beroehre
+  - grapheme: berøre
     phonemes: [b, ax, r, oeh, r, ax]
   - grapheme: besatt
     phonemes: [b, ax, s, aa, t]
@@ -1330,7 +1330,7 @@ entries:
     phonemes: [b, ax, sz, t, ih, m, t]
   - grapheme: bestride
     phonemes: [b, ax, s, t, r, iy, d, ax]
-  - grapheme: bestoehve
+  - grapheme: bestøve
     phonemes: [b, ax, s, t, oeh, v, ax]
   - grapheme: bestå
     phonemes: [b, ax, s, t, oo]
@@ -1360,11 +1360,11 @@ entries:
     phonemes: [b, ax, s, ue, n, ax, l, ih, k, s, t]
   - grapheme: besynderligste
     phonemes: [b, ax, s, ue, n, ax, l, ih, k, s, t, ax]
-  - grapheme: besoehk
+  - grapheme: besøk
     phonemes: [b, ax, s, oeh, k]
-  - grapheme: besoehke
+  - grapheme: besøke
     phonemes: [b, ax, s, oeh, k, ax]
-  - grapheme: besoehrge
+  - grapheme: besørge
     phonemes: [b, ax, s, oe, r, g, ax]
   - grapheme: betale
     phonemes: [b, ax, t, aa, l, ax]
@@ -1462,7 +1462,7 @@ entries:
     phonemes: [b, ax, v, iy, s, ax]
   - grapheme: bevisst
     phonemes: [b, ax, v, ih, s, t]
-  - grapheme: bevisstloehs
+  - grapheme: bevisstløs
     phonemes: [b, ax, v, ih, s, t, l, oeh, s]
   - grapheme: bevitne
     phonemes: [b, ax, v, ih, t, n, ax]
@@ -1576,7 +1576,7 @@ entries:
     phonemes: [b, iy, v, oo, n, ax]
   - grapheme: bjeffe
     phonemes: [b, j, eh, f, ax]
-  - grapheme: bjoehrk
+  - grapheme: bjørk
     phonemes: [b, j, oe, r, k]
   - grapheme: bla
     phonemes: [b, l, aa]
@@ -1692,17 +1692,17 @@ entries:
     phonemes: [b, l, ae, r, ax]
   - grapheme: blærete
     phonemes: [b, l, ae, r, ax, t, ax]
-  - grapheme: bloeh
+  - grapheme: blø
     phonemes: [b, l, oeh]
-  - grapheme: bloehdning
+  - grapheme: blødning
     phonemes: [b, l, oeh, d, n, ih, ng]
-  - grapheme: bloehffe
+  - grapheme: bløffe
     phonemes: [b, l, oe, f, ax]
-  - grapheme: bloeht
+  - grapheme: bløt
     phonemes: [b, l, oeh, t]
-  - grapheme: bloehtgjoehre
+  - grapheme: bløtgjøre
     phonemes: [b, l, oeh, t, j, oeh, r, ax]
-  - grapheme: bloehtlegge
+  - grapheme: bløtlegge
     phonemes: [b, l, oeh, t, l, ay, ax]
   - grapheme: blå
     phonemes: [b, l, oo]
@@ -1718,7 +1718,7 @@ entries:
     phonemes: [b, l, oo, s, ax, r]
   - grapheme: blåveis
     phonemes: [b, l, oo, v, ay, s]
-  - grapheme: blåoehyd
+  - grapheme: blåøyd
     phonemes: [b, l, oo, oe, j, d]
   - grapheme: bo
     phonemes: [b, uu]
@@ -1800,7 +1800,7 @@ entries:
     phonemes: [b, uuh, t]
   - grapheme: borte
     phonemes: [b, uuh, t, ax]
-  - grapheme: bortfoehre
+  - grapheme: bortføre
     phonemes: [b, uuh, t, f, oeh, r, ax]
   - grapheme: bortimot
     phonemes: [b, uuh, t, ih, m, uu, t]
@@ -1824,7 +1824,7 @@ entries:
     phonemes: [b, uuh, t, aa, n, ih, s, k]
   - grapheme: bote
     phonemes: [b, oeh, t, ax]
-  - grapheme: botsoehvelse
+  - grapheme: botsøvelse
     phonemes: [b, uu, t, s, oeh, v, ax, l, s, ax]
   - grapheme: bowling
     phonemes: [b, ao, uuh, l, ih, ng]
@@ -1958,15 +1958,15 @@ entries:
     phonemes: [b, r, ue, s, t]
   - grapheme: brystvorte
     phonemes: [b, r, ue, s, t, v, uuh, t, ax]
-  - grapheme: broehd
+  - grapheme: brød
     phonemes: [b, r, oeh]
-  - grapheme: broehdrister
+  - grapheme: brødrister
     phonemes: [b, r, oeh, r, ih, s, t, ax, r]
-  - grapheme: broehle
+  - grapheme: brøle
     phonemes: [b, r, oeh, l, ax]
-  - grapheme: broehnn
+  - grapheme: brønn
     phonemes: [b, r, oe, n]
-  - grapheme: broehyte
+  - grapheme: brøyte
     phonemes: [b, r, oe, j, t, ax]
   - grapheme: brå
     phonemes: [b, r, oo]
@@ -2074,33 +2074,33 @@ entries:
     phonemes: [b, ae, r, b, aa, r]
   - grapheme: bære
     phonemes: [b, ae, r, ax]
-  - grapheme: boehker
+  - grapheme: bøker
     phonemes: [b, oeh, k, ax, r]
-  - grapheme: boehlge
+  - grapheme: bølge
     phonemes: [b, oe, l, g, ax]
-  - grapheme: boehllete
+  - grapheme: bøllete
     phonemes: [b, oe, l, ax, t, ax]
-  - grapheme: boehnder
+  - grapheme: bønder
     phonemes: [b, oe, n, ax, r]
-  - grapheme: boehnn
+  - grapheme: bønn
     phonemes: [b, oe, n]
-  - grapheme: boehnne
+  - grapheme: bønne
     phonemes: [b, oe, n, ax]
-  - grapheme: boehnnene
+  - grapheme: bønnene
     phonemes: [b, oe, n, ax, n, ax]
-  - grapheme: boehnnfalle
+  - grapheme: bønnfalle
     phonemes: [b, oe, n, f, aa, l, ax]
-  - grapheme: boehrse
+  - grapheme: børse
     phonemes: [b, oe, sz, ax]
-  - grapheme: boehrste
+  - grapheme: børste
     phonemes: [b, oe, sz, t, ax]
-  - grapheme: boehte
+  - grapheme: bøte
     phonemes: [b, oeh, t, ax]
-  - grapheme: boehtelegge
+  - grapheme: bøtelegge
     phonemes: [b, oeh, t, ax, l, ay, ax]
-  - grapheme: boehter
+  - grapheme: bøter
     phonemes: [b, oeh, t, ax, r]
-  - grapheme: boehye
+  - grapheme: bøye
     phonemes: [b, oe, j, ax]
   - grapheme: både
     phonemes: [b, oo, d, ax]
@@ -2148,9 +2148,9 @@ entries:
     phonemes: [d, aa, b, ax]
   - grapheme: dag
     phonemes: [d, aa, g]
-  - grapheme: dagdroehm
+  - grapheme: dagdrøm
     phonemes: [d, aa, g, d, r, oe, m]
-  - grapheme: dagdroehmme
+  - grapheme: dagdrømme
     phonemes: [d, aa, g, d, r, oe, m, ax]
   - grapheme: daggry
     phonemes: [d, aa, g, r, ueh]
@@ -2183,7 +2183,7 @@ entries:
   - grapheme: dale
     phonemes: [d, aa, l, ax]
   - grapheme: dalen
-    phonemes: [d, aa, nng]
+    phonemes: [d, aa, ng]
   - grapheme: dam
     phonemes: [d, aa, m]
   - grapheme: dame
@@ -2642,7 +2642,7 @@ entries:
     phonemes: [d, r, ao, p, ax]
   - grapheme: drosje
     phonemes: [d, r, ao, sz, ax]
-  - grapheme: drosjesjåfoehr
+  - grapheme: drosjesjåfør
     phonemes: [d, r, ao, sz, ax, sz, ao, f, oeh, r]
   - grapheme: druesukker
     phonemes: [d, r, uh, ax, s, uh, k, ax, r]
@@ -2654,21 +2654,21 @@ entries:
     phonemes: [d, r, ue, p, ax]
   - grapheme: drysse
     phonemes: [d, r, ue, s, ax]
-  - grapheme: droehfte
+  - grapheme: drøfte
     phonemes: [d, r, oe, f, t, ax]
-  - grapheme: droehm
+  - grapheme: drøm
     phonemes: [d, r, oe, m]
-  - grapheme: droehmme
+  - grapheme: drømme
     phonemes: [d, r, oe, m, ax]
-  - grapheme: droehmmeaktig
+  - grapheme: drømmeaktig
     phonemes: [d, r, oe, m, aa, k, t, ih]
-  - grapheme: droehnne
+  - grapheme: drønne
     phonemes: [d, r, oe, n, ax]
-  - grapheme: droehvel
+  - grapheme: drøvel
     phonemes: [d, r, oe, v, ax, l]
-  - grapheme: droehy
+  - grapheme: drøy
     phonemes: [d, r, oe, j]
-  - grapheme: droehye
+  - grapheme: drøye
     phonemes: [d, r, oe, j, ax]
   - grapheme: dråpe
     phonemes: [d, r, oo, p, ax]
@@ -2812,49 +2812,49 @@ entries:
     phonemes: [d, ue, t, ax]
   - grapheme: dyvåt
     phonemes: [d, ueh, v, oo, t]
-  - grapheme: doeh
+  - grapheme: dø
     phonemes: [d, oeh]
-  - grapheme: doehd
+  - grapheme: død
     phonemes: [d, oeh, d]
-  - grapheme: doehdelig
+  - grapheme: dødelig
     phonemes: [d, oeh, d, ax, l, ih]
-  - grapheme: doehdelige
+  - grapheme: dødelige
     phonemes: [d, oeh, d, ax, l, ih, ax]
-  - grapheme: doehdeligere
+  - grapheme: dødeligere
     phonemes: [d, oeh, d, ax, l, ih, r, ax]
-  - grapheme: doehdeligst
+  - grapheme: dødeligst
     phonemes: [d, oeh, d, ax, l, ih, k, s, t]
-  - grapheme: doehdeligste
+  - grapheme: dødeligste
     phonemes: [d, oeh, d, ax, l, ih, k, s, t, ax]
-  - grapheme: doehgn
+  - grapheme: døgn
     phonemes: [d, oe, j, n]
-  - grapheme: doehlge
+  - grapheme: dølge
     phonemes: [d, oe, l, g, ax]
-  - grapheme: doehmme
+  - grapheme: dømme
     phonemes: [d, oe, m, ax]
-  - grapheme: doehpe
+  - grapheme: døpe
     phonemes: [d, oeh, p, ax]
-  - grapheme: doehr
+  - grapheme: dør
     phonemes: [d, oeh, r]
-  - grapheme: doehrslag
+  - grapheme: dørslag
     phonemes: [d, oe, sz, l, aa, g]
-  - grapheme: doehrstokk
+  - grapheme: dørstokk
     phonemes: [d, oeh, sz, t, ao, k]
-  - grapheme: doehse
+  - grapheme: døse
     phonemes: [d, oeh, s, ax]
-  - grapheme: doehsig
+  - grapheme: døsig
     phonemes: [d, oeh, s, ih]
-  - grapheme: doehsige
+  - grapheme: døsige
     phonemes: [d, oeh, s, ih, ax]
-  - grapheme: doehsigere
+  - grapheme: døsigere
     phonemes: [d, oeh, s, ih, r, ax]
-  - grapheme: doehsigst
+  - grapheme: døsigst
     phonemes: [d, oeh, s, ih, k, s, t]
-  - grapheme: doehsigste
+  - grapheme: døsigste
     phonemes: [d, oeh, s, ih, k, s, t, ax]
-  - grapheme: doehv
+  - grapheme: døv
     phonemes: [d, oeh, v]
-  - grapheme: doehyve
+  - grapheme: døyve
     phonemes: [d, oe, j, v, ax]
   - grapheme: dåne
     phonemes: [d, oo, n, ax]
@@ -2944,7 +2944,7 @@ entries:
     phonemes: [eh, g]
   - grapheme: egge
     phonemes: [ay, ax]
-  - grapheme: eggeroehre
+  - grapheme: eggerøre
     phonemes: [ay, ax, r, oeh, r, ax]
   - grapheme: egle
     phonemes: [ay, l, ax]
@@ -2988,7 +2988,7 @@ entries:
     phonemes: [eh, k, s, k, l, uh, d, ee, r, ax]
   - grapheme: eksklusiv
     phonemes: [eh, k, s, k, l, uh, s, ih, v]
-  - grapheme: eksosroehr
+  - grapheme: eksosrør
     phonemes: [eh, k, s, uu, s, r, oeh, r]
   - grapheme: eksotisk
     phonemes: [eh, k, s, uu, t, ih, s, k]
@@ -3136,7 +3136,7 @@ entries:
     phonemes: [eh, n, ax, l, ih, k, s, t, ax]
   - grapheme: endelse
     phonemes: [eh, n, ax, l, s, ax]
-  - grapheme: endeloehs
+  - grapheme: endeløs
     phonemes: [eh, n, ax, l, oeh, s]
   - grapheme: ender
     phonemes: [eh, n, ax, r]
@@ -3325,9 +3325,9 @@ entries:
   - grapheme: erme
     phonemes: [ae, r, m, ax]
   - grapheme: ernst
-    phonemes: [eh, nng, s, t]
+    phonemes: [eh, ng, s, t]
   - grapheme: ernære
-    phonemes: [ae, nng, ae, r, ax]
+    phonemes: [ae, ng, ae, r, ax]
   - grapheme: erobre
     phonemes: [ae, r, uu, b, r, ax]
   - grapheme: erotisk
@@ -3374,7 +3374,7 @@ entries:
     phonemes: [eh, t, ax, r]
   - grapheme: etterforske
     phonemes: [eh, t, ax, r, f, ao, sz, k, ax]
-  - grapheme: etterfoehlge
+  - grapheme: etterfølge
     phonemes: [eh, t, ax, r, f, oe, l, ax]
   - grapheme: etterkomme
     phonemes: [eh, t, ax, r, k, ao, m, ax]
@@ -3387,14 +3387,14 @@ entries:
   - grapheme: ettermiddag
     phonemes: [eh, t, ax, r, m, ih, d, aa, g]
   - grapheme: etternavn
-    phonemes: [eh, t, ax, nng, aa, v, ax, n]
+    phonemes: [eh, t, ax, ng, aa, v, ax, n]
   - grapheme: etterpåklok
     phonemes: [eh, t, ax, r, p, ao, k, l, uu, k]
   - grapheme: etterse
     phonemes: [eh, t, ax, sz, ee]
   - grapheme: ettersende
     phonemes: [eh, t, ax, sz, eh, n, ax]
-  - grapheme: ettersoehke
+  - grapheme: ettersøke
     phonemes: [eh, t, ax, sz, oeh, k, ax]
   - grapheme: ettertenksom
     phonemes: [eh, t, ax, t, eh, ng, k, s, ao, m]
@@ -3755,9 +3755,9 @@ entries:
   - grapheme: fettere
     phonemes: [f, eh, t, ax, r, ax]
   - grapheme: fetteren
-    phonemes: [f, eh, t, ae, nng]
+    phonemes: [f, eh, t, ae, ng]
   - grapheme: fettern
-    phonemes: [f, eh, t, ae, nng]
+    phonemes: [f, eh, t, ae, ng]
   - grapheme: fiendtlig
     phonemes: [f, iy, ax, n, t, l, ih]
   - grapheme: fiendtlige
@@ -3798,7 +3798,7 @@ entries:
     phonemes: [f, ih, l, m]
   - grapheme: filme
     phonemes: [f, ih, l, m, ax]
-  - grapheme: filmfoehlsomhet
+  - grapheme: filmfølsomhet
     phonemes: [f, ih, l, m, f, oe, l, s, ao, m, h, ee, t]
   - grapheme: filmskuespiller
     phonemes: [f, ih, l, m, s, k, uh, ax, s, p, ih, l, ax, r]
@@ -3881,15 +3881,15 @@ entries:
   - grapheme: fjellvegg
     phonemes: [f, j, ae, l, v, ae, g]
   - grapheme: fjern
-    phonemes: [f, xh, ae, nng]
+    phonemes: [f, xh, ae, ng]
   - grapheme: fjerne
-    phonemes: [f, j, ae, nng, ax]
+    phonemes: [f, j, ae, ng, ax]
   - grapheme: fjernlys
-    phonemes: [f, j, ae, nng, l, ueh, s]
+    phonemes: [f, j, ae, ng, l, ueh, s]
   - grapheme: fjernsyn
-    phonemes: [f, j, ae, nng, s, ueh, n]
+    phonemes: [f, j, ae, ng, s, ueh, n]
   - grapheme: fjernsynsrom
-    phonemes: [f, j, ae, nng, s, ueh, n, s, r, uuh, m]
+    phonemes: [f, j, ae, ng, s, ueh, n, s, r, uuh, m]
   - grapheme: fjollete
     phonemes: [f, j, ao, l, ax, t, ax]
   - grapheme: fjord
@@ -4022,15 +4022,15 @@ entries:
     phonemes: [f, l, ueh, v, ae, t]
   - grapheme: flyvertinne
     phonemes: [f, l, ueh, v, ae, t, ih, n, ax]
-  - grapheme: floehrte
+  - grapheme: flørte
     phonemes: [f, l, oeh, t, ax]
-  - grapheme: floehte
+  - grapheme: fløte
     phonemes: [f, l, oeh, t, ax]
-  - grapheme: floehy
+  - grapheme: fløy
     phonemes: [f, l, oe, j]
-  - grapheme: floehyel
+  - grapheme: fløyel
     phonemes: [f, l, oe, j, ax, l]
-  - grapheme: floehyte
+  - grapheme: fløyte
     phonemes: [f, l, oe, j, t, ax]
   - grapheme: flå
     phonemes: [f, l, oo]
@@ -4142,11 +4142,11 @@ entries:
     phonemes: [f, ao, r, b, ih, n, ax, l, s, ax]
   - grapheme: forbli
     phonemes: [f, ao, r, b, l, iy]
-  - grapheme: forbloeh
+  - grapheme: forblø
     phonemes: [f, ao, r, b, l, oeh]
-  - grapheme: forbloehffe
+  - grapheme: forbløffe
     phonemes: [f, ao, r, b, l, oe, f, ax]
-  - grapheme: forbloehffende
+  - grapheme: forbløffende
     phonemes: [f, ao, r, b, l, oe, f, ax, n, ax]
   - grapheme: forbrenne
     phonemes: [f, ao, r, b, r, eh, n, ax]
@@ -4198,7 +4198,7 @@ entries:
     phonemes: [f, ao, d, r, ay, ax]
   - grapheme: fordringsfull
     phonemes: [f, ao, d, r, ih, ng, s, f, uh, l]
-  - grapheme: fordringsloehs
+  - grapheme: fordringsløs
     phonemes: [f, ao, d, r, ih, ng, s, l, oeh, s]
   - grapheme: fordrive
     phonemes: [f, ao, d, r, iy, v, ax]
@@ -4208,11 +4208,11 @@ entries:
     phonemes: [f, ao, d, uh, m, s]
   - grapheme: fordype
     phonemes: [f, ao, d, ueh, p, ax]
-  - grapheme: fordoehmme
+  - grapheme: fordømme
     phonemes: [f, ao, d, oe, m, ax]
-  - grapheme: fordoehye
+  - grapheme: fordøye
     phonemes: [f, ao, d, oe, j, ax]
-  - grapheme: fordoehyelse
+  - grapheme: fordøyelse
     phonemes: [f, ao, d, oe, j, eh, l, s, ax]
   - grapheme: fôre
     phonemes: [f, uu, r, ax]
@@ -4246,15 +4246,15 @@ entries:
     phonemes: [f, oo, r, ax, l, ih, g, ax]
   - grapheme: forelske
     phonemes: [f, ao, r, eh, l, s, k, ax]
-  - grapheme: foreloehpig
+  - grapheme: foreløpig
     phonemes: [f, oo, r, ax, l, oeh, p, ih]
-  - grapheme: foreloehpige
+  - grapheme: foreløpige
     phonemes: [f, oo, r, ax, l, oeh, p, ih, ax]
-  - grapheme: foreloehpigere
+  - grapheme: foreløpigere
     phonemes: [f, oo, r, ax, l, oeh, p, ih, r, ax]
-  - grapheme: foreloehpigst
+  - grapheme: foreløpigst
     phonemes: [f, oo, r, ax, l, oeh, p, ih, k, s, t]
-  - grapheme: foreloehpigste
+  - grapheme: foreløpigste
     phonemes: [f, oo, r, ax, l, oeh, p, ih, k, s, t, ax]
   - grapheme: forene
     phonemes: [f, ao, r, ee, n, ax]
@@ -4340,9 +4340,9 @@ entries:
     phonemes: [f, ao, r, f, r, ih, s, k, n, ih, ng]
   - grapheme: forfrossen
     phonemes: [f, ao, r, f, r, ao, s, ax, n]
-  - grapheme: forfoehlge
+  - grapheme: forfølge
     phonemes: [f, ao, r, f, oe, l, ax]
-  - grapheme: forfoehre
+  - grapheme: forføre
     phonemes: [f, ao, r, f, oeh, r, ax]
   - grapheme: forgifte
     phonemes: [f, ao, r, j, ih, f, t, ax]
@@ -4388,9 +4388,9 @@ entries:
     phonemes: [f, ao, r, h, ih, n, d, r, ax]
   - grapheme: forhold
     phonemes: [f, ao, r, h, ao, l]
-  - grapheme: forhoehre
+  - grapheme: forhøre
     phonemes: [f, ao, r, h, oeh, r, ax]
-  - grapheme: forhoehye
+  - grapheme: forhøye
     phonemes: [f, ao, r, h, oe, j, ax]
   - grapheme: forhåpentligvis
     phonemes: [f, ao, r, h, ao, p, ax, n, t, l, iy, v, iy, s]
@@ -4408,7 +4408,7 @@ entries:
     phonemes: [f, ao, r, k, aa, s, t, ax, l, ih, k, s, t]
   - grapheme: forkasteligste
     phonemes: [f, ao, r, k, aa, s, t, ax, l, ih, k, s, t, ax]
-  - grapheme: forkjoehlelse
+  - grapheme: forkjølelse
     phonemes: [f, ao, r, xh, oeh, l, eh, l, s, ax]
   - grapheme: forklare
     phonemes: [f, ao, k, l, aa, r, ax]
@@ -4452,7 +4452,7 @@ entries:
     phonemes: [f, ao, l, oo, v, ax]
   - grapheme: forlovede
     phonemes: [f, ao, l, ao, v, ax, d, ax]
-  - grapheme: forloehpe
+  - grapheme: forløpe
     phonemes: [f, ao, l, oeh, p, ax]
   - grapheme: form
     phonemes: [f, ao, r, m]
@@ -4491,37 +4491,37 @@ entries:
   - grapheme: formulere
     phonemes: [f, ao, r, m, uh, l, ee, r, ax]
   - grapheme: fornavn
-    phonemes: [f, ao, nng, aa, v, ax, n]
+    phonemes: [f, ao, ng, aa, v, ax, n]
   - grapheme: fornedre
-    phonemes: [f, ao, nng, ee, d, r, ax]
+    phonemes: [f, ao, ng, ee, d, r, ax]
   - grapheme: fornekte
-    phonemes: [f, ao, nng, eh, k, t, ax]
+    phonemes: [f, ao, ng, eh, k, t, ax]
   - grapheme: fornem
-    phonemes: [f, ao, nng, eh, m]
+    phonemes: [f, ao, ng, eh, m]
   - grapheme: fornemme
-    phonemes: [f, ao, nng, eh, m, ax]
+    phonemes: [f, ao, ng, eh, m, ax]
   - grapheme: fornye
-    phonemes: [f, ao, nng, ueh, ax]
+    phonemes: [f, ao, ng, ueh, ax]
   - grapheme: fornærme
-    phonemes: [f, ao, nng, ae, r, m, ax]
+    phonemes: [f, ao, ng, ae, r, m, ax]
   - grapheme: fornærmelse
-    phonemes: [f, ao, nng, ae, r, m, eh, l, s, ax]
-  - grapheme: fornoehyd
-    phonemes: [f, ao, nng, oe, j, d]
-  - grapheme: fornoehyelig
-    phonemes: [f, ao, nng, oe, j, ax, l, ih]
-  - grapheme: fornoehyelige
-    phonemes: [f, ao, nng, oe, j, ax, l, ih, ax]
-  - grapheme: fornoehyeligere
-    phonemes: [f, ao, nng, oe, j, ax, l, ih, r, ax]
-  - grapheme: fornoehyeligst
-    phonemes: [f, ao, nng, oe, j, ax, l, ih, k, s, t]
-  - grapheme: fornoehyeligste
-    phonemes: [f, ao, nng, oe, j, ax, l, ih, k, s, t, ax]
-  - grapheme: fornoehyelse
-    phonemes: [f, ao, nng, oe, j, eh, l, s, ax]
-  - grapheme: fornoehyelsespark
-    phonemes: [f, ao, nng, oe, j, eh, l, s, ax, s, p, aa, r, k]
+    phonemes: [f, ao, ng, ae, r, m, eh, l, s, ax]
+  - grapheme: fornøyd
+    phonemes: [f, ao, ng, oe, j, d]
+  - grapheme: fornøyelig
+    phonemes: [f, ao, ng, oe, j, ax, l, ih]
+  - grapheme: fornøyelige
+    phonemes: [f, ao, ng, oe, j, ax, l, ih, ax]
+  - grapheme: fornøyeligere
+    phonemes: [f, ao, ng, oe, j, ax, l, ih, r, ax]
+  - grapheme: fornøyeligst
+    phonemes: [f, ao, ng, oe, j, ax, l, ih, k, s, t]
+  - grapheme: fornøyeligste
+    phonemes: [f, ao, ng, oe, j, ax, l, ih, k, s, t, ax]
+  - grapheme: fornøyelse
+    phonemes: [f, ao, ng, oe, j, eh, l, s, ax]
+  - grapheme: fornøyelsespark
+    phonemes: [f, ao, ng, oe, j, eh, l, s, ax, s, p, aa, r, k]
   - grapheme: forordne
     phonemes: [f, ao, r, ao, d, n, ax]
   - grapheme: forpeste
@@ -4640,7 +4640,7 @@ entries:
     phonemes: [f, ao, sz, t, uh, m, ax]
   - grapheme: forstyrre
     phonemes: [f, ao, sz, t, ue, r, ax]
-  - grapheme: forstoehrre
+  - grapheme: forstørre
     phonemes: [f, ao, sz, t, oe, r, ax]
   - grapheme: forstå
     phonemes: [f, ao, sz, t, oo]
@@ -4672,13 +4672,13 @@ entries:
     phonemes: [f, ao, sz, v, ih, n, ax]
   - grapheme: forsyne
     phonemes: [f, ao, sz, ueh, n, ax]
-  - grapheme: forsoehk
+  - grapheme: forsøk
     phonemes: [f, ao, sz, oeh, k]
-  - grapheme: forsoehke
+  - grapheme: forsøke
     phonemes: [f, ao, sz, oeh, k, ax]
-  - grapheme: forsoehmme
+  - grapheme: forsømme
     phonemes: [f, ao, sz, oe, m, ax]
-  - grapheme: forsoehrge
+  - grapheme: forsørge
     phonemes: [f, ao, sz, oe, r, g, ax]
   - grapheme: fort
     phonemes: [f, uuh, t]
@@ -4694,7 +4694,7 @@ entries:
     phonemes: [f, ao, t, iy]
   - grapheme: fortjene
     phonemes: [f, ao, t, j, ee, n, ax]
-  - grapheme: fortloehpende
+  - grapheme: fortløpende
     phonemes: [f, uuh, t, l, oeh, p, ax, n, ax]
   - grapheme: fortolle
     phonemes: [f, ao, t, ao, l, ax]
@@ -4732,7 +4732,7 @@ entries:
     phonemes: [f, ao, t, v, iy, l, ax]
   - grapheme: fortære
     phonemes: [f, ao, t, ae, r, ax]
-  - grapheme: fortoehye
+  - grapheme: fortøye
     phonemes: [f, ao, t, oe, j, ax]
   - grapheme: forunderlig
     phonemes: [f, ao, r, uh, n, ax, l, ih]
@@ -4854,7 +4854,7 @@ entries:
     phonemes: [f, r, aa, ng, k, ee, r, ax]
   - grapheme: fransk
     phonemes: [f, r, aa, n, s, k]
-  - grapheme: franskbroehd
+  - grapheme: franskbrød
     phonemes: [f, r, aa, n, s, k, b, r, oeh]
   - grapheme: franskmann
     phonemes: [f, r, aa, n, s, k, m, aa, n]
@@ -4862,7 +4862,7 @@ entries:
     phonemes: [f, r, aa, r, oo, d, ax]
   - grapheme: frase
     phonemes: [f, r, aa, s, ax]
-  - grapheme: frastoehtende
+  - grapheme: frastøtende
     phonemes: [f, r, aa, s, t, oeh, t, ax, n, ax]
   - grapheme: fravær
     phonemes: [f, r, aa, v, ae, r]
@@ -4958,7 +4958,7 @@ entries:
     phonemes: [f, r, iy, r, ax, n]
   - grapheme: frifinne
     phonemes: [f, r, iy, f, ih, n, ax]
-  - grapheme: frigjoehre
+  - grapheme: frigjøre
     phonemes: [f, r, iy, j, oeh, r, ax]
   - grapheme: frihet
     phonemes: [f, r, iy, h, ee, t]
@@ -5026,7 +5026,7 @@ entries:
     phonemes: [f, r, uh, k, t]
   - grapheme: fruktbar
     phonemes: [f, r, uh, k, t, b, aa, r]
-  - grapheme: fruktesloehs
+  - grapheme: fruktesløs
     phonemes: [f, r, uh, k, t, ax, s, l, oeh, s]
   - grapheme: fryd
     phonemes: [f, r, ueh, d]
@@ -5052,9 +5052,9 @@ entries:
     phonemes: [f, r, ue, n, s, ax, t, ax]
   - grapheme: fryse
     phonemes: [f, r, ueh, s, ax]
-  - grapheme: froeh
+  - grapheme: frø
     phonemes: [f, r, oeh]
-  - grapheme: froehken
+  - grapheme: frøken
     phonemes: [f, r, oeh, k, ax, n]
   - grapheme: fråde
     phonemes: [f, r, oo, d, ax]
@@ -5082,7 +5082,7 @@ entries:
     phonemes: [f, uh, l, b, ax, f, aa, r, ax, n]
   - grapheme: fullbyrde
     phonemes: [f, uh, l, b, ue, d, ax]
-  - grapheme: fullfoehre
+  - grapheme: fullføre
     phonemes: [f, uh, l, f, oeh, r, ax]
   - grapheme: fullkommen
     phonemes: [f, uh, l, k, ao, m, ax, n]
@@ -5141,7 +5141,7 @@ entries:
   - grapheme: fyre
     phonemes: [f, ueh, r, ax]
   - grapheme: fyren
-    phonemes: [f, ueh, ue, nng]
+    phonemes: [f, ueh, ue, ng]
   - grapheme: fyrer
     phonemes: [f, ueh, r, ax, r]
   - grapheme: fyrstelig
@@ -5164,61 +5164,61 @@ entries:
     phonemes: [f, ueh, s, ih, s, k]
   - grapheme: fæl
     phonemes: [f, ae, l]
-  - grapheme: færoehysk
+  - grapheme: færøysk
     phonemes: [f, ae, r, oe, j, s, k]
-  - grapheme: foehde
+  - grapheme: føde
     phonemes: [f, oeh, d, ax]
-  - grapheme: foehdested
+  - grapheme: fødested
     phonemes: [f, oeh, d, ax, s, t, ee, d]
-  - grapheme: foehdsel
+  - grapheme: fødsel
     phonemes: [f, oe, t, s, ax, l]
-  - grapheme: foehdselsdag
+  - grapheme: fødselsdag
     phonemes: [f, oe, t, s, ax, l, s, d, aa, g]
-  - grapheme: foehdt
+  - grapheme: født
     phonemes: [f, oe, t]
-  - grapheme: foehle
+  - grapheme: føle
     phonemes: [f, oeh, l, ax]
-  - grapheme: foehlelse
+  - grapheme: følelse
     phonemes: [f, oeh, l, ax, l, s, ax]
-  - grapheme: foehlelsesloehs
+  - grapheme: følelsesløs
     phonemes: [f, oeh, l, ax, l, s, ax, s, l, oeh, s]
-  - grapheme: foehlg
+  - grapheme: følg
     phonemes: [f, oe, l]
-  - grapheme: foehlge
+  - grapheme: følge
     phonemes: [f, oe, l, ax]
-  - grapheme: foehlsom
+  - grapheme: følsom
     phonemes: [f, oeh, l, s, ao, m]
-  - grapheme: foehn
+  - grapheme: føn
     phonemes: [f, oeh, n]
-  - grapheme: foehne
+  - grapheme: føne
     phonemes: [f, oeh, n, ax]
-  - grapheme: foehr
+  - grapheme: før
     phonemes: [f, oeh, r]
-  - grapheme: foehre
+  - grapheme: føre
     phonemes: [f, oeh, r, ax]
-  - grapheme: foehrst
+  - grapheme: først
     phonemes: [f, oe, sz, t]
-  - grapheme: foehrste
+  - grapheme: første
     phonemes: [f, oe, sz, t, ax]
-  - grapheme: foehrstehjelp
+  - grapheme: førstehjelp
     phonemes: [f, oe, sz, t, ax, j, eh, l, p]
-  - grapheme: foehrstehånds
+  - grapheme: førstehånds
     phonemes: [f, oe, sz, t, ax, h, ao, n, s]
-  - grapheme: foehrsteklasses
+  - grapheme: førsteklasses
     phonemes: [f, oe, sz, t, ax, k, l, aa, s, ax, s]
-  - grapheme: foehrti
+  - grapheme: førti
     phonemes: [f, oe, t, iy]
-  - grapheme: foehye
+  - grapheme: føye
     phonemes: [f, oe, j, ax]
-  - grapheme: foehyelig
+  - grapheme: føyelig
     phonemes: [f, oe, j, ax, l, ih]
-  - grapheme: foehyelige
+  - grapheme: føyelige
     phonemes: [f, oe, j, ax, l, ih, ax]
-  - grapheme: foehyeligere
+  - grapheme: føyeligere
     phonemes: [f, oe, j, ax, l, ih, r, ax]
-  - grapheme: foehyeligst
+  - grapheme: føyeligst
     phonemes: [f, oe, j, ax, l, ih, k, s, t]
-  - grapheme: foehyeligste
+  - grapheme: føyeligste
     phonemes: [f, oe, j, ax, l, ih, k, s, t, ax]
   - grapheme: få
     phonemes: [f, oo]
@@ -5357,7 +5357,7 @@ entries:
   - grapheme: genser
     phonemes: [g, eh, n, s, ax, r]
   - grapheme: genseren
-    phonemes: [g, eh, n, s, ae, nng]
+    phonemes: [g, eh, n, s, ae, ng]
   - grapheme: genug
     phonemes: [g, ax, n, uu, k]
   - grapheme: genuin
@@ -5392,7 +5392,7 @@ entries:
     phonemes: [j, iy]
   - grapheme: gidde
     phonemes: [g, ih, d, ax]
-  - grapheme: giddeloehs
+  - grapheme: giddeløs
     phonemes: [g, ih, d, ax, l, oeh, s]
   - grapheme: gift
     phonemes: [j, ih, f, t]
@@ -5456,7 +5456,7 @@ entries:
     phonemes: [j, eh, n, xh, eh, n, ax]
   - grapheme: gjennom
     phonemes: [j, eh, n, ao, m]
-  - grapheme: gjennomfoehre
+  - grapheme: gjennomføre
     phonemes: [j, eh, n, ao, m, f, oeh, r, ax]
   - grapheme: gjennomgå
     phonemes: [j, eh, n, ao, m, g, oo]
@@ -5488,7 +5488,7 @@ entries:
     phonemes: [j, eh, n, ao, m, s, n, ih, t, l, ih, k, s, t, ax]
   - grapheme: gjennomstekt
     phonemes: [j, eh, n, uuh, m, s, t, ee, k, t]
-  - grapheme: gjennomsoehke
+  - grapheme: gjennomsøke
     phonemes: [j, eh, n, ao, m, s, oeh, k, ax]
   - grapheme: gjennomtrengende
     phonemes: [j, eh, n, ao, m, t, r, eh, ng, ax, n, ax]
@@ -5519,7 +5519,7 @@ entries:
   - grapheme: gjerde
     phonemes: [j, ae, r, ax]
   - grapheme: gjerne
-    phonemes: [j, ae, nng, ax]
+    phonemes: [j, ae, ng, ax]
   - grapheme: gjerrig
     phonemes: [j, ae, r, ih]
   - grapheme: gjerrige
@@ -5560,15 +5560,15 @@ entries:
     phonemes: [j, ae, r]
   - grapheme: gjære
     phonemes: [j, ae, r, ax]
-  - grapheme: gjoeh
+  - grapheme: gjø
     phonemes: [j, oeh]
-  - grapheme: gjoehdsle
+  - grapheme: gjødsle
     phonemes: [j, oe, t, s, l, ax]
-  - grapheme: gjoehr
+  - grapheme: gjør
     phonemes: [j, oeh, r]
-  - grapheme: gjoehre
+  - grapheme: gjøre
     phonemes: [j, oeh, r, ax]
-  - grapheme: gjoehrme
+  - grapheme: gjørme
     phonemes: [j, oe, r, m, ax]
   - grapheme: glad
     phonemes: [g, l, aa]
@@ -5640,11 +5640,11 @@ entries:
     phonemes: [g, l, uh, p]
   - grapheme: glupsk
     phonemes: [g, l, uh, p, s, k]
-  - grapheme: gloehde
+  - grapheme: gløde
     phonemes: [g, l, oeh, d, ax]
-  - grapheme: gloehgg
+  - grapheme: gløgg
     phonemes: [g, l, oe, g]
-  - grapheme: gloehtte
+  - grapheme: gløtte
     phonemes: [g, l, oe, t, ax]
   - grapheme: gnage
     phonemes: [g, n, aa, g, ax]
@@ -5668,7 +5668,7 @@ entries:
     phonemes: [g, uu, aa, t, aa]
   - grapheme: godartet
     phonemes: [g, uu, aa, t, aa]
-  - grapheme: godgjoehre
+  - grapheme: godgjøre
     phonemes: [g, uu, j, oeh, r, ax]
   - grapheme: godhjerta
     phonemes: [g, uu, j, ae, t, aa]
@@ -5706,7 +5706,7 @@ entries:
     phonemes: [g, ao, l, f]
   - grapheme: golfklubb
     phonemes: [g, ao, l, f, k, l, uh, b]
-  - grapheme: golfkoehlle
+  - grapheme: golfkølle
     phonemes: [g, ao, l, f, k, oe, l, ax]
   - grapheme: golv
     phonemes: [g, ao, l, v]
@@ -5780,7 +5780,7 @@ entries:
     phonemes: [g, r, eh, m, ax]
   - grapheme: grense
     phonemes: [g, r, eh, n, s, ax]
-  - grapheme: grenseloehs
+  - grapheme: grenseløs
     phonemes: [g, r, eh, n, s, ax, l, oeh, s]
   - grapheme: grenseovergang
     phonemes: [g, r, eh, n, s, ax, oo, v, ax, r, g, aa, ng]
@@ -5868,7 +5868,7 @@ entries:
     phonemes: [g, r, uh, n]
   - grapheme: grunne
     phonemes: [g, r, uh, n, ax]
-  - grapheme: grunngi
+  - grapheme: grungi
     phonemes: [g, r, uh, n, j, iy]
   - grapheme: grunnlag
     phonemes: [g, r, uh, n, l, aa, g]
@@ -5876,7 +5876,7 @@ entries:
     phonemes: [g, r, uh, n, l, ay, ax]
   - grapheme: grunnleggende
     phonemes: [g, r, uh, n, l, ay, ax, n, ax]
-  - grapheme: grunnloehs
+  - grapheme: grunnløs
     phonemes: [g, r, uh, n, l, oeh, s]
   - grapheme: gruppe
     phonemes: [g, r, uh, p, ax]
@@ -5890,19 +5890,19 @@ entries:
     phonemes: [g, r, ue, n, t, ax]
   - grapheme: grytestekt
     phonemes: [g, r, ueh, t, ax, s, t, ee, k, t]
-  - grapheme: groehnlandsk
+  - grapheme: grønlandsk
     phonemes: [g, r, oe, n, l, aa, n, s, k]
-  - grapheme: groehnn
+  - grapheme: grønn
     phonemes: [g, r, oe, n]
-  - grapheme: groehnnlig
+  - grapheme: grønnlig
     phonemes: [g, r, oe, n, l, ih]
-  - grapheme: groehnnsak
+  - grapheme: grønnsak
     phonemes: [g, r, oe, n, s, aa, k]
-  - grapheme: groehnske
+  - grapheme: grønske
     phonemes: [g, r, oe, n, s, k, ax]
-  - grapheme: groehsse
+  - grapheme: grøsse
     phonemes: [g, r, oe, s, ax]
-  - grapheme: groehtete
+  - grapheme: grøtete
     phonemes: [g, r, oeh, t, ax, t, ax]
   - grapheme: grå
     phonemes: [g, r, oo]
@@ -6011,14 +6011,14 @@ entries:
   - grapheme: gyve
     phonemes: [j, ueh, v, ax]
   - grapheme: gæren
-    phonemes: [g, ae, ae, nng]
-  - grapheme: goehrr
+    phonemes: [g, ae, ae, ng]
+  - grapheme: gørr
     phonemes: [g, oe, r]
-  - grapheme: goehtt
+  - grapheme: gøtt
     phonemes: [g, oe, t]
-  - grapheme: goehy
+  - grapheme: gøy
     phonemes: [g, oe, j]
-  - grapheme: goehyal
+  - grapheme: gøyal
     phonemes: [g, oe, j, aa, l]
   - grapheme: gå
     phonemes: [g, oo]
@@ -6076,9 +6076,9 @@ entries:
     phonemes: [h, aa, l, v, ee, r, ax]
   - grapheme: halvpensjon
     phonemes: [h, aa, l, p, aa, ng, sz, uu, n]
-  - grapheme: halvtoehrr
+  - grapheme: halvtørr
     phonemes: [h, aa, l, t, oe, r]
-  - grapheme: halvoehy
+  - grapheme: halvøy
     phonemes: [h, aa, l, oe, j]
   - grapheme: halvår
     phonemes: [h, aa, l, oo, r]
@@ -6134,7 +6134,7 @@ entries:
     phonemes: [h, oo, n, l, ih, k, s, t, ax]
   - grapheme: hann
     phonemes: [h, aa, n]
-  - grapheme: hannkjoehnn
+  - grapheme: hannkjønn
     phonemes: [h, aa, n, xh, oe, n]
   - grapheme: hans
     phonemes: [h, aa, n, s]
@@ -6155,16 +6155,16 @@ entries:
   - grapheme: hardhendt
     phonemes: [h, aa, r, h, eh, n, t]
   - grapheme: hardnakka
-    phonemes: [h, aa, nng, aa, k, aa]
+    phonemes: [h, aa, ng, aa, k, aa]
   - grapheme: hardnakket
-    phonemes: [h, aa, nng, aa, k, ax, t]
+    phonemes: [h, aa, ng, aa, k, ax, t]
   - grapheme: harke
     phonemes: [h, aa, r, k, ax]
   - grapheme: harm
     phonemes: [h, aa, r, m]
   - grapheme: harme
     phonemes: [h, aa, r, m, ax]
-  - grapheme: harmloehs
+  - grapheme: harmløs
     phonemes: [h, aa, r, m, l, oeh, s]
   - grapheme: harmonere
     phonemes: [h, aa, r, m, uuh, n, ee, r, ax]
@@ -6180,11 +6180,11 @@ entries:
     phonemes: [h, aa, sz, ax, l, ee, r, ax]
   - grapheme: harsk
     phonemes: [h, aa, sz, k]
-  - grapheme: hasardioehs
+  - grapheme: hasardiøs
     phonemes: [h, aa, s, aa, d, ih, oeh, s]
   - grapheme: hassel
     phonemes: [h, aa, s, ax, l]
-  - grapheme: hasselnoehtt
+  - grapheme: hasselnøtt
     phonemes: [h, aa, s, ax, l, n, oe, t]
   - grapheme: haste
     phonemes: [h, aa, s, t, ax]
@@ -6346,7 +6346,7 @@ entries:
     phonemes: [h, eh, m, ax, l, ih, k, s, t]
   - grapheme: hemmeligste
     phonemes: [h, eh, m, ax, l, ih, k, s, t, ax]
-  - grapheme: hemningsloehs
+  - grapheme: hemningsløs
     phonemes: [h, eh, m, n, ih, ng, s, l, oeh, s]
   - grapheme: hende
     phonemes: [h, eh, n, ax]
@@ -6370,7 +6370,7 @@ entries:
     phonemes: [h, eh, n, ih, k, s, t]
   - grapheme: hendigste
     phonemes: [h, eh, n, ih, k, s, t, ax]
-  - grapheme: henfoehre
+  - grapheme: henføre
     phonemes: [h, eh, n, f, oeh, r, ax]
   - grapheme: henge
     phonemes: [h, eh, ng, ax]
@@ -6406,7 +6406,7 @@ entries:
     phonemes: [h, eh, n, s, t, ih, l, ax]
   - grapheme: hensynsfull
     phonemes: [h, eh, n, s, ueh, n, s, f, uh, l]
-  - grapheme: hensynsloehs
+  - grapheme: hensynsløs
     phonemes: [h, eh, n, s, ueh, n, s, l, oeh, s]
   - grapheme: hente
     phonemes: [h, eh, n, t, ax]
@@ -6444,7 +6444,7 @@ entries:
     phonemes: [h, ae, r, m, ee, t, ih, s, k]
   - grapheme: herre
     phonemes: [h, ae, r, ax]
-  - grapheme: herreloehs
+  - grapheme: herreløs
     phonemes: [h, ae, r, ax, l, oeh, s]
   - grapheme: herrer
     phonemes: [h, eh, r, ax, r]
@@ -6558,7 +6558,7 @@ entries:
     phonemes: [j, eh, l, p]
   - grapheme: hjelpe
     phonemes: [j, eh, l, p, ax]
-  - grapheme: hjelpeloehs
+  - grapheme: hjelpeløs
     phonemes: [j, eh, l, p, ax, l, oeh, s]
   - grapheme: hjelpesenter
     phonemes: [j, eh, l, p, ax, s, eh, n, t, ax, r]
@@ -6578,7 +6578,7 @@ entries:
     phonemes: [j, eh, m, l, ih, k, s, t]
   - grapheme: hjemligste
     phonemes: [j, eh, m, l, ih, k, s, t, ax]
-  - grapheme: hjemloehs
+  - grapheme: hjemløs
     phonemes: [j, eh, m, l, oeh, s]
   - grapheme: hjemme
     phonemes: [j, eh, m, ax]
@@ -6591,13 +6591,13 @@ entries:
   - grapheme: hjemsted
     phonemes: [j, eh, m, s, t, ee]
   - grapheme: hjerne
-    phonemes: [j, ae, nng, ax]
+    phonemes: [j, ae, ng, ax]
   - grapheme: hjernerystelse
-    phonemes: [j, ae, nng, ax, r, ue, s, t, ax, l, s, ax]
+    phonemes: [j, ae, ng, ax, r, ue, s, t, ax, l, s, ax]
   - grapheme: hjerneslag
-    phonemes: [j, ae, nng, ax, sz, l, aa, g]
+    phonemes: [j, ae, ng, ax, sz, l, aa, g]
   - grapheme: hjernevaske
-    phonemes: [j, ae, nng, ax, v, aa, s, k, ax]
+    phonemes: [j, ae, ng, ax, v, aa, s, k, ax]
   - grapheme: hjerte
     phonemes: [j, ae, t, ax]
   - grapheme: hjerteanfall
@@ -6612,7 +6612,7 @@ entries:
     phonemes: [j, ae, t, ax, l, ih, k, s, t]
   - grapheme: hjerteligste
     phonemes: [j, ae, t, ax, l, ih, k, s, t, ax]
-  - grapheme: hjerteloehs
+  - grapheme: hjerteløs
     phonemes: [j, ae, t, ax, l, oeh, s]
   - grapheme: hjertens
     phonemes: [j, ae, t, ax, n, s]
@@ -6622,8 +6622,8 @@ entries:
     phonemes: [j, uh, l]
   - grapheme: hjulbent
     phonemes: [j, uu, l, b, ee, n, t]
-  - grapheme: hjoehrne
-    phonemes: [j, oeh, nng, ax]
+  - grapheme: hjørne
+    phonemes: [j, oeh, ng, ax]
   - grapheme: hode
     phonemes: [h, uu, d, ax]
   - grapheme: hodepine
@@ -6667,7 +6667,7 @@ entries:
   - grapheme: hormonell
     phonemes: [h, uuh, r, m, uuh, n, eh, l]
   - grapheme: horn
-    phonemes: [h, uu, nng]
+    phonemes: [h, uu, ng]
   - grapheme: horribel
     phonemes: [h, ao, r, iy, b, ax, l]
   - grapheme: hos
@@ -6828,7 +6828,7 @@ entries:
     phonemes: [v, ih, s, k, ax]
   - grapheme: hvit
     phonemes: [v, iy, t]
-  - grapheme: hvitloehk
+  - grapheme: hvitløk
     phonemes: [v, iy, t, l, oeh, k]
   - grapheme: hvitmaling
     phonemes: [v, iy, t, m, aa, l, ih, ng]
@@ -6869,7 +6869,7 @@ entries:
   - grapheme: hyperaktiv
     phonemes: [h, ueh, p, ax, r, aa, k, t, iy, v]
   - grapheme: hypermoderne
-    phonemes: [h, ueh, p, ax, r, m, uuh, d, ae, nng, ax]
+    phonemes: [h, ueh, p, ax, r, m, uuh, d, ae, ng, ax]
   - grapheme: hypnotisere
     phonemes: [h, ue, p, n, uuh, t, ih, s, ee, r, ax]
   - grapheme: hypokonder
@@ -6900,79 +6900,79 @@ entries:
     phonemes: [h, ee, l]
   - grapheme: hær
     phonemes: [h, ae, r]
-  - grapheme: hoehflig
+  - grapheme: høflig
     phonemes: [h, oe, f, l, ih]
-  - grapheme: hoehflige
+  - grapheme: høflige
     phonemes: [h, oe, f, l, ih, ax]
-  - grapheme: hoehfligere
+  - grapheme: høfligere
     phonemes: [h, oe, f, l, ih, r, ax]
-  - grapheme: hoehfligst
+  - grapheme: høfligst
     phonemes: [h, oe, f, l, ih, k, s, t]
-  - grapheme: hoehfligste
+  - grapheme: høfligste
     phonemes: [h, oe, f, l, ih, k, s, t, ax]
-  - grapheme: hoehlje
+  - grapheme: hølje
     phonemes: [h, oe, l, j, ax]
-  - grapheme: hoehre
+  - grapheme: høre
     phonemes: [h, oeh, r, ax]
-  - grapheme: hoehrsel
+  - grapheme: hørsel
     phonemes: [h, oe, sz, ax, l]
-  - grapheme: hoehrselskadet
+  - grapheme: hørselskadet
     phonemes: [h, oe, sz, ax, l, s, k, aa, d, ax, t]
-  - grapheme: hoehrt
+  - grapheme: hørt
     phonemes: [h, oe, t]
-  - grapheme: hoehrte
+  - grapheme: hørte
     phonemes: [h, oe, t, ax]
-  - grapheme: hoehst
+  - grapheme: høst
     phonemes: [h, oe, s, t]
-  - grapheme: hoehste
+  - grapheme: høste
     phonemes: [h, oe, s, t, ax]
-  - grapheme: hoehve
+  - grapheme: høve
     phonemes: [h, oeh, v, ax]
-  - grapheme: hoehvel
+  - grapheme: høvel
     phonemes: [h, oe, v, ax, l]
-  - grapheme: hoehvelig
+  - grapheme: høvelig
     phonemes: [h, oeh, v, ax, l, ih]
-  - grapheme: hoehvelige
+  - grapheme: høvelige
     phonemes: [h, oeh, v, ax, l, ih, ax]
-  - grapheme: hoehveligere
+  - grapheme: høveligere
     phonemes: [h, oeh, v, ax, l, ih, r, ax]
-  - grapheme: hoehveligst
+  - grapheme: høveligst
     phonemes: [h, oeh, v, ax, l, ih, k, s, t]
-  - grapheme: hoehveligste
+  - grapheme: høveligste
     phonemes: [h, oeh, v, ax, l, ih, k, s, t, ax]
-  - grapheme: hoehy
+  - grapheme: høy
     phonemes: [h, oe, j]
-  - grapheme: hoehyde
+  - grapheme: høyde
     phonemes: [h, oe, j, d, ax]
-  - grapheme: hoehydeformat
+  - grapheme: høydeformat
     phonemes: [h, oe, ih, d, ax, f, uu, m, aa, t]
-  - grapheme: hoehydepunkt
+  - grapheme: høydepunkt
     phonemes: [h, oe, ih, d, ax, p, uuh, n, k, t]
-  - grapheme: hoehylytt
+  - grapheme: høylytt
     phonemes: [h, oe, j, l, ue, t]
-  - grapheme: hoehyne
+  - grapheme: høyne
     phonemes: [h, oe, j, n, ax]
-  - grapheme: hoehyre
+  - grapheme: høyre
     phonemes: [h, oe, j, r, ax]
-  - grapheme: hoehyrehendt
+  - grapheme: høyrehendt
     phonemes: [h, oe, j, r, ax, h, eh, n, t]
-  - grapheme: hoehyskole
+  - grapheme: høyskole
     phonemes: [h, oe, j, s, k, uu, l, ax]
-  - grapheme: hoehyspenning
+  - grapheme: høyspenning
     phonemes: [h, oe, ih, s, p, ax, n, ih, ng]
-  - grapheme: hoehyst
+  - grapheme: høyst
     phonemes: [h, oe, j, s, t]
-  - grapheme: hoehytidelig
+  - grapheme: høytidelig
     phonemes: [h, oe, j, t, iy, d, ax, l, ih]
-  - grapheme: hoehytidelige
+  - grapheme: høytidelige
     phonemes: [h, oe, j, t, iy, d, ax, l, ih, ax]
-  - grapheme: hoehytideligere
+  - grapheme: høytideligere
     phonemes: [h, oe, j, t, iy, d, ax, l, ih, r, ax]
-  - grapheme: hoehytideligst
+  - grapheme: høytideligst
     phonemes: [h, oe, j, t, iy, d, ax, l, ih, k, s, t]
-  - grapheme: hoehytideligste
+  - grapheme: høytideligste
     phonemes: [h, oe, j, t, iy, d, ax, l, ih, k, s, t, ax]
-  - grapheme: hoehyttaler
+  - grapheme: høyttaler
     phonemes: [h, oe, j, t, aa, l, ax, r]
   - grapheme: Håkon
     phonemes: [h, oo, k, ao, n]
@@ -7032,7 +7032,7 @@ entries:
     phonemes: [h, oo, p, ax]
   - grapheme: håpefull
     phonemes: [h, oo, p, ax, f, uh, l]
-  - grapheme: håploehs
+  - grapheme: håpløs
     phonemes: [h, oo, p, l, oeh, s]
   - grapheme: hår
     phonemes: [h, oo, r]
@@ -7082,7 +7082,7 @@ entries:
     phonemes: [iy, d, r, eh, t, s, p, l, aa, s]
   - grapheme: idyllisk
     phonemes: [ih, d, ue, l, ih, s, k]
-  - grapheme: ifoehlge
+  - grapheme: ifølge
     phonemes: [ih, f, oe, l, g, ax]
   - grapheme: igjen
     phonemes: [ih, j, eh, n]
@@ -7102,7 +7102,7 @@ entries:
     phonemes: [ih, h, ae, d, ih, k, s, t, ax]
   - grapheme: ikke
     phonemes: [ih, k, ax]
-  - grapheme: ikke-roehykere
+  - grapheme: ikke-røykere
     phonemes: [ih, k, ax, r, oeh, k, ax, r, ax]
   - grapheme: ild
     phonemes: [ih, l]
@@ -7148,9 +7148,9 @@ entries:
     phonemes: [ih, m, p, r, uuh, v, ih, s, ee, r, ax]
   - grapheme: impulsiv
     phonemes: [ih, m, p, uh, l, s, iy, v]
-  - grapheme: imoehtegå
+  - grapheme: imøtegå
     phonemes: [ih, m, oeh, t, ax, g, oo]
-  - grapheme: imoehtekomme
+  - grapheme: imøtekomme
     phonemes: [ih, m, oeh, t, ax, k, ao, m, ax]
   - grapheme: inderlig
     phonemes: [ih, n, ax, l, ih]
@@ -7185,7 +7185,7 @@ entries:
   - grapheme: infeksjon
     phonemes: [ih, n, f, eh, k, sz, uu, n]
   - grapheme: inferno
-    phonemes: [ih, n, f, ae, nng, uu]
+    phonemes: [ih, n, f, ae, ng, uu]
   - grapheme: infiltrere
     phonemes: [ih, n, f, ih, l, t, r, ee, r, ax]
   - grapheme: infisere
@@ -7202,7 +7202,7 @@ entries:
     phonemes: [ih, n, f, uh, sz, uu, n]
   - grapheme: ingen
     phonemes: [ih, ng, ax, n]
-  - grapheme: ingenioehr
+  - grapheme: ingeniør
     phonemes: [ih, n, sz, ax, n, j, oeh, r]
   - grapheme: ingenting
     phonemes: [ih, ng, ax, n, t, ih, ng]
@@ -7264,7 +7264,7 @@ entries:
     phonemes: [ih, n, ax, h, ao, l, ax]
   - grapheme: innen
     phonemes: [ih, n, ax, n]
-  - grapheme: innendoehrs
+  - grapheme: innendørs
     phonemes: [ih, n, ax, n, oeh, sz]
   - grapheme: innenfor
     phonemes: [ih, n, ax, n, f, ao, r]
@@ -7286,31 +7286,31 @@ entries:
     phonemes: [ih, n, f, l, ueh, t, ax, l, s, ax]
   - grapheme: innflytelsesrik
     phonemes: [ih, n, f, l, ueh, t, ax, l, s, ax, s, r, iy, k]
-  - grapheme: innfloehkt
+  - grapheme: innfløkt
     phonemes: [ih, n, f, l, oe, k, t]
   - grapheme: innfore
     phonemes: [ih, n, f, oeh, r, ax]
   - grapheme: innfri
     phonemes: [ih, n, f, r, iy]
-  - grapheme: innfoehdt
+  - grapheme: innfødt
     phonemes: [ih, n, f, oe, t]
-  - grapheme: innfoehre
+  - grapheme: innføre
     phonemes: [ih, n, f, oeh, r, ax]
-  - grapheme: innfoehring
+  - grapheme: innføring
     phonemes: [ih, m, f, oeh, r, ih, ng]
-  - grapheme: innfoehrsel
+  - grapheme: innførsel
     phonemes: [ih, m, f, oe, sz, ax, l]
-  - grapheme: inngang
+  - grapheme: ingang
     phonemes: [ih, n, g, aa, ng]
-  - grapheme: inngangsbillett
+  - grapheme: ingangsbillett
     phonemes: [ih, n, g, aa, ng, s, b, ih, l, eh, t]
-  - grapheme: inngangspenger
+  - grapheme: ingangspenger
     phonemes: [ih, n, g, aa, ng, s, p, eh, ng, ax, r]
-  - grapheme: inngripen
+  - grapheme: ingripen
     phonemes: [ih, ng, g, r, iy, p, ax, n]
-  - grapheme: inngå
+  - grapheme: ingå
     phonemes: [ih, n, g, oo]
-  - grapheme: inngående
+  - grapheme: ingående
     phonemes: [ih, n, g, oo, ax, n, ax]
   - grapheme: innhegne
     phonemes: [ih, n, h, ay, n, ax]
@@ -7318,7 +7318,7 @@ entries:
     phonemes: [ih, n, h, eh, n, t, ax]
   - grapheme: innhold
     phonemes: [ih, n, h, ao, l]
-  - grapheme: innholdsloehs
+  - grapheme: innholdsløs
     phonemes: [ih, n, h, ao, l, s, l, oeh, s]
   - grapheme: innholdsrik
     phonemes: [ih, n, h, ao, l, s, r, iy, k]
@@ -7326,7 +7326,7 @@ entries:
     phonemes: [ih, n, k, aa, l, ax]
   - grapheme: innkassere
     phonemes: [ih, n, k, aa, s, ee, r, ax]
-  - grapheme: innkjoehrsel
+  - grapheme: innkjørsel
     phonemes: [ih, n, xh, oe, sz, ax, l]
   - grapheme: innkvartere
     phonemes: [ih, n, k, v, aa, t, ee, r, ax]
@@ -7358,13 +7358,13 @@ entries:
     phonemes: [ih, n, r, ay, s, ax]
   - grapheme: innrette
     phonemes: [ih, n, r, eh, t, ax]
-  - grapheme: innroehmme
+  - grapheme: innrømme
     phonemes: [ih, n, r, oe, m, ax]
   - grapheme: innse
     phonemes: [ih, n, s, ee]
   - grapheme: innsjekking
     phonemes: [ih, n, sz, eh, k, ih, ng]
-  - grapheme: innsjoeh
+  - grapheme: innsjø
     phonemes: [ih, n, sz, oeh]
   - grapheme: innskjerpe
     phonemes: [ih, n, sz, ae, r, p, ax]
@@ -7462,14 +7462,14 @@ entries:
     phonemes: [ih, n, t, ax, r, ax, s, ee, r, ax]
   - grapheme: interessieren
     phonemes: [ih, n, t, ax, r, eh, s, iy, r, ax, n]
-  - grapheme: interioehr
+  - grapheme: interiør
     phonemes: [ih, n, t, ax, r, ih, oeh, r]
   - grapheme: intern
-    phonemes: [ih, n, t, ae, nng]
+    phonemes: [ih, n, t, ae, ng]
   - grapheme: internasjonal
-    phonemes: [ih, n, t, ax, nng, aa, sz, uuh, n, aa, l]
+    phonemes: [ih, n, t, ax, ng, aa, sz, uuh, n, aa, l]
   - grapheme: internasjonalisere
-    phonemes: [ih, n, t, ax, nng, aa, sz, uuh, n, aa, l, ih, s, ee, r, ax]
+    phonemes: [ih, n, t, ax, ng, aa, sz, uuh, n, aa, l, ih, s, ee, r, ax]
   - grapheme: interrail
     phonemes: [ih, n, t, ax, r, ay, l]
   - grapheme: intervenere
@@ -7562,7 +7562,7 @@ entries:
     phonemes: [iy, v, r, ih, k, s, t]
   - grapheme: ivrigste
     phonemes: [iy, v, r, ih, k, s, t, ax]
-  - grapheme: ioehynefallende
+  - grapheme: iøynefallende
     phonemes: [ih, oe, j, n, ax, f, aa, l, ax, n, ax]
   - grapheme: ja
     phonemes: [j, aa]
@@ -7572,7 +7572,7 @@ entries:
     phonemes: [j, aa, k, ax]
   - grapheme: jakte
     phonemes: [j, aa, k, t, ax]
-  - grapheme: jamfoehre
+  - grapheme: jamføre
     phonemes: [j, aa, m, f, oeh, r, ax]
   - grapheme: jamre
     phonemes: [j, aa, m, r, ax]
@@ -7599,12 +7599,12 @@ entries:
   - grapheme: jente
     phonemes: [j, eh, n, t, ax]
   - grapheme: jernbanestasjon
-    phonemes: [j, ae, nng, b, aa, n, ax, s, t, aa, sz, uu, n]
+    phonemes: [j, ae, ng, b, aa, n, ax, s, t, aa, sz, uu, n]
   - grapheme: jevn
     phonemes: [j, eh, v, ax, n]
   - grapheme: jevne
     phonemes: [j, eh, v, n, ax]
-  - grapheme: jevnfoehre
+  - grapheme: jevnføre
     phonemes: [j, aa, m, f, oeh, r, ax]
   - grapheme: jevngammel
     phonemes: [j, eh, v, n, g, aa, m, ax, l]
@@ -7635,13 +7635,13 @@ entries:
   - grapheme: jordisk
     phonemes: [j, uuh, d, ih, s, k]
   - grapheme: jordnær
-    phonemes: [j, uu, nng, ae, r]
+    phonemes: [j, uu, ng, ae, r]
   - grapheme: jorte
     phonemes: [j, ao, t, ax]
-  - grapheme: journalfoehre
-    phonemes: [sz, uuh, nng, aa, l, f, oeh, r, ax]
+  - grapheme: journalføre
+    phonemes: [sz, uuh, ng, aa, l, f, oeh, r, ax]
   - grapheme: journalist
-    phonemes: [sz, uuh, nng, aa, l, ih, s, t]
+    phonemes: [sz, uuh, ng, aa, l, ih, s, t]
   - grapheme: jovial
     phonemes: [j, uuh, v, ih, aa, l]
   - grapheme: jubel
@@ -7657,7 +7657,7 @@ entries:
   - grapheme: julaften
     phonemes: [j, uh, l, aa, f, t, ax, n]
   - grapheme: julestjerne
-    phonemes: [j, uh, l, ax, s, t, j, ae, nng, ax]
+    phonemes: [j, uh, l, ax, s, t, j, ae, ng, ax]
   - grapheme: juli
     phonemes: [j, uh, l, ih]
   - grapheme: jung
@@ -7686,7 +7686,7 @@ entries:
     phonemes: [j, ae, v, l, ih, k, s, t]
   - grapheme: jævligste
     phonemes: [j, ae, v, l, ih, k, s, t, ax]
-  - grapheme: joehdisk
+  - grapheme: jødisk
     phonemes: [j, oeh, d, ih, s, k]
   - grapheme: jåle
     phonemes: [j, oo, l, ax]
@@ -7793,7 +7793,7 @@ entries:
   - grapheme: kansellere
     phonemes: [k, aa, n, s, ax, l, ee, r, ax]
   - grapheme: kanskje
-    phonemes: [k, aa, nng, sz, ax]
+    phonemes: [k, aa, ng, sz, ax]
   - grapheme: kant
     phonemes: [k, aa, n, t]
   - grapheme: kantre
@@ -7814,9 +7814,9 @@ entries:
     phonemes: [k, aa, p, ax]
   - grapheme: kappes
     phonemes: [k, aa, p, ax, s]
-  - grapheme: kappkjoehre
+  - grapheme: kappkjøre
     phonemes: [k, aa, p, xh, oeh, r, ax]
-  - grapheme: kapploehp
+  - grapheme: kappløp
     phonemes: [k, aa, p, l, oeh, p]
   - grapheme: kapre
     phonemes: [k, aa, p, r, ax]
@@ -7839,7 +7839,7 @@ entries:
   - grapheme: karismatisk
     phonemes: [k, aa, r, ih, s, m, aa, t, ih, s, k]
   - grapheme: karneval
-    phonemes: [k, aa, nng, ax, v, aa, l]
+    phonemes: [k, aa, ng, ax, v, aa, l]
   - grapheme: karrig
     phonemes: [k, aa, r, ih]
   - grapheme: karrige
@@ -7955,7 +7955,7 @@ entries:
   - grapheme: kirkegård
     phonemes: [xh, ih, r, k, ax, g, oo, r]
   - grapheme: kirketårn
-    phonemes: [xh, ih, r, k, ax, t, oo, nng]
+    phonemes: [xh, ih, r, k, ax, t, oo, ng]
   - grapheme: kirsebær
     phonemes: [xh, ih, sz, ax, b, ae, r]
   - grapheme: kirurg
@@ -8021,13 +8021,13 @@ entries:
   - grapheme: kjent
     phonemes: [xh, eh, n, t]
   - grapheme: kjerne
-    phonemes: [xh, ae, nng, ax]
+    phonemes: [xh, ae, ng, ax]
   - grapheme: kjernemelk
-    phonemes: [xh, ae, nng, ax, m, eh, l, k]
-  - grapheme: kjernemjoehlk
-    phonemes: [xh, ae, nng, ax, m, j, oe, l, k]
+    phonemes: [xh, ae, ng, ax, m, eh, l, k]
+  - grapheme: kjernemjølk
+    phonemes: [xh, ae, ng, ax, m, j, oe, l, k]
   - grapheme: kjernesunn
-    phonemes: [xh, ae, nng, ax, s, uh, n]
+    phonemes: [xh, ae, ng, ax, s, uh, n]
   - grapheme: kjeve
     phonemes: [xh, ee, v, ax]
   - grapheme: kjevle
@@ -8060,55 +8060,55 @@ entries:
     phonemes: [xh, ae, l, ih, k, s, t]
   - grapheme: kjærligste
     phonemes: [xh, ae, l, ih, k, s, t, ax]
-  - grapheme: kjoehdelig
+  - grapheme: kjødelig
     phonemes: [xh, oeh, d, ax, l, ih]
-  - grapheme: kjoehdelige
+  - grapheme: kjødelige
     phonemes: [xh, oeh, d, ax, l, ih, ax]
-  - grapheme: kjoehdeligere
+  - grapheme: kjødeligere
     phonemes: [xh, oeh, d, ax, l, ih, r, ax]
-  - grapheme: kjoehdeligst
+  - grapheme: kjødeligst
     phonemes: [xh, oeh, d, ax, l, ih, k, s, t]
-  - grapheme: kjoehdeligste
+  - grapheme: kjødeligste
     phonemes: [xh, oeh, d, ax, l, ih, k, s, t, ax]
-  - grapheme: kjoehkken
+  - grapheme: kjøkken
     phonemes: [xh, oe, k, ax, n]
-  - grapheme: kjoehkkenkrok
+  - grapheme: kjøkkenkrok
     phonemes: [xh, oe, k, ax, n, k, r, uu, k]
-  - grapheme: kjoehle
+  - grapheme: kjøle
     phonemes: [xh, oeh, l, ax]
-  - grapheme: kjoehleelement
+  - grapheme: kjøleelement
     phonemes: [xh, oeh, l, ax, eh, l, eh, m, eh, n, t]
-  - grapheme: kjoehler
+  - grapheme: kjøler
     phonemes: [xh, oeh, l, ax, r]
-  - grapheme: kjoehleskap
+  - grapheme: kjøleskap
     phonemes: [xh, oeh, l, ax, s, k, aa, p]
-  - grapheme: kjoehlig
+  - grapheme: kjølig
     phonemes: [xh, oeh, l, ih]
-  - grapheme: kjoehlige
+  - grapheme: kjølige
     phonemes: [xh, oeh, l, ih, ax]
-  - grapheme: kjoehligere
+  - grapheme: kjøligere
     phonemes: [xh, oeh, l, ih, r, ax]
-  - grapheme: kjoehligst
+  - grapheme: kjøligst
     phonemes: [xh, oeh, l, ih, k, s, t]
-  - grapheme: kjoehligste
+  - grapheme: kjøligste
     phonemes: [xh, oeh, l, ih, k, s, t, ax]
-  - grapheme: kjoehnnsmoden
+  - grapheme: kjønnsmoden
     phonemes: [xh, oe, n, s, m, uu, d, ax, n]
-  - grapheme: kjoehpe
+  - grapheme: kjøpe
     phonemes: [xh, oeh, p, ax]
-  - grapheme: kjoehpmann
+  - grapheme: kjøpmann
     phonemes: [xh, oeh, p, m, aa, n]
-  - grapheme: kjoehpslå
+  - grapheme: kjøpslå
     phonemes: [xh, oeh, p, sz, l, oo]
-  - grapheme: kjoehre
+  - grapheme: kjøre
     phonemes: [xh, oeh, r, ax]
-  - grapheme: kjoehrer
+  - grapheme: kjører
     phonemes: [xh, oeh, r, ax, r]
-  - grapheme: kjoehrsel
+  - grapheme: kjørsel
     phonemes: [xh, oe, sz, ax, l]
-  - grapheme: kjoehtt
+  - grapheme: kjøtt
     phonemes: [xh, oe, t]
-  - grapheme: kjoehttdeig
+  - grapheme: kjøttdeig
     phonemes: [xh, oe, t, d, ay]
   - grapheme: kladde
     phonemes: [k, l, aa, d, ax]
@@ -8134,7 +8134,7 @@ entries:
     phonemes: [k, l, aa, r]
   - grapheme: klare
     phonemes: [k, l, aa, r, ax]
-  - grapheme: klargjoehre
+  - grapheme: klargjøre
     phonemes: [k, l, aa, r, j, oeh, r, ax]
   - grapheme: klase
     phonemes: [k, l, aa, s, ax]
@@ -8272,17 +8272,17 @@ entries:
     phonemes: [k, l, ueh, s, ax]
   - grapheme: klær
     phonemes: [k, l, ae, r]
-  - grapheme: kloeh
+  - grapheme: klø
     phonemes: [k, l, oeh]
-  - grapheme: kloehe
+  - grapheme: kløe
     phonemes: [k, l, oeh, ax]
-  - grapheme: kloehft
+  - grapheme: kløft
     phonemes: [k, l, oe, f, t]
-  - grapheme: kloehne
+  - grapheme: kløne
     phonemes: [k, l, oeh, n, ax]
-  - grapheme: kloehnete
+  - grapheme: klønete
     phonemes: [k, l, oeh, n, ax, t, ax]
-  - grapheme: kloehyve
+  - grapheme: kløyve
     phonemes: [k, l, oe, j, v, ax]
   - grapheme: klå
     phonemes: [k, l, oo]
@@ -8590,7 +8590,7 @@ entries:
     phonemes: [k, uuh, n, t, r, ao, l, ee, r, ax]
   - grapheme: kontrollieren
     phonemes: [k, ao, n, t, r, ao, l, iy, r, ax, n]
-  - grapheme: kontrolloehr
+  - grapheme: kontrollør
     phonemes: [k, uuh, n, t, r, uuh, l, oeh, r]
   - grapheme: kontroversiell
     phonemes: [k, uuh, n, t, r, uuh, v, ae, sz, ih, j, eh, l]
@@ -8766,7 +8766,7 @@ entries:
     phonemes: [k, r, ee, m]
   - grapheme: kremere
     phonemes: [k, r, ax, m, ee, r, ax]
-  - grapheme: kremfloehte
+  - grapheme: kremfløte
     phonemes: [k, r, ae, m, f, l, oeh, t, ax]
   - grapheme: kremte
     phonemes: [k, r, eh, m, t, ax]
@@ -8784,7 +8784,7 @@ entries:
     phonemes: [k, r, ee, s, ax, n]
   - grapheme: kretse
     phonemes: [k, r, eh, t, s, ax]
-  - grapheme: kretsloehp
+  - grapheme: kretsløp
     phonemes: [k, r, eh, t, s, l, oeh, p]
   - grapheme: kreve
     phonemes: [k, r, ee, v, ax]
@@ -8886,9 +8886,9 @@ entries:
     phonemes: [k, r, ue, s, t, aa, l]
   - grapheme: kryste
     phonemes: [k, r, ue, s, t, ax]
-  - grapheme: kroehke
+  - grapheme: krøke
     phonemes: [k, r, oeh, k, ax]
-  - grapheme: kroehlle
+  - grapheme: krølle
     phonemes: [k, r, oe, l, ax]
   - grapheme: kråle
     phonemes: [k, r, oo, l, ax]
@@ -8918,7 +8918,7 @@ entries:
     phonemes: [k, uh, l, t, uh, r, eh, l]
   - grapheme: kulturminnevern
     phonemes: [f, r, ee, d, n, ih, ng, aa, v, k, uh, l, t, uh, r, m, ih, n, eh, s, m, ae, r, k, ax, r]
-  - grapheme: kuloehrt
+  - grapheme: kulørt
     phonemes: [k, uh, l, oeh, t]
   - grapheme: kummerlig
     phonemes: [k, uuh, m, ax, l, ih]
@@ -8934,7 +8934,7 @@ entries:
     phonemes: [k, uh, n, d, ax]
   - grapheme: kunne
     phonemes: [k, uh, n, ax]
-  - grapheme: kunngjoehre
+  - grapheme: kungjøre
     phonemes: [k, uh, n, j, oeh, r, ax]
   - grapheme: kunst
     phonemes: [k, uh, n, s, t]
@@ -8964,7 +8964,7 @@ entries:
     phonemes: [k, uh, r, aa, n, t]
   - grapheme: kurere
     phonemes: [k, uh, r, ee, r, ax]
-  - grapheme: kurioehs
+  - grapheme: kuriøs
     phonemes: [k, uh, r, ih, oeh, s]
   - grapheme: kurs
     phonemes: [k, uh, sz]
@@ -9027,7 +9027,7 @@ entries:
   - grapheme: kverke
     phonemes: [k, v, ae, r, k, ax]
   - grapheme: kverne
-    phonemes: [k, v, ae, nng, ax]
+    phonemes: [k, v, ae, ng, ax]
   - grapheme: kverulere
     phonemes: [k, v, ae, r, uh, l, ee, r, ax]
   - grapheme: kvesse
@@ -9088,13 +9088,13 @@ entries:
     phonemes: [xh, ue, s, ax]
   - grapheme: kyst
     phonemes: [xh, ue, s, t]
-  - grapheme: koeh
+  - grapheme: kø
     phonemes: [k, oeh]
-  - grapheme: Koehbenhavn
+  - grapheme: København
     phonemes: [xh, oe, b, n, h, aa, v, ax, n]
-  - grapheme: Koehln
+  - grapheme: Køln
     phonemes: [k, oe, l, n]
-  - grapheme: koehye
+  - grapheme: køye
     phonemes: [k, oe, j, ax]
   - grapheme: kål
     phonemes: [k, oo, l]
@@ -9266,7 +9266,7 @@ entries:
     phonemes: [l, aa, t, ax, l, ih, ax]
   - grapheme: latterligere
     phonemes: [l, aa, t, ax, l, ih, r, ax]
-  - grapheme: latterliggjoehre
+  - grapheme: latterliggjøre
     phonemes: [l, aa, t, ax, l, ih, j, oeh, r, ax]
   - grapheme: latterligst
     phonemes: [l, aa, t, ax, l, ih, k, s, t]
@@ -9352,7 +9352,7 @@ entries:
     phonemes: [l, ee, k, ax, n]
   - grapheme: leker
     phonemes: [l, ee, k, ax, r]
-  - grapheme: leketoehy
+  - grapheme: leketøy
     phonemes: [l, ee, k, ax, t, oe, j]
   - grapheme: lekk
     phonemes: [l, eh, k]
@@ -9389,7 +9389,7 @@ entries:
   - grapheme: lepra
     phonemes: [l, ee, p, r, aa]
   - grapheme: lernen
-    phonemes: [l, eh, nng, ax, n]
+    phonemes: [l, eh, ng, ax, n]
   - grapheme: lesbisk
     phonemes: [l, eh, s, b, ih, s, k]
   - grapheme: lese
@@ -9430,7 +9430,7 @@ entries:
     phonemes: [l, ax, t, f, aa, t, ax, l, ih, k, s, t, ax]
   - grapheme: lettmelk
     phonemes: [l, eh, t, m, eh, l, k]
-  - grapheme: lettroehrt
+  - grapheme: lettrørt
     phonemes: [l, eh, t, r, oeh, t]
   - grapheme: lettsindig
     phonemes: [l, ax, t, s, ih, n, ih]
@@ -9524,7 +9524,7 @@ entries:
     phonemes: [l, iy, t, ax, n]
   - grapheme: lillebror
     phonemes: [l, ih, l, ax, b, r, uu, r]
-  - grapheme: lillesoehster
+  - grapheme: lillesøster
     phonemes: [l, ih, l, ax, s, oe, s, t, ax, r]
   - grapheme: lim
     phonemes: [l, iy, m]
@@ -9748,7 +9748,7 @@ entries:
     phonemes: [l, uuh, k, ax]
   - grapheme: lukrativ
     phonemes: [l, uh, k, r, aa, t, iy, v]
-  - grapheme: luksurioehs
+  - grapheme: luksuriøs
     phonemes: [l, uh, k, s, uh, r, ih, oeh, s]
   - grapheme: lukt
     phonemes: [l, uh, k, t]
@@ -9818,7 +9818,7 @@ entries:
     phonemes: [l, ueh, d, ih, k, s, t]
   - grapheme: lydigste
     phonemes: [l, ueh, d, ih, k, s, t, ax]
-  - grapheme: lydloehs
+  - grapheme: lydløs
     phonemes: [l, ueh, d, l, oeh, s]
   - grapheme: lykke
     phonemes: [l, ue, k, ax]
@@ -9834,7 +9834,7 @@ entries:
     phonemes: [l, ue, k, ax, l, ih, k, s, t, ax]
   - grapheme: lykkes
     phonemes: [l, ue, k, ax, s]
-  - grapheme: lykkeoehnskning
+  - grapheme: lykkeønskning
     phonemes: [l, ue, k, oe, n, s, k, n, ih, ng]
   - grapheme: lyn
     phonemes: [l, ueh, n]
@@ -9906,47 +9906,47 @@ entries:
     phonemes: [l, ae, r, ax, v, ih, l, ih, k, s, t]
   - grapheme: lærevilligste
     phonemes: [l, ae, r, ax, v, ih, l, ih, k, s, t, ax]
-  - grapheme: loehfte
+  - grapheme: løfte
     phonemes: [l, oe, f, t, ax]
-  - grapheme: loehgn
+  - grapheme: løgn
     phonemes: [l, oe, j, n]
-  - grapheme: loehk
+  - grapheme: løk
     phonemes: [l, oeh, k]
-  - grapheme: loehnn
+  - grapheme: lønn
     phonemes: [l, oe, n]
-  - grapheme: loehnne
+  - grapheme: lønne
     phonemes: [l, oe, n, ax]
-  - grapheme: loehnnsom
+  - grapheme: lønnsom
     phonemes: [l, oe, n, s, ao, m]
-  - grapheme: loehp
+  - grapheme: løp
     phonemes: [l, oeh, p]
-  - grapheme: loehpe
+  - grapheme: løpe
     phonemes: [l, oeh, p, ax]
-  - grapheme: loehpende
+  - grapheme: løpende
     phonemes: [l, oeh, p, n, ax]
-  - grapheme: loehpsk
+  - grapheme: løpsk
     phonemes: [l, oe, p, s, k]
-  - grapheme: loehrdag
+  - grapheme: lørdag
     phonemes: [l, oeh, d, aa, g]
-  - grapheme: loehrdager
+  - grapheme: lørdager
     phonemes: [l, oeh, d, aa, g, ax, r]
-  - grapheme: loehs
+  - grapheme: løs
     phonemes: [l, oeh, s]
-  - grapheme: loehse
+  - grapheme: løse
     phonemes: [l, oeh, s, ax]
-  - grapheme: loehslate
+  - grapheme: løslate
     phonemes: [l, oeh, s, l, aa, t, ax]
-  - grapheme: loehsrive
+  - grapheme: løsrive
     phonemes: [l, oeh, s, r, iy, v, ax]
-  - grapheme: loehssluppen
+  - grapheme: løssluppen
     phonemes: [l, oeh, s, sz, l, uuh, p, ax, n]
-  - grapheme: loehstenner
+  - grapheme: løstenner
     phonemes: [l, oeh, s, t, h, eh, n, ax, r]
-  - grapheme: loehye
+  - grapheme: løye
     phonemes: [l, oe, j, ax]
-  - grapheme: loehype
+  - grapheme: løype
     phonemes: [l, oe, j, p, ax]
-  - grapheme: loehyve
+  - grapheme: løyve
     phonemes: [l, oe, j, v, ax]
   - grapheme: låg
     phonemes: [l, oo, g]
@@ -9992,7 +9992,7 @@ entries:
     phonemes: [m, aa, k, ax, l, ih, k, s, t]
   - grapheme: makeligste
     phonemes: [m, aa, k, ax, l, ih, k, s, t, ax]
-  - grapheme: makeloehs
+  - grapheme: makeløs
     phonemes: [m, aa, k, ax, l, oeh, s]
   - grapheme: maken
     phonemes: [m, aa, k, ax, n]
@@ -10004,7 +10004,7 @@ entries:
     phonemes: [m, aa, k, t]
   - grapheme: makte
     phonemes: [m, aa, k, t, ax]
-  - grapheme: maktesloehs
+  - grapheme: maktesløs
     phonemes: [m, aa, k, t, ax, s, l, oeh, s]
   - grapheme: maktpåliggende
     phonemes: [m, aa, k, t, p, ao, l, ih, g, ax, n, ax]
@@ -10102,7 +10102,7 @@ entries:
     phonemes: [m, aa, n, s, t, ae, r, k]
   - grapheme: manuell
     phonemes: [m, aa, n, uh, eh, l]
-  - grapheme: manoehvrere
+  - grapheme: manøvrere
     phonemes: [m, aa, n, oe, v, r, ee, r, ax]
   - grapheme: marg
     phonemes: [m, aa, r, g]
@@ -10118,9 +10118,9 @@ entries:
     phonemes: [m, aa, r, k, aa, n, t]
   - grapheme: marked
     phonemes: [m, aa, r, k, eh, d]
-  - grapheme: markedsfoehre
+  - grapheme: markedsføre
     phonemes: [m, aa, r, k, ax, d, s, f, oeh, r, ax]
-  - grapheme: markedsfoehring
+  - grapheme: markedsføring
     phonemes: [m, aa, r, k, ax, d, s, f, oeh, r, ih, ng]
   - grapheme: markere
     phonemes: [m, aa, r, k, ee, r, ax]
@@ -10194,19 +10194,19 @@ entries:
     phonemes: [m, ee]
   - grapheme: meddele
     phonemes: [m, ee, d, ee, l, ax]
-  - grapheme: medfoehdt
+  - grapheme: medfødt
     phonemes: [m, ee, f, oe, t]
   - grapheme: medgi
     phonemes: [m, ee, d, j, iy]
-  - grapheme: medgjoehrlig
+  - grapheme: medgjørlig
     phonemes: [m, ax, d, j, oeh, l, ih]
-  - grapheme: medgjoehrlige
+  - grapheme: medgjørlige
     phonemes: [m, ax, d, j, oeh, l, ih, ax]
-  - grapheme: medgjoehrligere
+  - grapheme: medgjørligere
     phonemes: [m, ax, d, j, oeh, l, ih, r, ax]
-  - grapheme: medgjoehrligst
+  - grapheme: medgjørligst
     phonemes: [m, ax, d, j, oeh, l, ih, k, s, t]
-  - grapheme: medgjoehrligste
+  - grapheme: medgjørligste
     phonemes: [m, ax, d, j, oeh, l, ih, k, s, t, ax]
   - grapheme: medikament
     phonemes: [m, eh, d, ih, k, aa, m, eh, n, t]
@@ -10404,17 +10404,17 @@ entries:
     phonemes: [m, ih, k, s, ax]
   - grapheme: mild
     phonemes: [m, ih, l]
-  - grapheme: miljoeh
+  - grapheme: miljø
     phonemes: [m, ih, l, j, oeh]
-  - grapheme: miljoehvennlig
+  - grapheme: miljøvennlig
     phonemes: [m, ih, l, j, oeh, v, eh, n, l, ih]
-  - grapheme: miljoehvennlige
+  - grapheme: miljøvennlige
     phonemes: [m, ih, l, j, oeh, v, eh, n, l, ih, ax]
-  - grapheme: miljoehvennligere
+  - grapheme: miljøvennligere
     phonemes: [m, ih, l, j, oeh, v, eh, n, l, ih, r, ax]
-  - grapheme: miljoehvennligst
+  - grapheme: miljøvennligst
     phonemes: [m, ih, l, j, oeh, v, eh, n, l, ih, k, s, t]
-  - grapheme: miljoehvennligste
+  - grapheme: miljøvennligste
     phonemes: [m, ih, l, j, oeh, v, eh, n, l, ih, k, s, t, ax]
   - grapheme: millimeter
     phonemes: [m, ih, l, ih, m, ee, t, ax, r]
@@ -10482,12 +10482,12 @@ entries:
     phonemes: [m, ih, n, s, t]
   - grapheme: minutt
     phonemes: [m, ih, n, uh, t]
-  - grapheme: mirakuloehs
+  - grapheme: mirakuløs
     phonemes: [m, ih, r, aa, k, uh, l, oeh, s]
   - grapheme: misbruke
     phonemes: [m, ih, s, b, r, uh, k, ax]
-  - grapheme: misfornoehyd
-    phonemes: [m, ih, s, f, ao, nng, oe, j, d]
+  - grapheme: misfornøyd
+    phonemes: [m, ih, s, f, ao, ng, oe, j, d]
   - grapheme: misforstå
     phonemes: [m, ih, s, f, ao, sz, t, oo]
   - grapheme: mishandle
@@ -10528,11 +10528,11 @@ entries:
     phonemes: [m, ih, t]
   - grapheme: mjaue
     phonemes: [m, j, ae, w, ax]
-  - grapheme: mjoehd
+  - grapheme: mjød
     phonemes: [m, j, oeh, d]
-  - grapheme: mjoehl
+  - grapheme: mjøl
     phonemes: [m, j, ae, rx]
-  - grapheme: mjoehlk
+  - grapheme: mjølk
     phonemes: [m, j, ae, rx, k]
   - grapheme: mo
     phonemes: [m, uu]
@@ -10553,11 +10553,11 @@ entries:
   - grapheme: moderere
     phonemes: [m, uuh, d, ax, r, ee, r, ax]
   - grapheme: modern
-    phonemes: [m, ao, d, eh, nng]
+    phonemes: [m, ao, d, eh, ng]
   - grapheme: moderne
-    phonemes: [m, uuh, d, ae, nng, ax]
+    phonemes: [m, uuh, d, ae, ng, ax]
   - grapheme: modernisere
-    phonemes: [m, uuh, d, ae, nng, ih, s, ee, r, ax]
+    phonemes: [m, uuh, d, ae, ng, ih, s, ee, r, ax]
   - grapheme: modifisere
     phonemes: [m, uuh, d, ih, f, ih, s, ee, r, ax]
   - grapheme: modig
@@ -10587,7 +10587,7 @@ entries:
   - grapheme: mor
     phonemes: [m, uu, r]
   - grapheme: mor'n
-    phonemes: [m, ao, nng]
+    phonemes: [m, ao, ng]
   - grapheme: moralisere
     phonemes: [m, uuh, r, aa, l, ih, s, ee, r, ax]
   - grapheme: moralsk
@@ -10599,7 +10599,7 @@ entries:
   - grapheme: more
     phonemes: [m, uu, r, ax]
   - grapheme: morgen
-    phonemes: [m, oo, ao, nng]
+    phonemes: [m, oo, ao, ng]
   - grapheme: morken
     phonemes: [m, ao, r, k, ax, n]
   - grapheme: moro
@@ -10646,12 +10646,12 @@ entries:
     phonemes: [m, uu, t, ax, s, m, ue, k, ax]
   - grapheme: motivere
     phonemes: [m, uuh, t, ih, v, ee, r, ax]
-  - grapheme: motloehs
+  - grapheme: motløs
     phonemes: [m, uu, t, l, oeh, s]
   - grapheme: motor
     phonemes: [m, uuh, t, uu, r]
   - grapheme: motoren
-    phonemes: [m, uuh, t, uu, uuh, nng]
+    phonemes: [m, uuh, t, uu, uuh, ng]
   - grapheme: motorsykkel
     phonemes: [m, uu, t, uuh, sz, ue, k, ax, l]
   - grapheme: motorvei
@@ -10706,7 +10706,7 @@ entries:
     phonemes: [m, uh, l, ih, ax]
   - grapheme: muligere
     phonemes: [m, uh, l, ih, r, ax]
-  - grapheme: muliggjoehre
+  - grapheme: muliggjøre
     phonemes: [m, uh, l, ih, j, oeh, r, ax]
   - grapheme: mulighet
     phonemes: [m, uh, l, ih, h, ee, t]
@@ -10756,7 +10756,7 @@ entries:
     phonemes: [m, uh, s, k, ax, l]
   - grapheme: muskulær
     phonemes: [m, uh, s, k, uh, l, ae, r]
-  - grapheme: muskuloehs
+  - grapheme: muskuløs
     phonemes: [m, uh, s, k, uh, l, oeh, s]
   - grapheme: musli
     phonemes: [m, uh, s, l, iy]
@@ -10806,43 +10806,43 @@ entries:
     phonemes: [m, ueh, t, ax]
   - grapheme: mytologisk
     phonemes: [m, ue, t, uuh, l, oo, g, ih, s, k]
-  - grapheme: moehbel
+  - grapheme: møbel
     phonemes: [m, oeh, b, ax, l]
-  - grapheme: moehblere
+  - grapheme: møblere
     phonemes: [m, oe, b, l, ee, r, ax]
-  - grapheme: moehkk
+  - grapheme: møkk
     phonemes: [m, oe, k]
-  - grapheme: moehkkete
+  - grapheme: møkkete
     phonemes: [m, oe, k, ax, t, ax]
-  - grapheme: moehne
+  - grapheme: møne
     phonemes: [m, oeh, n, ax]
-  - grapheme: moehnje
+  - grapheme: mønje
     phonemes: [m, oe, n, j, ax]
-  - grapheme: moehnster
+  - grapheme: mønster
     phonemes: [m, oe, n, s, t, ax, r]
-  - grapheme: moehr
+  - grapheme: mør
     phonemes: [m, oeh, r]
-  - grapheme: moehrk
+  - grapheme: mørk
     phonemes: [m, oe, r, k]
-  - grapheme: moehrke
+  - grapheme: mørke
     phonemes: [m, oe, r, k, ax]
-  - grapheme: moehrkeblå
+  - grapheme: mørkeblå
     phonemes: [m, oe, r, k, ax]
-  - grapheme: moehrklegge
+  - grapheme: mørklegge
     phonemes: [m, oe, r, k, l, ay, ax]
-  - grapheme: moehte
+  - grapheme: møte
     phonemes: [m, oeh, t, ax]
-  - grapheme: moehtt
+  - grapheme: møtt
     phonemes: [m, oe, t]
-  - grapheme: moehysommelig
+  - grapheme: møysommelig
     phonemes: [m, oe, j, s, ao, m, ax, l, ih]
-  - grapheme: moehysommelige
+  - grapheme: møysommelige
     phonemes: [m, oe, j, s, ao, m, ax, l, ih, ax]
-  - grapheme: moehysommeligere
+  - grapheme: møysommeligere
     phonemes: [m, oe, j, s, ao, m, ax, l, ih, r, ax]
-  - grapheme: moehysommeligst
+  - grapheme: møysommeligst
     phonemes: [m, oe, j, s, ao, m, ax, l, ih, k, s, t]
-  - grapheme: moehysommeligste
+  - grapheme: møysommeligste
     phonemes: [m, oe, j, s, ao, m, ax, l, ih, k, s, t, ax]
   - grapheme: måke
     phonemes: [m, oo, k, ax]
@@ -10915,7 +10915,7 @@ entries:
   - grapheme: narre
     phonemes: [n, aa, r, ax]
   - grapheme: narren
-    phonemes: [n, aa, nng]
+    phonemes: [n, aa, ng]
   - grapheme: nasjonal
     phonemes: [n, aa, sz, uuh, n, aa, l]
   - grapheme: nasjonalitet
@@ -11014,7 +11014,7 @@ entries:
     phonemes: [n, ae, r, v, ax]
   - grapheme: nervepirrende
     phonemes: [n, ae, r, v, ax, p, ih, r, ax, n, ax]
-  - grapheme: nervoehs
+  - grapheme: nervøs
     phonemes: [n, ae, r, v, oeh, s]
   - grapheme: nese
     phonemes: [n, ee, s, ax]
@@ -11023,7 +11023,7 @@ entries:
   - grapheme: nesevis
     phonemes: [n, ee, s, ax, v, iy, s]
   - grapheme: neshorn
-    phonemes: [n, ee, s, h, uu, nng]
+    phonemes: [n, ee, s, h, uu, ng]
   - grapheme: neste
     phonemes: [n, eh, s, t, ax]
   - grapheme: nesten
@@ -11088,7 +11088,7 @@ entries:
     phonemes: [n, uuh, r, m, aa, l, t]
   - grapheme: normere
     phonemes: [n, ao, r, m, ee, r, ax]
-  - grapheme: norroehn
+  - grapheme: norrøn
     phonemes: [n, uuh, r, oe, n]
   - grapheme: norsk
     phonemes: [n, ao, sz, k]
@@ -11204,51 +11204,51 @@ entries:
     phonemes: [n, ae, sz, ueh, n, t]
   - grapheme: nærtagende
     phonemes: [n, ae, t, aa, g, ax, n, ax]
-  - grapheme: noehdsfall
+  - grapheme: nødsfall
     phonemes: [n, oeh, d, s, f, aa, l]
-  - grapheme: noehdt
+  - grapheme: nødt
     phonemes: [n, oe, t]
-  - grapheme: noehdvendig
+  - grapheme: nødvendig
     phonemes: [n, oe, d, v, eh, n, ih]
-  - grapheme: noehdvendige
+  - grapheme: nødvendige
     phonemes: [n, oe, d, v, eh, n, ih, ax]
-  - grapheme: noehdvendigere
+  - grapheme: nødvendigere
     phonemes: [n, oe, d, v, eh, n, ih, r, ax]
-  - grapheme: noehdvendigst
+  - grapheme: nødvendigst
     phonemes: [n, oe, d, v, eh, n, ih, k, s, t]
-  - grapheme: noehdvendigste
+  - grapheme: nødvendigste
     phonemes: [n, oe, d, v, eh, n, ih, k, s, t, ax]
-  - grapheme: noehkkel
+  - grapheme: nøkkel
     phonemes: [n, oe, k, ax, l]
-  - grapheme: noehklene
+  - grapheme: nøklene
     phonemes: [n, oe, k, l, ax, n, ax]
-  - grapheme: noehktern
-    phonemes: [n, oe, k, t, ae, nng]
-  - grapheme: noehle
+  - grapheme: nøktern
+    phonemes: [n, oe, k, t, ae, ng]
+  - grapheme: nøle
     phonemes: [n, oeh, l, ax]
-  - grapheme: noehste
+  - grapheme: nøste
     phonemes: [n, oe, s, t, ax]
-  - grapheme: noehtt
+  - grapheme: nøtt
     phonemes: [n, oe, t]
-  - grapheme: noehyaktig
+  - grapheme: nøyaktig
     phonemes: [n, oe, j, aa, k, t, ih]
-  - grapheme: noehyaktige
+  - grapheme: nøyaktige
     phonemes: [n, oe, j, aa, k, t, ih, ax]
-  - grapheme: noehyaktigere
+  - grapheme: nøyaktigere
     phonemes: [n, oe, j, aa, k, t, ih, r, ax]
-  - grapheme: noehyaktigst
+  - grapheme: nøyaktigst
     phonemes: [n, oe, j, aa, k, t, ih, k, s, t]
-  - grapheme: noehyaktigste
+  - grapheme: nøyaktigste
     phonemes: [n, oe, j, aa, k, t, ih, k, s, t, ax]
-  - grapheme: noehye
+  - grapheme: nøye
     phonemes: [n, oe, j, ax]
-  - grapheme: noehytral
+  - grapheme: nøytral
     phonemes: [n, oe, j, t, r, aa, l]
   - grapheme: nå
     phonemes: [n, oo]
   - grapheme: nåde
     phonemes: [n, oo, d, ax]
-  - grapheme: nådeloehs
+  - grapheme: nådeløs
     phonemes: [n, oo, d, ax, l, oeh, s]
   - grapheme: nål
     phonemes: [n, oo, l]
@@ -11268,7 +11268,7 @@ entries:
     phonemes: [ao, p, s, ae, r, v, ee, r, ax]
   - grapheme: obskur
     phonemes: [ao, p, s, k, uh, r]
-  - grapheme: obskoehn
+  - grapheme: obskøn
     phonemes: [ao, p, s, k, oeh, n]
   - grapheme: odde
     phonemes: [ao, d, ax]
@@ -11280,7 +11280,7 @@ entries:
     phonemes: [ao, f, ax, n, t, l, ih, ax]
   - grapheme: offentligere
     phonemes: [ao, f, ax, n, t, l, ih, r, ax]
-  - grapheme: offentliggjoehre
+  - grapheme: offentliggjøre
     phonemes: [ao, f, ax, n, t, l, ih, j, oeh, r, ax]
   - grapheme: offentlighet
     phonemes: [ao, f, ax, n, t, l, ih, h, ee, t]
@@ -11464,11 +11464,11 @@ entries:
     phonemes: [ao, p, f, uuh, s, t, r, ax]
   - grapheme: oppfylle
     phonemes: [ao, p, f, ue, l, ax]
-  - grapheme: oppfoehlger
+  - grapheme: oppfølger
     phonemes: [ao, p, f, oe, l, ax, r]
-  - grapheme: oppfoehre
+  - grapheme: oppføre
     phonemes: [ao, p, f, oeh, r, ax]
-  - grapheme: oppfoehrelse
+  - grapheme: oppførelse
     phonemes: [ao, p, f, oeh, r, eh, l, s, ax]
   - grapheme: oppgi
     phonemes: [ao, p, j, iy]
@@ -11484,7 +11484,7 @@ entries:
     phonemes: [ao, p, h, ao, l, ax]
   - grapheme: oppholdsrom
     phonemes: [ao, p, h, ao, l, s, r, uuh, m]
-  - grapheme: opphoehre
+  - grapheme: opphøre
     phonemes: [ao, p, h, oeh, r, ax]
   - grapheme: oppklare
     phonemes: [ao, p, k, l, aa, r, ax]
@@ -11540,7 +11540,7 @@ entries:
     phonemes: [ao, p, r, ih, n, ax, l, ih, k, s, t]
   - grapheme: opprinneligste
     phonemes: [ao, p, r, ih, n, ax, l, ih, k, s, t, ax]
-  - grapheme: opproehre
+  - grapheme: opprøre
     phonemes: [ao, p, r, oeh, r, ax]
   - grapheme: oppsummere
     phonemes: [ao, p, s, uh, m, ee, r, ax]
@@ -11556,7 +11556,7 @@ entries:
     phonemes: [ao, p, v, aa, k, t]
   - grapheme: oppvarte
     phonemes: [ao, p, v, aa, t, ax]
-  - grapheme: oppvaskboehrste
+  - grapheme: oppvaskbørste
     phonemes: [ao, p, v, aa, s, k, b, oe, sz, t, ax]
   - grapheme: oppvaskklut
     phonemes: [ao, p, v, aa, s, k, l, uh, t]
@@ -11587,15 +11587,15 @@ entries:
   - grapheme: ordener
     phonemes: [ao, d, n, ax, r]
   - grapheme: ordentlig
-    phonemes: [ao, nng, t, l, ih]
+    phonemes: [ao, ng, t, l, ih]
   - grapheme: ordentlige
-    phonemes: [ao, nng, t, l, ih, ax]
+    phonemes: [ao, ng, t, l, ih, ax]
   - grapheme: ordentligere
-    phonemes: [ao, nng, t, l, ih, r, ax]
+    phonemes: [ao, ng, t, l, ih, r, ax]
   - grapheme: ordentligst
-    phonemes: [ao, nng, t, l, ih, k, s, t]
+    phonemes: [ao, ng, t, l, ih, k, s, t]
   - grapheme: ordentligste
-    phonemes: [ao, nng, t, l, ih, k, s, t, ax]
+    phonemes: [ao, ng, t, l, ih, k, s, t, ax]
   - grapheme: ordinær
     phonemes: [ao, d, ih, n, ae, r]
   - grapheme: ordklasse
@@ -11648,7 +11648,7 @@ entries:
     phonemes: [oo, v, ax, r, b, ae, r, ax, n, ax]
   - grapheme: overdrive
     phonemes: [oo, v, ax, d, r, iy, v, ax]
-  - grapheme: overdoehve
+  - grapheme: overdøve
     phonemes: [oo, v, ax, d, oeh, v, ax]
   - grapheme: overdådig
     phonemes: [oo, v, ax, d, oo, d, ih]
@@ -11670,11 +11670,11 @@ entries:
     phonemes: [oo, v, ax, r, f, ao, r]
   - grapheme: overfore
     phonemes: [oo, v, ax, r, f, oeh, r, ax]
-  - grapheme: overfoehre
+  - grapheme: overføre
     phonemes: [oo, v, ax, r, f, oeh, r, ax]
-  - grapheme: overfoehring
+  - grapheme: overføring
     phonemes: [oo, v, ax, r, f, oeh, r, ih, ng]
-  - grapheme: overfoehrt
+  - grapheme: overført
     phonemes: [oo, v, ax, r, f, oeh, t]
   - grapheme: overgang
     phonemes: [oo, v, ax, r, g, aa, ng]
@@ -11684,9 +11684,9 @@ entries:
     phonemes: [oo, v, ax, r, g, oo]
   - grapheme: overholde
     phonemes: [oo, v, ax, r, h, ao, l, ax]
-  - grapheme: overhoehre
+  - grapheme: overhøre
     phonemes: [oo, v, ax, r, h, oeh, r, ax]
-  - grapheme: overkjoehre
+  - grapheme: overkjøre
     phonemes: [oo, v, ax, r, xh, oeh, r, ax]
   - grapheme: overkommelig
     phonemes: [ao, v, ax, r, k, ao, m, ax, l, ih]
@@ -11711,21 +11711,21 @@ entries:
   - grapheme: overmanne
     phonemes: [oo, v, ax, r, m, aa, n, ax]
   - grapheme: overnatte
-    phonemes: [oo, v, ax, nng, aa, t, ax]
+    phonemes: [oo, v, ax, ng, aa, t, ax]
   - grapheme: overnatting
-    phonemes: [oo, v, ax, nng, aa, t, ih, ng]
+    phonemes: [oo, v, ax, ng, aa, t, ih, ng]
   - grapheme: overnattingssted
-    phonemes: [oo, v, ax, nng, aa, t, ih, ng, s, t, e]
+    phonemes: [oo, v, ax, ng, aa, t, ih, ng, s, t, e]
   - grapheme: overnaturlig
-    phonemes: [oo, v, ax, nng, aa, t, uh, l, ih]
+    phonemes: [oo, v, ax, ng, aa, t, uh, l, ih]
   - grapheme: overnaturlige
-    phonemes: [oo, v, ax, nng, aa, t, uh, l, ih, ax]
+    phonemes: [oo, v, ax, ng, aa, t, uh, l, ih, ax]
   - grapheme: overnaturligere
-    phonemes: [oo, v, ax, nng, aa, t, uh, l, ih, r, ax]
+    phonemes: [oo, v, ax, ng, aa, t, uh, l, ih, r, ax]
   - grapheme: overnaturligst
-    phonemes: [oo, v, ax, nng, aa, t, uh, l, ih, k, s, t]
+    phonemes: [oo, v, ax, ng, aa, t, uh, l, ih, k, s, t]
   - grapheme: overnaturligste
-    phonemes: [oo, v, ax, nng, aa, t, uh, l, ih, k, s, t, ax]
+    phonemes: [oo, v, ax, ng, aa, t, uh, l, ih, k, s, t, ax]
   - grapheme: overraske
     phonemes: [oo, v, ax, r, aa, s, k, ax]
   - grapheme: overrasket
@@ -11800,7 +11800,7 @@ entries:
     phonemes: [oo, v, ax, r, v, ae, r, ax]
   - grapheme: overvåke
     phonemes: [oo, v, ax, r, v, oo, k, ax]
-  - grapheme: overoehse
+  - grapheme: overøse
     phonemes: [oo, v, ax, r, oeh, s, ax]
   - grapheme: p-pille
     phonemes: [p, ee, p, ih, l, ax]
@@ -12144,9 +12144,9 @@ entries:
     phonemes: [p, l, ue, n, d, r, ax]
   - grapheme: plystre
     phonemes: [p, l, ue, s, t, r, ax]
-  - grapheme: ploehsete
+  - grapheme: pløsete
     phonemes: [p, l, oeh, s, ax, t, ax]
-  - grapheme: ploehye
+  - grapheme: pløye
     phonemes: [p, l, oe, j, ax]
   - grapheme: pneumatisk
     phonemes: [p, n, ae, w, m, aa, t, ih, s, k]
@@ -12178,7 +12178,7 @@ entries:
     phonemes: [p, ao, l, n]
   - grapheme: polsk
     phonemes: [p, uu, l, s, k]
-  - grapheme: pompoehs
+  - grapheme: pompøs
     phonemes: [p, uuh, m, p, oeh, s]
   - grapheme: pop
     phonemes: [p, ao, p]
@@ -12204,7 +12204,7 @@ entries:
     phonemes: [p, uuh, t, r, eh, t]
   - grapheme: portugisisk
     phonemes: [p, uuh, t, uh, g, iy, s, ih, s, k]
-  - grapheme: poroehs
+  - grapheme: porøs
     phonemes: [p, uuh, r, oeh, s]
   - grapheme: pose
     phonemes: [p, uu, s, ax]
@@ -12294,7 +12294,7 @@ entries:
     phonemes: [p, r, ax, s, t, ee, r, ax]
   - grapheme: prestisjefylt
     phonemes: [p, r, ax, s, t, iy, sz, ax, f, ue, l, t]
-  - grapheme: pretensioehs
+  - grapheme: pretensiøs
     phonemes: [p, r, ax, t, aa, ng, s, ih, oeh, s]
   - grapheme: prevensjon
     phonemes: [p, r, ee, v, ax, n, sz, uu, n]
@@ -12400,7 +12400,7 @@ entries:
     phonemes: [p, r, ueh, d, ax]
   - grapheme: pryle
     phonemes: [p, r, ueh, l, ax]
-  - grapheme: proehve
+  - grapheme: prøve
     phonemes: [p, r, oeh, v, ax]
   - grapheme: pseudonym
     phonemes: [s, ax, v, d, uuh, n, ueh, m]
@@ -12482,9 +12482,9 @@ entries:
     phonemes: [p, ueh, s, ax, t, ax]
   - grapheme: pære
     phonemes: [p, ae, r, ax]
-  - grapheme: poehlse
+  - grapheme: pølse
     phonemes: [p, oe, l, s, ax]
-  - grapheme: poehnske
+  - grapheme: pønske
     phonemes: [p, oe, n, s, k, ax]
   - grapheme: på
     phonemes: [p, oo]
@@ -12498,7 +12498,7 @@ entries:
     phonemes: [p, oo, d, r, aa]
   - grapheme: påfallende
     phonemes: [p, oo, f, aa, l, ax, n, ax]
-  - grapheme: påfoehlgende
+  - grapheme: påfølgende
     phonemes: [p, oo, f, oe, l, g, ax, n, ax]
   - grapheme: pågripe
     phonemes: [p, oo, g, r, iy, p, ax]
@@ -12638,7 +12638,7 @@ entries:
     phonemes: [r, aa, sz, l, ax]
   - grapheme: raspe
     phonemes: [r, aa, s, p, ax]
-  - grapheme: rastloehs
+  - grapheme: rastløs
     phonemes: [r, aa, s, t, l, oeh, s]
   - grapheme: raus
     phonemes: [r, aw, s]
@@ -12662,7 +12662,7 @@ entries:
     phonemes: [r, eh, d, ax]
   - grapheme: rede
     phonemes: [r, ee, d, ax]
-  - grapheme: redegjoehre
+  - grapheme: redegjøre
     phonemes: [r, ee, d, ax, j, oeh, r, ax]
   - grapheme: redelig
     phonemes: [r, ee, d, ax, l, ih]
@@ -12772,13 +12772,13 @@ entries:
     phonemes: [r, eh, l, ax, v, aa, n, t]
   - grapheme: religion
     phonemes: [r, eh, l, ih, g, ih, uu, n]
-  - grapheme: religioehs
+  - grapheme: religiøs
     phonemes: [r, eh, l, ih, g, ih, oeh, s]
   - grapheme: ren
     phonemes: [r, ee, n]
   - grapheme: renessanse
     phonemes: [r, ee, n, ee, s, aa, n, s, ax]
-  - grapheme: rengjoehre
+  - grapheme: rengjøre
     phonemes: [r, ee, n, j, oeh, r, ax]
   - grapheme: renne
     phonemes: [r, eh, n, ax]
@@ -12840,7 +12840,7 @@ entries:
     phonemes: [r, eh, s, p, eh, k, t, ee, r, ax]
   - grapheme: respektiv
     phonemes: [r, eh, s, p, ax, k, t, iy, v]
-  - grapheme: respektloehs
+  - grapheme: respektløs
     phonemes: [r, eh, s, p, eh, k, t, l, oeh, s]
   - grapheme: ressurs
     phonemes: [r, eh, s, uh, sz]
@@ -12883,7 +12883,7 @@ entries:
   - grapheme: returbillett
     phonemes: [r, eh, t, uh, r, b, ih, l, eh, t]
   - grapheme: returnere
-    phonemes: [r, ax, t, uh, nng, ee, r, ax]
+    phonemes: [r, ax, t, uh, ng, ee, r, ax]
   - grapheme: revers
     phonemes: [r, eh, v, ae, sz]
   - grapheme: revidere
@@ -13146,55 +13146,55 @@ entries:
     phonemes: [r, ue, s, t, ax, n, e]
   - grapheme: rytme
     phonemes: [r, ue, t, m, ax]
-  - grapheme: Roeha
+  - grapheme: Røa
     phonemes: [r, oeh, w, aa]
-  - grapheme: roehd
+  - grapheme: rød
     phonemes: [r, oeh]
-  - grapheme: roehdkål
+  - grapheme: rødkål
     phonemes: [r, oeh, k, oo, l]
-  - grapheme: roehdme
+  - grapheme: rødme
     phonemes: [r, oe, d, m, ax]
-  - grapheme: roehdstrupe
+  - grapheme: rødstrupe
     phonemes: [r, oeh, s, t, r, uh, p, ax]
-  - grapheme: roehdt
+  - grapheme: rødt
     phonemes: [r, oe, t]
-  - grapheme: roehdvin
+  - grapheme: rødvin
     phonemes: [r, oeh, v, iy, n]
-  - grapheme: roehff
+  - grapheme: røff
     phonemes: [r, oe, f]
-  - grapheme: roehke
+  - grapheme: røke
     phonemes: [r, oeh, k, ax]
-  - grapheme: roehkt
+  - grapheme: røkt
     phonemes: [r, oeh, k, t]
-  - grapheme: roehkte
+  - grapheme: røkte
     phonemes: [r, oe, k, t, ax]
-  - grapheme: roehmme
+  - grapheme: rømme
     phonemes: [r, oe, m, ax]
-  - grapheme: roehntgen
+  - grapheme: røntgen
     phonemes: [r, oe, n, t, k, ax, n]
-  - grapheme: roehntgenbilde
+  - grapheme: røntgenbilde
     phonemes: [r, oe, n, t, k, ax, n, b, ih, l, d, ax]
-  - grapheme: roehpe
+  - grapheme: røpe
     phonemes: [r, oeh, p, ax]
-  - grapheme: roehre
+  - grapheme: røre
     phonemes: [r, oeh, r, ax]
-  - grapheme: roehslig
+  - grapheme: røslig
     phonemes: [r, oe, sz, l, ih]
-  - grapheme: roehslige
+  - grapheme: røslige
     phonemes: [r, oe, sz, l, ih, ax]
-  - grapheme: roehsligere
+  - grapheme: røsligere
     phonemes: [r, oe, sz, l, ih, r, ax]
-  - grapheme: roehsligst
+  - grapheme: røsligst
     phonemes: [r, oe, sz, l, ih, k, s, t]
-  - grapheme: roehsligste
+  - grapheme: røsligste
     phonemes: [r, oe, sz, l, ih, k, s, t, ax]
-  - grapheme: roehyk
+  - grapheme: røyk
     phonemes: [r, oe, j, k]
-  - grapheme: roehyke
+  - grapheme: røyke
     phonemes: [r, oe, j, k, ax]
-  - grapheme: roehyker
+  - grapheme: røyker
     phonemes: [r, oe, j, k, ax, r]
-  - grapheme: roehyte
+  - grapheme: røyte
     phonemes: [r, oe, j, t, ax]
   - grapheme: rå
     phonemes: [r, oo]
@@ -13202,11 +13202,11 @@ entries:
     phonemes: [r, oo]
   - grapheme: råde
     phonemes: [r, oo, d, ax]
-  - grapheme: rådfoehre
+  - grapheme: rådføre
     phonemes: [r, oo, d, f, oeh, r, ax]
   - grapheme: rådhus
     phonemes: [r, oo, d, h, uh, s]
-  - grapheme: råkjoehre
+  - grapheme: råkjøre
     phonemes: [r, oo, xh, oeh, r, ax]
   - grapheme: råtne
     phonemes: [r, ao, t, n, ax]
@@ -13262,7 +13262,7 @@ entries:
     phonemes: [s, aa, k, s]
   - grapheme: sakse
     phonemes: [s, aa, k, s, ax]
-  - grapheme: saksoehke
+  - grapheme: saksøke
     phonemes: [s, aa, k, s, oeh, k, ax]
   - grapheme: sakte
     phonemes: [s, aa, k, t, ax]
@@ -13310,7 +13310,7 @@ entries:
     phonemes: [s, aa, m, ax, n, l, ih, ng, n, ax]
   - grapheme: sammensatt
     phonemes: [s, aa, m, ax, n, s, aa, t]
-  - grapheme: sammenstoeht
+  - grapheme: sammenstøt
     phonemes: [s, aa, m, ax, n, s, t, oeh, t]
   - grapheme: samordne
     phonemes: [s, aa, m, ao, d, n, ax]
@@ -13482,15 +13482,15 @@ entries:
     phonemes: [s, eh, l, b, eh, t, j, ee, n, ih, ng]
   - grapheme: selvforskyldt
     phonemes: [s, eh, l, f, ao, sz, ue, l, t]
-  - grapheme: selvfoehlgelig
+  - grapheme: selvfølgelig
     phonemes: [s, ax, l, f, oe, l, g, ax, l, ih]
-  - grapheme: selvfoehlgelige
+  - grapheme: selvfølgelige
     phonemes: [s, ax, l, f, oe, l, g, ax, l, ih, ax]
-  - grapheme: selvfoehlgeligere
+  - grapheme: selvfølgeligere
     phonemes: [s, ax, l, f, oe, l, g, ax, l, ih, r, ax]
-  - grapheme: selvfoehlgeligst
+  - grapheme: selvfølgeligst
     phonemes: [s, ax, l, f, oe, l, g, ax, l, ih, k, s, t]
-  - grapheme: selvfoehlgeligste
+  - grapheme: selvfølgeligste
     phonemes: [s, ax, l, f, oe, l, g, ax, l, ih, k, s, t, ax]
   - grapheme: selvgod
     phonemes: [s, eh, l, g, uu]
@@ -13518,7 +13518,7 @@ entries:
     phonemes: [s, ax, l, s, t, eh, n, ih, k, s, t, ax]
   - grapheme: selvtillit
     phonemes: [s, eh, l, t, ih, l, ih, t]
-  - grapheme: selvutloehser
+  - grapheme: selvutløser
     phonemes: [s, eh, l, uh, t, l, oeh, s, ax, r]
   - grapheme: sen
     phonemes: [s, ee, n]
@@ -13532,7 +13532,7 @@ entries:
     phonemes: [s, eh, ng]
   - grapheme: sengeteppe
     phonemes: [s, eh, ng, ax, t, eh, p, ax]
-  - grapheme: sengetoehy
+  - grapheme: sengetøy
     phonemes: [s, eh, ng, ax, t, oe, j]
   - grapheme: senil
     phonemes: [s, ax, n, iy, l]
@@ -13578,7 +13578,7 @@ entries:
     phonemes: [s, ee, r]
   - grapheme: serbisk
     phonemes: [s, ae, r, b, ih, s, k]
-  - grapheme: serioehs
+  - grapheme: seriøs
     phonemes: [s, ae, r, ih, oeh, s]
   - grapheme: serv
     phonemes: [sz, ae, r, v]
@@ -13588,7 +13588,7 @@ entries:
     phonemes: [s, oe, r, v, ih, s]
   - grapheme: serviett
     phonemes: [s, ae, r, v, ih, j, eh, t]
-  - grapheme: servitoehr
+  - grapheme: servitør
     phonemes: [s, ae, r, v, ih, t, oeh, r]
   - grapheme: ses
     phonemes: [s, ee, ax, s]
@@ -13750,7 +13750,7 @@ entries:
     phonemes: [sz, ax, n, ee, r, ax]
   - grapheme: sjenert
     phonemes: [sz, ax, n, ee, t]
-  - grapheme: sjeneroehs
+  - grapheme: sjenerøs
     phonemes: [sz, ax, n, ax, r, oeh, s]
   - grapheme: sjikanere
     phonemes: [sz, ih, k, aa, n, ee, r, ax]
@@ -13766,17 +13766,17 @@ entries:
     phonemes: [sz, uh, k, d, uuh, m]
   - grapheme: sjuskete
     phonemes: [sz, uh, s, k, ax, t, ax]
-  - grapheme: sjoeh
+  - grapheme: sjø
     phonemes: [sz, oeh]
-  - grapheme: sjoehgang
+  - grapheme: sjøgang
     phonemes: [sz, oeh, g, aa, ng]
-  - grapheme: sjoehl
+  - grapheme: sjøl
     phonemes: [sz, oeh, l]
-  - grapheme: sjoehsette
+  - grapheme: sjøsette
     phonemes: [sz, oeh, s, eh, t, ax]
-  - grapheme: sjoehsyk
+  - grapheme: sjøsyk
     phonemes: [sz, oeh, s, ueh, k]
-  - grapheme: sjåfoehr
+  - grapheme: sjåfør
     phonemes: [sz, ao, f, oeh, r]
   - grapheme: skade
     phonemes: [s, k, aa, d, ax]
@@ -13816,7 +13816,7 @@ entries:
     phonemes: [s, k, aa, m, ax, l, ih, k, s, t]
   - grapheme: skammeligste
     phonemes: [s, k, aa, m, ax, l, ih, k, s, t, ax]
-  - grapheme: skandaloehs
+  - grapheme: skandaløs
     phonemes: [s, k, aa, n, aa, l, oeh, s]
   - grapheme: skandinavisk
     phonemes: [s, k, aa, n, ih, n, aa, v, ih, s, k]
@@ -13854,7 +13854,7 @@ entries:
     phonemes: [sz, ih, f, t, ax]
   - grapheme: skiftende
     phonemes: [sz, ih, f, t, ax, n, ax]
-  - grapheme: skiinstruktoehr
+  - grapheme: skiinstruktør
     phonemes: [sz, ih, ih, n, s, t, r, uh, k, t, oe, r]
   - grapheme: skikka
     phonemes: [sz, ih, k, aa]
@@ -13882,7 +13882,7 @@ entries:
     phonemes: [sz, ih, l, t]
   - grapheme: skilte
     phonemes: [sz, ih, l, t, ax]
-  - grapheme: skiloehper
+  - grapheme: skiløper
     phonemes: [sz, iy, l, oeh, p, ax, r]
   - grapheme: skimte
     phonemes: [sz, ih, m, t, ax]
@@ -13956,7 +13956,7 @@ entries:
     phonemes: [sz, eh, l, v, ax]
   - grapheme: skjelven
     phonemes: [sz, eh, l, v, ax, n]
-  - grapheme: skjeloehyd
+  - grapheme: skjeløyd
     phonemes: [sz, ee, l, oe, j, d]
   - grapheme: skjematisk
     phonemes: [sz, ax, m, aa, t, ih, s, k]
@@ -13994,23 +13994,23 @@ entries:
     phonemes: [sz, ae, r, ax]
   - grapheme: skjærtorsdag
     phonemes: [sz, ae, t, ao, sz, d, aa, g]
-  - grapheme: skjoehdesloehs
+  - grapheme: skjødesløs
     phonemes: [sz, oeh, d, ax, s, l, oeh, s]
-  - grapheme: skjoehnn
+  - grapheme: skjønn
     phonemes: [sz, oe, n]
-  - grapheme: skjoehnne
+  - grapheme: skjønne
     phonemes: [sz, oe, n, ax]
-  - grapheme: skjoehnt
+  - grapheme: skjønt
     phonemes: [sz, oe, n, t]
-  - grapheme: skjoehr
+  - grapheme: skjør
     phonemes: [sz, oeh, r]
-  - grapheme: skjoehrt
+  - grapheme: skjørt
     phonemes: [sz, oe, t]
-  - grapheme: skjoeht
+  - grapheme: skjøt
     phonemes: [sz, oeh, t]
-  - grapheme: skjoehteledning
+  - grapheme: skjøteledning
     phonemes: [sz, oeh, t, ax, l, eh, d, n, ih, ng]
-  - grapheme: skjoehtte
+  - grapheme: skjøtte
     phonemes: [sz, oe, t, ax]
   - grapheme: skli
     phonemes: [s, k, l, iy]
@@ -14029,7 +14029,7 @@ entries:
   - grapheme: skole
     phonemes: [s, k, uu, l, ax]
   - grapheme: skolebarn
-    phonemes: [s, k, uu, l, ax, b, aa, nng]
+    phonemes: [s, k, uu, l, ax, b, aa, ng]
   - grapheme: skolisse
     phonemes: [s, k, uu, l, ih, s, ax]
   - grapheme: skomaker
@@ -14110,23 +14110,23 @@ entries:
     phonemes: [s, k, r, uh, ax]
   - grapheme: skrukkete
     phonemes: [s, k, r, uuh, k, ax, t, ax]
-  - grapheme: skruppelloehs
+  - grapheme: skruppelløs
     phonemes: [s, k, r, uh, p, ax, l, oeh, s]
   - grapheme: skryt
     phonemes: [s, k, r, ueh, t]
   - grapheme: skryte
     phonemes: [s, k, r, ueh, t, ax]
-  - grapheme: skroehne
+  - grapheme: skrøne
     phonemes: [s, k, r, oeh, n, ax]
-  - grapheme: skroehpelig
+  - grapheme: skrøpelig
     phonemes: [s, k, r, oeh, p, ax, l, ih]
-  - grapheme: skroehpelige
+  - grapheme: skrøpelige
     phonemes: [s, k, r, oeh, p, ax, l, ih, ax]
-  - grapheme: skroehpeligere
+  - grapheme: skrøpeligere
     phonemes: [s, k, r, oeh, p, ax, l, ih, r, ax]
-  - grapheme: skroehpeligst
+  - grapheme: skrøpeligst
     phonemes: [s, k, r, oeh, p, ax, l, ih, k, s, t]
-  - grapheme: skroehpeligste
+  - grapheme: skrøpeligste
     phonemes: [s, k, r, oeh, p, ax, l, ih, k, s, t, ax]
   - grapheme: skrå
     phonemes: [s, k, r, oo]
@@ -14226,11 +14226,11 @@ entries:
     phonemes: [sz, ueh, t, ax]
   - grapheme: skyve
     phonemes: [sz, ueh, v, ax]
-  - grapheme: skoehye
+  - grapheme: skøye
     phonemes: [s, k, oe, j, ax]
-  - grapheme: skoehyte
+  - grapheme: skøyte
     phonemes: [sz, oe, j, t, ax]
-  - grapheme: skoehytebane
+  - grapheme: skøytebane
     phonemes: [sz, oe, j, t, ax, b, aa, n, ax]
   - grapheme: skål
     phonemes: [s, k, oo, l]
@@ -14354,15 +14354,15 @@ entries:
     phonemes: [sz, l, uh, t, ax]
   - grapheme: slynge
     phonemes: [sz, l, ue, ng, ax]
-  - grapheme: sloehse
+  - grapheme: sløse
     phonemes: [sz, l, oeh, s, ax]
-  - grapheme: sloehv
+  - grapheme: sløv
     phonemes: [sz, l, oeh, v]
-  - grapheme: sloehve
+  - grapheme: sløve
     phonemes: [sz, l, oeh, v, ax]
-  - grapheme: sloehyd
+  - grapheme: sløyd
     phonemes: [sz, l, oe, j, d]
-  - grapheme: sloehyfe
+  - grapheme: sløyfe
     phonemes: [sz, l, oe, j, f, ax]
   - grapheme: slå
     phonemes: [sz, l, oo]
@@ -14380,7 +14380,7 @@ entries:
     phonemes: [s, m, aa, k, ax]
   - grapheme: smakfull
     phonemes: [s, m, aa, k, f, uh, l]
-  - grapheme: smakloehs
+  - grapheme: smakløs
     phonemes: [s, m, aa, k, l, oeh, s]
   - grapheme: smal
     phonemes: [s, m, aa, l]
@@ -14438,11 +14438,11 @@ entries:
     phonemes: [s, m, ueh, g, ax]
   - grapheme: smykke
     phonemes: [s, m, ue, k, ax]
-  - grapheme: smoehr
+  - grapheme: smør
     phonemes: [s, m, oeh, r]
-  - grapheme: smoehrbroehd
+  - grapheme: smørbrød
     phonemes: [s, m, oe, r, b, r, oeh]
-  - grapheme: smoehre
+  - grapheme: smøre
     phonemes: [s, m, oeh, r, ax]
   - grapheme: smågutt
     phonemes: [s, m, oo, g, uh, t]
@@ -14556,15 +14556,15 @@ entries:
     phonemes: [s, n, ue, l, t, ax]
   - grapheme: snyte
     phonemes: [s, n, ueh, t, ax]
-  - grapheme: snoeh
+  - grapheme: snø
     phonemes: [s, n, oeh]
-  - grapheme: snoehbrett
+  - grapheme: snøbrett
     phonemes: [s, n, oeh, b, r, eh, t]
-  - grapheme: snoehre
+  - grapheme: snøre
     phonemes: [s, n, oeh, r, ax]
-  - grapheme: snoehrrete
+  - grapheme: snørrete
     phonemes: [s, n, oe, r, ax, t, ax]
-  - grapheme: snoehvle
+  - grapheme: snøvle
     phonemes: [s, n, oe, v, l, ax]
   - grapheme: snål
     phonemes: [s, n, oo, l]
@@ -14627,7 +14627,7 @@ entries:
   - grapheme: sommerferie
     phonemes: [s, ao, m, ax, r, f, ee, r, ih, ax]
   - grapheme: sommernatt
-    phonemes: [s, ao, m, ax, nng, aa, t]
+    phonemes: [s, ao, m, ax, ng, aa, t]
   - grapheme: sommervarme
     phonemes: [s, ao, m, ax, r, v, aa, r, m, ax]
   - grapheme: sone
@@ -14782,7 +14782,7 @@ entries:
     phonemes: [s, p, iy, s, ax, l, ih, k, s, t]
   - grapheme: spiseligste
     phonemes: [s, p, iy, s, ax, l, ih, k, s, t, ax]
-  - grapheme: spiseroehr
+  - grapheme: spiserør
     phonemes: [s, p, iy, s, ax, r, oeh, r]
   - grapheme: spisesal
     phonemes: [s, p, iy, s, ax, s, aa, l]
@@ -14868,9 +14868,9 @@ entries:
     phonemes: [s, p, r, uh, d, l, ax]
   - grapheme: sprute
     phonemes: [s, p, r, uh, t, ax]
-  - grapheme: sproeh
+  - grapheme: sprø
     phonemes: [s, p, r, oeh]
-  - grapheme: sproehyte
+  - grapheme: sprøyte
     phonemes: [s, p, r, oe, j, t, ax]
   - grapheme: språk
     phonemes: [s, p, r, oo, k]
@@ -14904,13 +14904,13 @@ entries:
     phonemes: [s, p, ueh, l, ax]
   - grapheme: spytte
     phonemes: [s, p, ue, t, ax]
-  - grapheme: spoehk
+  - grapheme: spøk
     phonemes: [s, p, oeh, k]
-  - grapheme: spoehke
+  - grapheme: spøke
     phonemes: [s, p, oeh, k, ax]
-  - grapheme: spoehrre
+  - grapheme: spørre
     phonemes: [s, p, oe, r, ax]
-  - grapheme: spoehrsmål
+  - grapheme: spørsmål
     phonemes: [s, p, oe, sz, m, oo, l]
   - grapheme: spå
     phonemes: [s, p, oo]
@@ -15165,7 +15165,7 @@ entries:
   - grapheme: stjele
     phonemes: [s, t, j, ee, l, ax]
   - grapheme: stjerne
-    phonemes: [s, t, j, ae, nng, ax]
+    phonemes: [s, t, j, ae, ng, ax]
   - grapheme: stoff
     phonemes: [s, t, ao, f]
   - grapheme: stokke
@@ -15198,7 +15198,7 @@ entries:
     phonemes: [s, t, ao, r, m, ax]
   - grapheme: stotre
     phonemes: [s, t, ao, t, r, ax]
-  - grapheme: strabasioehs
+  - grapheme: strabasiøs
     phonemes: [s, t, r, aa, b, aa, s, ih, oeh, s]
   - grapheme: straff
     phonemes: [s, t, r, aa, f]
@@ -15280,19 +15280,19 @@ entries:
     phonemes: [s, t, r, uh, t, ax]
   - grapheme: stryke
     phonemes: [s, t, r, ueh, k, ax]
-  - grapheme: stroeh
+  - grapheme: strø
     phonemes: [s, t, r, oeh]
-  - grapheme: stroehm
+  - grapheme: strøm
     phonemes: [s, t, r, oe, m]
-  - grapheme: stroehmavgift
+  - grapheme: strømavgift
     phonemes: [s, t, r, oe, m, aa, v, j, ih, f, t]
-  - grapheme: stroehmme
+  - grapheme: strømme
     phonemes: [s, t, r, oe, m, ax]
-  - grapheme: stroehmning
+  - grapheme: strømning
     phonemes: [s, t, r, oe, m, n, ih, ng]
-  - grapheme: stroehmpe
+  - grapheme: strømpe
     phonemes: [s, t, r, oe, m, p, ax]
-  - grapheme: stroehmspenning
+  - grapheme: strømspenning
     phonemes: [s, t, r, oe, m, s, p, eh, n, ih, ng]
   - grapheme: strå
     phonemes: [s, t, r, oo]
@@ -15344,41 +15344,41 @@ entries:
     phonemes: [s, t, ue, r, m, aa, n]
   - grapheme: styrte
     phonemes: [s, t, ue, t, ax]
-  - grapheme: stoeh
+  - grapheme: stø
     phonemes: [s, t, oeh]
-  - grapheme: stoehdig
+  - grapheme: stødig
     phonemes: [s, t, oeh, d, ih]
-  - grapheme: stoehdige
+  - grapheme: stødige
     phonemes: [s, t, oeh, d, ih, ax]
-  - grapheme: stoehdigere
+  - grapheme: stødigere
     phonemes: [s, t, oeh, d, ih, r, ax]
-  - grapheme: stoehdigst
+  - grapheme: stødigst
     phonemes: [s, t, oeh, d, ih, k, s, t]
-  - grapheme: stoehdigste
+  - grapheme: stødigste
     phonemes: [s, t, oeh, d, ih, k, s, t, ax]
-  - grapheme: stoehl
+  - grapheme: støl
     phonemes: [s, t, oeh, l]
-  - grapheme: stoehnne
+  - grapheme: stønne
     phonemes: [s, t, oe, n, ax]
-  - grapheme: stoehpe
+  - grapheme: støpe
     phonemes: [s, t, oeh, p, ax]
-  - grapheme: stoehrkne
+  - grapheme: størkne
     phonemes: [s, t, oe, r, k, n, ax]
-  - grapheme: stoehrrelse
+  - grapheme: størrelse
     phonemes: [s, t, oe, r, ax, l, s, ax]
-  - grapheme: stoehte
+  - grapheme: støte
     phonemes: [s, t, oeh, t, ax]
-  - grapheme: stoehtfanger
+  - grapheme: støtfanger
     phonemes: [s, t, oeh, t, f, aa, ng, ax, r]
-  - grapheme: stoehtte
+  - grapheme: støtte
     phonemes: [s, t, oe, t, ax]
-  - grapheme: stoehv
+  - grapheme: støv
     phonemes: [s, t, oeh, v]
-  - grapheme: stoehvel
+  - grapheme: støvel
     phonemes: [s, t, oe, v, ax, l]
-  - grapheme: stoehvete
+  - grapheme: støvete
     phonemes: [s, t, oeh, v, ax, t, ax]
-  - grapheme: stoehy
+  - grapheme: støy
     phonemes: [s, t, oe, j]
   - grapheme: stå
     phonemes: [s, t, oo]
@@ -15439,7 +15439,7 @@ entries:
   - grapheme: surmule
     phonemes: [s, uh, r, m, uh, l, ax]
   - grapheme: surne
-    phonemes: [s, uh, nng, ax]
+    phonemes: [s, uh, ng, ax]
   - grapheme: surre
     phonemes: [s, uh, r, ax]
   - grapheme: surt
@@ -15548,7 +15548,7 @@ entries:
     phonemes: [s, v, ih, m, ax, l, h, ee, t]
   - grapheme: svindle
     phonemes: [s, v, ih, n, l, ax]
-  - grapheme: svinekjoehtt
+  - grapheme: svinekjøtt
     phonemes: [s, v, iy, n, ax, xh, oe, t]
   - grapheme: sving
     phonemes: [s, v, ih, ng]
@@ -15584,21 +15584,21 @@ entries:
     phonemes: [s, v, ae, r]
   - grapheme: svært
     phonemes: [s, v, ae, t]
-  - grapheme: svoehmme
+  - grapheme: svømme
     phonemes: [s, v, oe, m, ax]
-  - grapheme: svoehmmedyktig
+  - grapheme: svømmedyktig
     phonemes: [s, v, oe, m, ax, d, ue, k, t, ih]
-  - grapheme: svoehmmedyktige
+  - grapheme: svømmedyktige
     phonemes: [s, v, oe, m, ax, d, ue, k, t, ih, ax]
-  - grapheme: svoehmmedyktigere
+  - grapheme: svømmedyktigere
     phonemes: [s, v, oe, m, ax, d, ue, k, t, ih, r, ax]
-  - grapheme: svoehmmedyktigst
+  - grapheme: svømmedyktigst
     phonemes: [s, v, oe, m, ax, d, ue, k, t, ih, k, s, t]
-  - grapheme: svoehmmedyktigste
+  - grapheme: svømmedyktigste
     phonemes: [s, v, oe, m, ax, d, ue, k, t, ih, k, s, t, ax]
-  - grapheme: svoehmmer
+  - grapheme: svømmer
     phonemes: [s, v, oe, m, ax, r]
-  - grapheme: svoehpe
+  - grapheme: svøpe
     phonemes: [s, v, oeh, p, ax]
   - grapheme: sy
     phonemes: [s, ueh]
@@ -15766,99 +15766,99 @@ entries:
     phonemes: [s, ae, r, p, r, ee, g, ax]
   - grapheme: særskilt
     phonemes: [s, ae, r, sz, ih, l, t]
-  - grapheme: soehke
+  - grapheme: søke
     phonemes: [s, oeh, k, ax]
-  - grapheme: soehker
+  - grapheme: søker
     phonemes: [s, oeh, k, ax, r]
-  - grapheme: soehkkvåt
+  - grapheme: søkkvåt
     phonemes: [s, oe, k, v, oo, t]
-  - grapheme: soehknad
+  - grapheme: søknad
     phonemes: [s, oeh, k, n, aa, d]
-  - grapheme: soehkt
+  - grapheme: søkt
     phonemes: [s, oeh, k, t]
-  - grapheme: soehle
+  - grapheme: søle
     phonemes: [s, oeh, l, ax]
-  - grapheme: soehlete
+  - grapheme: sølete
     phonemes: [s, oeh, l, ax, t, ax]
-  - grapheme: soehlv
+  - grapheme: sølv
     phonemes: [s, oe, l]
-  - grapheme: soehmme
+  - grapheme: sømme
     phonemes: [s, oe, m, ax]
-  - grapheme: soehmmelig
+  - grapheme: sømmelig
     phonemes: [s, oe, m, ax, l, ih]
-  - grapheme: soehmmelige
+  - grapheme: sømmelige
     phonemes: [s, oe, m, ax, l, ih, ax]
-  - grapheme: soehmmeligere
+  - grapheme: sømmeligere
     phonemes: [s, oe, m, ax, l, ih, r, ax]
-  - grapheme: soehmmeligst
+  - grapheme: sømmeligst
     phonemes: [s, oe, m, ax, l, ih, k, s, t]
-  - grapheme: soehmmeligste
+  - grapheme: sømmeligste
     phonemes: [s, oe, m, ax, l, ih, k, s, t, ax]
-  - grapheme: soehndag
+  - grapheme: søndag
     phonemes: [s, oe, n, d, aa, g]
-  - grapheme: soehndager
+  - grapheme: søndager
     phonemes: [s, oe, n, d, aa, g, ax, r]
-  - grapheme: soehnderknust
+  - grapheme: sønderknust
     phonemes: [s, oe, n, ax, r, k, n, uh, s, t]
-  - grapheme: soehnn
+  - grapheme: sønn
     phonemes: [s, oe, n]
-  - grapheme: soehppel
+  - grapheme: søppel
     phonemes: [s, oe, p, ax, l]
-  - grapheme: soehppelkasse
+  - grapheme: søppelkasse
     phonemes: [s, oe, p, ax, l, k, aa, s, ax]
-  - grapheme: soehppeltoehnne
+  - grapheme: søppeltønne
     phonemes: [s, oe, p, ax, l, t, oe, n, ax]
-  - grapheme: soehrge
+  - grapheme: sørge
     phonemes: [s, oe, r, g, ax]
-  - grapheme: soehrgelig
+  - grapheme: sørgelig
     phonemes: [s, oe, r, g, ax, l, ih]
-  - grapheme: soehrgelige
+  - grapheme: sørgelige
     phonemes: [s, oe, r, g, ax, l, ih, ax]
-  - grapheme: soehrgeligere
+  - grapheme: sørgeligere
     phonemes: [s, oe, r, g, ax, l, ih, r, ax]
-  - grapheme: soehrgeligst
+  - grapheme: sørgeligst
     phonemes: [s, oe, r, g, ax, l, ih, k, s, t]
-  - grapheme: soehrgeligste
+  - grapheme: sørgeligste
     phonemes: [s, oe, r, g, ax, l, ih, k, s, t, ax]
-  - grapheme: soehrgmodig
+  - grapheme: sørgmodig
     phonemes: [s, oe, r, g, m, uu, d, ih]
-  - grapheme: soehrgmodige
+  - grapheme: sørgmodige
     phonemes: [s, oe, r, g, m, uu, d, ih, ax]
-  - grapheme: soehrgmodigere
+  - grapheme: sørgmodigere
     phonemes: [s, oe, r, g, m, uu, d, ih, r, ax]
-  - grapheme: soehrgmodigst
+  - grapheme: sørgmodigst
     phonemes: [s, oe, r, g, m, uu, d, ih, k, s, t]
-  - grapheme: soehrgmodigste
+  - grapheme: sørgmodigste
     phonemes: [s, oe, r, g, m, uu, d, ih, k, s, t, ax]
-  - grapheme: soehrlig
+  - grapheme: sørlig
     phonemes: [s, oeh, l, ih]
-  - grapheme: soehrlige
+  - grapheme: sørlige
     phonemes: [s, oeh, l, ih, ax]
-  - grapheme: soehrligere
+  - grapheme: sørligere
     phonemes: [s, oeh, l, ih, r, ax]
-  - grapheme: soehrligst
+  - grapheme: sørligst
     phonemes: [s, oeh, l, ih, k, s, t]
-  - grapheme: soehrligste
+  - grapheme: sørligste
     phonemes: [s, oeh, l, ih, k, s, t, ax]
-  - grapheme: soehrpe
+  - grapheme: sørpe
     phonemes: [s, oe, r, p, ax]
-  - grapheme: soehster
+  - grapheme: søster
     phonemes: [s, oe, s, t, ax, r]
-  - grapheme: soeht
+  - grapheme: søt
     phonemes: [s, oeh, t]
-  - grapheme: soehtningsmiddel
+  - grapheme: søtningsmiddel
     phonemes: [s, oeh, t, n, ih, ng, s, m, ih, d, ax, l]
-  - grapheme: soehvnig
+  - grapheme: søvnig
     phonemes: [s, oe, v, n, ih]
-  - grapheme: soehvnige
+  - grapheme: søvnige
     phonemes: [s, oe, v, n, ih, ax]
-  - grapheme: soehvnigere
+  - grapheme: søvnigere
     phonemes: [s, oe, v, n, ih, r, ax]
-  - grapheme: soehvnigst
+  - grapheme: søvnigst
     phonemes: [s, oe, v, n, ih, k, s, t]
-  - grapheme: soehvnigste
+  - grapheme: søvnigste
     phonemes: [s, oe, v, n, ih, k, s, t, ax]
-  - grapheme: soehvnloehshet
+  - grapheme: søvnløshet
     phonemes: [s, oe, v, n, l, oeh, s, h, ee, t]
   - grapheme: så
     phonemes: [s, oo]
@@ -15926,7 +15926,7 @@ entries:
     phonemes: [t, aa, k, t, f, uh, l]
   - grapheme: taktisk
     phonemes: [t, aa, k, t, ih, s, k]
-  - grapheme: taktloehs
+  - grapheme: taktløs
     phonemes: [t, aa, k, t, l, oeh, s]
   - grapheme: tale
     phonemes: [t, aa, l, ax]
@@ -15958,15 +15958,15 @@ entries:
     phonemes: [t, aa, ng, k, ax]
   - grapheme: tankefull
     phonemes: [t, aa, ng, k, ax, f, uh, l]
-  - grapheme: tankeloehs
+  - grapheme: tankeløs
     phonemes: [t, aa, ng, k, ax, l, oeh, s]
   - grapheme: tann
     phonemes: [t, aa, n]
-  - grapheme: tannboehrste
+  - grapheme: tannbørste
     phonemes: [t, aa, m, b, oe, sz, t, ax]
   - grapheme: tannhjul
     phonemes: [t, aa, n, j, uh, l]
-  - grapheme: tannkjoehtt
+  - grapheme: tannkjøtt
     phonemes: [t, aa, n, xh, oe, t]
   - grapheme: tannkrem
     phonemes: [t, aa, ng, k, r, ee, m]
@@ -16082,7 +16082,7 @@ entries:
     phonemes: [t, eh, l, eh, f, uu, n, k, ao, t]
   - grapheme: telefonnummer
     phonemes: [t, eh, l, eh, f, uu, n, uuh, m, ax, r]
-  - grapheme: telefonroehr
+  - grapheme: telefonrør
     phonemes: [t, eh, l, eh, f, uu, n, r, oeh, r]
   - grapheme: telefonsvarer
     phonemes: [t, eh, l, eh, f, uu, n, s, v, aa, r, ax, r]
@@ -16224,25 +16224,25 @@ entries:
     phonemes: [t, ih, l, b, uh, d]
   - grapheme: tilby
     phonemes: [t, ih, l, b, ueh]
-  - grapheme: tilboehrlig
+  - grapheme: tilbørlig
     phonemes: [t, ih, l, b, oeh, l, ih]
-  - grapheme: tilboehrlige
+  - grapheme: tilbørlige
     phonemes: [t, ih, l, b, oeh, l, ih, ax]
-  - grapheme: tilboehrligere
+  - grapheme: tilbørligere
     phonemes: [t, ih, l, b, oeh, l, ih, r, ax]
-  - grapheme: tilboehrligst
+  - grapheme: tilbørligst
     phonemes: [t, ih, l, b, oeh, l, ih, k, s, t]
-  - grapheme: tilboehrligste
+  - grapheme: tilbørligste
     phonemes: [t, ih, l, b, oeh, l, ih, k, s, t, ax]
-  - grapheme: tilboehyelig
+  - grapheme: tilbøyelig
     phonemes: [t, ih, l, b, oe, j, ax, l, ih]
-  - grapheme: tilboehyelige
+  - grapheme: tilbøyelige
     phonemes: [t, ih, l, b, oe, j, ax, l, ih, ax]
-  - grapheme: tilboehyeligere
+  - grapheme: tilbøyeligere
     phonemes: [t, ih, l, b, oe, j, ax, l, ih, r, ax]
-  - grapheme: tilboehyeligst
+  - grapheme: tilbøyeligst
     phonemes: [t, ih, l, b, oe, j, ax, l, ih, k, s, t]
-  - grapheme: tilboehyeligste
+  - grapheme: tilbøyeligste
     phonemes: [t, ih, l, b, oe, j, ax, l, ih, k, s, t, ax]
   - grapheme: tildele
     phonemes: [t, ih, l, d, ee, l, ax]
@@ -16266,9 +16266,9 @@ entries:
     phonemes: [t, ih, l, f, r, eh, t, s]
   - grapheme: tilfredsstille
     phonemes: [t, ih, l, f, r, ax, t, s, t, ih, l, ax]
-  - grapheme: tilfoehre
+  - grapheme: tilføre
     phonemes: [t, ih, l, f, oeh, r, ax]
-  - grapheme: tilfoehye
+  - grapheme: tilføye
     phonemes: [t, ih, l, f, oe, j, ax]
   - grapheme: tilgi
     phonemes: [t, ih, l, j, iy]
@@ -16288,11 +16288,11 @@ entries:
     phonemes: [t, ih, l, j, uuh, t]
   - grapheme: tilhenger
     phonemes: [t, ih, l, h, eh, ng, ax, r]
-  - grapheme: tilhoehre
+  - grapheme: tilhøre
     phonemes: [t, ih, l, h, oeh, r, ax]
-  - grapheme: tilhoehrer
+  - grapheme: tilhører
     phonemes: [t, ih, l, h, oeh, r, ax, r]
-  - grapheme: tilintetgjoehre
+  - grapheme: tilintetgjøre
     phonemes: [t, ih, l, ih, n, t, ax, t, j, oeh, r, ax]
   - grapheme: tilkalle
     phonemes: [t, ih, l, k, aa, l, ax]
@@ -16354,7 +16354,7 @@ entries:
     phonemes: [t, ih, l, s, t, r, eh, k, ax, l, ih, k, s, t]
   - grapheme: tilstrekkeligste
     phonemes: [t, ih, l, s, t, r, eh, k, ax, l, ih, k, s, t, ax]
-  - grapheme: tilstoehte
+  - grapheme: tilstøte
     phonemes: [t, ih, l, s, t, oeh, t, ax]
   - grapheme: tilstå
     phonemes: [t, ih, l, s, t, oo]
@@ -16488,7 +16488,7 @@ entries:
     phonemes: [t, uu, n, ax]
   - grapheme: toneangivende
     phonemes: [t, uu, n, ax, aa, n, j, iy, v, ax, n, ax]
-  - grapheme: tonloehs
+  - grapheme: tonløs
     phonemes: [t, uu, n, l, oeh, s]
   - grapheme: topp
     phonemes: [t, ao, p]
@@ -16505,7 +16505,7 @@ entries:
   - grapheme: torg
     phonemes: [t, ao, r, g]
   - grapheme: tornete
-    phonemes: [t, uu, nng, ax, t, ax]
+    phonemes: [t, uu, ng, ax, t, ax]
   - grapheme: Toro
     phonemes: [t, uu, r, uu]
   - grapheme: torsdag
@@ -16682,7 +16682,7 @@ entries:
     phonemes: [t, r, ao, l, ax]
   - grapheme: trolsk
     phonemes: [t, r, ao, l, s, k]
-  - grapheme: troloehs
+  - grapheme: troløs
     phonemes: [t, r, uu, l, oeh, s]
   - grapheme: tromme
     phonemes: [t, r, uuh, m, ax]
@@ -16742,11 +16742,11 @@ entries:
     phonemes: [t, r, ueh, n, ax]
   - grapheme: trær
     phonemes: [t, r, ae, r]
-  - grapheme: troehste
+  - grapheme: trøste
     phonemes: [t, r, oe, s, t, ax]
-  - grapheme: troehtt
+  - grapheme: trøtt
     phonemes: [t, r, oe, t]
-  - grapheme: troehttende
+  - grapheme: trøttende
     phonemes: [t, r, oe, t, ax, n, ax]
   - grapheme: trå
     phonemes: [t, r, oo]
@@ -16805,9 +16805,9 @@ entries:
   - grapheme: turkis
     phonemes: [t, uh, r, k, iy, s]
   - grapheme: turne
-    phonemes: [t, uh, nng, ax]
+    phonemes: [t, uh, ng, ax]
   - grapheme: turnsko
-    phonemes: [t, uh, nng, s, k, uu]
+    phonemes: [t, uh, ng, s, k, uu]
   - grapheme: tursti
     phonemes: [t, uh, sz, t, iy]
   - grapheme: tusen
@@ -16902,37 +16902,37 @@ entries:
     phonemes: [t, ueh, v, ax, r, iy]
   - grapheme: tære
     phonemes: [t, ae, r, ax]
-  - grapheme: toeh
+  - grapheme: tø
     phonemes: [t, oeh]
-  - grapheme: toehff
+  - grapheme: tøff
     phonemes: [t, oe, f]
-  - grapheme: toehmme
+  - grapheme: tømme
     phonemes: [t, oe, m, ax]
-  - grapheme: toehmming
+  - grapheme: tømming
     phonemes: [t, oe, m, ih, ng]
-  - grapheme: toehmre
+  - grapheme: tømre
     phonemes: [t, oe, m, r, ax]
-  - grapheme: toehrke
+  - grapheme: tørke
     phonemes: [t, oe, r, k, ax]
-  - grapheme: toehrketrommel
+  - grapheme: tørketrommel
     phonemes: [t, oe, r, k, ax, t, r, uuh, m, ax, l]
-  - grapheme: toehrr
+  - grapheme: tørr
     phonemes: [t, oe, r]
-  - grapheme: toehrre
+  - grapheme: tørre
     phonemes: [t, oe, r, ax]
-  - grapheme: toehrst
+  - grapheme: tørst
     phonemes: [t, oe, sz, t]
-  - grapheme: toehrt
+  - grapheme: tørt
     phonemes: [t, oe, t]
-  - grapheme: toehye
+  - grapheme: tøye
     phonemes: [t, oe, j, ax]
-  - grapheme: toehyle
+  - grapheme: tøyle
     phonemes: [t, oe, j, l, ax]
-  - grapheme: toehylesloehs
+  - grapheme: tøylesløs
     phonemes: [t, oe, j, l, ax, s, l, oeh, s]
-  - grapheme: toehyse
+  - grapheme: tøyse
     phonemes: [t, oe, j, s, ax]
-  - grapheme: toehysete
+  - grapheme: tøysete
     phonemes: [t, oe, j, s, ax, t, ax]
   - grapheme: tå
     phonemes: [t, oo]
@@ -16967,7 +16967,7 @@ entries:
   - grapheme: tåre
     phonemes: [t, oo, r, ax]
   - grapheme: tårn
-    phonemes: [t, oo, nng]
+    phonemes: [t, oo, ng]
   - grapheme: tåte
     phonemes: [t, oo, t, ax]
   - grapheme: tåteflaske
@@ -17102,7 +17102,7 @@ entries:
     phonemes: [uh, b, ax, l, ay, l, ih, k, s, t]
   - grapheme: ubeleiligste
     phonemes: [uh, b, ax, l, ay, l, ih, k, s, t, ax]
-  - grapheme: uberoehrt
+  - grapheme: uberørt
     phonemes: [uh, b, ax, r, oeh, t]
   - grapheme: ubestemt
     phonemes: [uh, b, ax, s, t, eh, m, t]
@@ -17156,15 +17156,15 @@ entries:
     phonemes: [uh, b, r, uh, k, ax, l, ih, k, s, t]
   - grapheme: ubrukeligste
     phonemes: [uh, b, r, uh, k, ax, l, ih, k, s, t, ax]
-  - grapheme: uboehyelig
+  - grapheme: ubøyelig
     phonemes: [uh, b, oe, j, ax, l, ih]
-  - grapheme: uboehyelige
+  - grapheme: ubøyelige
     phonemes: [uh, b, oe, j, ax, l, ih, ax]
-  - grapheme: uboehyeligere
+  - grapheme: ubøyeligere
     phonemes: [uh, b, oe, j, ax, l, ih, r, ax]
-  - grapheme: uboehyeligst
+  - grapheme: ubøyeligst
     phonemes: [uh, b, oe, j, ax, l, ih, k, s, t]
-  - grapheme: uboehyeligste
+  - grapheme: ubøyeligste
     phonemes: [uh, b, oe, j, ax, l, ih, k, s, t, ax]
   - grapheme: udanna
     phonemes: [uh, d, aa, n, ax, t]
@@ -17182,15 +17182,15 @@ entries:
     phonemes: [uh, d, uh, g, ax, l, ih, k, s, t]
   - grapheme: udugeligste
     phonemes: [uh, d, uh, g, ax, l, ih, k, s, t, ax]
-  - grapheme: udoehdelig
+  - grapheme: udødelig
     phonemes: [uh, d, oeh, d, ax, l, ih]
-  - grapheme: udoehdelige
+  - grapheme: udødelige
     phonemes: [uh, d, oeh, d, ax, l, ih, ax]
-  - grapheme: udoehdeligere
+  - grapheme: udødeligere
     phonemes: [uh, d, oeh, d, ax, l, ih, r, ax]
-  - grapheme: udoehdeligst
+  - grapheme: udødeligst
     phonemes: [uh, d, oeh, d, ax, l, ih, k, s, t]
-  - grapheme: udoehdeligste
+  - grapheme: udødeligste
     phonemes: [uh, d, oeh, d, ax, l, ih, k, s, t, ax]
   - grapheme: uegennyttig
     phonemes: [uh, ee, g, ax, n, ue, t, ih]
@@ -17380,7 +17380,7 @@ entries:
     phonemes: [uh, f, ao, sz, v, aa, l, ih, k, s, t]
   - grapheme: uforsvarligste
     phonemes: [uh, f, ao, sz, v, aa, l, ih, k, s, t, ax]
-  - grapheme: ufortroehden
+  - grapheme: ufortrøden
     phonemes: [uh, f, ao, t, r, oeh, d, ax, n]
   - grapheme: uforvarende
     phonemes: [uh, f, ao, r, v, aa, r, ax, n, ax]
@@ -17420,9 +17420,9 @@ entries:
     phonemes: [uh, f, ueh, s, ax, l, ih, k, s, t]
   - grapheme: ufyseligste
     phonemes: [uh, f, ueh, s, ax, l, ih, k, s, t, ax]
-  - grapheme: ufoehlsom
+  - grapheme: ufølsom
     phonemes: [uh, f, oeh, l, s, ao, m]
-  - grapheme: ufoehr
+  - grapheme: ufør
     phonemes: [uh, f, oeh, r]
   - grapheme: ugift
     phonemes: [uh, j, ih, f, t]
@@ -17516,17 +17516,17 @@ entries:
     phonemes: [uh, h, ue, g, ax, l, ih, k, s, t, ax]
   - grapheme: uhyre
     phonemes: [uh, h, ueh, r, ax]
-  - grapheme: uhoehflig
+  - grapheme: uhøflig
     phonemes: [uh, h, oe, f, l, ih]
-  - grapheme: uhoehflige
+  - grapheme: uhøflige
     phonemes: [uh, h, oe, f, l, ih, ax]
-  - grapheme: uhoehfligere
+  - grapheme: uhøfligere
     phonemes: [uh, h, oe, f, l, ih, r, ax]
-  - grapheme: uhoehfligst
+  - grapheme: uhøfligst
     phonemes: [uh, h, oe, f, l, ih, k, s, t]
-  - grapheme: uhoehfligste
+  - grapheme: uhøfligste
     phonemes: [uh, h, oe, f, l, ih, k, s, t, ax]
-  - grapheme: uhoehrt
+  - grapheme: uhørt
     phonemes: [uh, h, oeh, t]
   - grapheme: uhåndterlig
     phonemes: [uh, h, ao, n, t, ee, l, ih]
@@ -17716,15 +17716,15 @@ entries:
     phonemes: [uh, l, ue, k, s, aa, l, ih, k, s, t, ax]
   - grapheme: umake
     phonemes: [uh, m, aa, k, ax]
-  - grapheme: umedgjoehrlig
+  - grapheme: umedgjørlig
     phonemes: [uh, m, ee, d, j, oeh, l, ih]
-  - grapheme: umedgjoehrlige
+  - grapheme: umedgjørlige
     phonemes: [uh, m, ee, d, j, oeh, l, ih, ax]
-  - grapheme: umedgjoehrligere
+  - grapheme: umedgjørligere
     phonemes: [uh, m, ee, d, j, oeh, l, ih, r, ax]
-  - grapheme: umedgjoehrligst
+  - grapheme: umedgjørligst
     phonemes: [uh, m, ee, d, j, oeh, l, ih, k, s, t]
-  - grapheme: umedgjoehrligste
+  - grapheme: umedgjørligste
     phonemes: [uh, m, ee, d, j, oeh, l, ih, k, s, t, ax]
   - grapheme: umenneskelig
     phonemes: [uh, m, eh, n, s, k, ax, l, ih]
@@ -17781,7 +17781,7 @@ entries:
   - grapheme: umoden
     phonemes: [uh, m, uu, d, ax, n]
   - grapheme: umoderne
-    phonemes: [uh, m, uuh, d, ae, nng, ax]
+    phonemes: [uh, m, uuh, d, ae, ng, ax]
   - grapheme: umoralsk
     phonemes: [uh, m, uuh, r, aa, l, s, k]
   - grapheme: umulig
@@ -17880,11 +17880,11 @@ entries:
     phonemes: [uh, n, ax, sz, l, oo]
   - grapheme: understreke
     phonemes: [uh, n, ax, sz, t, r, ee, k, ax]
-  - grapheme: understoehtte
+  - grapheme: understøtte
     phonemes: [uh, n, ax, sz, t, oe, t, ax]
-  - grapheme: undersoehke
+  - grapheme: undersøke
     phonemes: [uh, n, ax, sz, oeh, k, ax]
-  - grapheme: undersoehkelse
+  - grapheme: undersøkelse
     phonemes: [uh, n, ax, sz, oeh, k, eh, l, s, ax]
   - grapheme: undertegne
     phonemes: [uh, n, ax, t, ay, n, ax]
@@ -17892,9 +17892,9 @@ entries:
     phonemes: [uh, n, ax, t, ih, t, ax, l]
   - grapheme: undertrykke
     phonemes: [uh, n, ax, t, r, ue, k, ax]
-  - grapheme: undertroehye
+  - grapheme: undertrøye
     phonemes: [uh, n, ax, t, r, oe, j, ax]
-  - grapheme: undertoehy
+  - grapheme: undertøy
     phonemes: [uh, n, ax, t, oe, j]
   - grapheme: undervannskamera
     phonemes: [uh, n, ax, r, v, aa, n, s, k, aa, m, ee, r, aa]
@@ -17932,7 +17932,7 @@ entries:
     phonemes: [uuh, ng, j, eh, n, t, ax]
   - grapheme: ungkar
     phonemes: [uuh, ng, k, aa, r]
-  - grapheme: ungmoehy
+  - grapheme: ungmøy
     phonemes: [uuh, ng, m, oe, j]
   - grapheme: ungnaut
     phonemes: [uuh, ng, n, ae, w, t]
@@ -17950,9 +17950,9 @@ entries:
     phonemes: [uh, n, ax]
   - grapheme: unnfange
     phonemes: [uh, n, f, aa, ng, ax]
-  - grapheme: unngjelde
+  - grapheme: ungjelde
     phonemes: [uh, n, j, eh, l, ax]
-  - grapheme: unngå
+  - grapheme: ungå
     phonemes: [uh, n, g, oo]
   - grapheme: unnlate
     phonemes: [uh, n, l, aa, t, ax]
@@ -17980,35 +17980,35 @@ entries:
     phonemes: [uh, n, ue, t, ih, k, s, t]
   - grapheme: unyttigste
     phonemes: [uh, n, ue, t, ih, k, s, t, ax]
-  - grapheme: unoehdig
+  - grapheme: unødig
     phonemes: [uh, n, oeh, d, ih]
-  - grapheme: unoehdige
+  - grapheme: unødige
     phonemes: [uh, n, oeh, d, ih, ax]
-  - grapheme: unoehdigere
+  - grapheme: unødigere
     phonemes: [uh, n, oeh, d, ih, r, ax]
-  - grapheme: unoehdigst
+  - grapheme: unødigst
     phonemes: [uh, n, oeh, d, ih, k, s, t]
-  - grapheme: unoehdigste
+  - grapheme: unødigste
     phonemes: [uh, n, oeh, d, ih, k, s, t, ax]
-  - grapheme: unoehdvendig
+  - grapheme: unødvendig
     phonemes: [uh, n, oe, d, v, eh, n, ih]
-  - grapheme: unoehdvendige
+  - grapheme: unødvendige
     phonemes: [uh, n, oe, d, v, eh, n, ih, ax]
-  - grapheme: unoehdvendigere
+  - grapheme: unødvendigere
     phonemes: [uh, n, oe, d, v, eh, n, ih, r, ax]
-  - grapheme: unoehdvendigst
+  - grapheme: unødvendigst
     phonemes: [uh, n, oe, d, v, eh, n, ih, k, s, t]
-  - grapheme: unoehdvendigste
+  - grapheme: unødvendigste
     phonemes: [uh, n, oe, d, v, eh, n, ih, k, s, t, ax]
-  - grapheme: unoehyaktig
+  - grapheme: unøyaktig
     phonemes: [uh, n, oe, j, aa, k, t, ih]
-  - grapheme: unoehyaktige
+  - grapheme: unøyaktige
     phonemes: [uh, n, oe, j, aa, k, t, ih, ax]
-  - grapheme: unoehyaktigere
+  - grapheme: unøyaktigere
     phonemes: [uh, n, oe, j, aa, k, t, ih, r, ax]
-  - grapheme: unoehyaktigst
+  - grapheme: unøyaktigst
     phonemes: [uh, n, oe, j, aa, k, t, ih, k, s, t]
-  - grapheme: unoehyaktigste
+  - grapheme: unøyaktigste
     phonemes: [uh, n, oe, j, aa, k, t, ih, k, s, t, ax]
   - grapheme: uomtvistelig
     phonemes: [uh, ao, m, t, v, ih, s, t, ax, l, ih]
@@ -18198,15 +18198,15 @@ entries:
     phonemes: [uh, r, ue, d, ih, k, s, t]
   - grapheme: uryddigste
     phonemes: [uh, r, ue, d, ih, k, s, t, ax]
-  - grapheme: uroehrlig
+  - grapheme: urørlig
     phonemes: [uh, r, oeh, l, ih]
-  - grapheme: uroehrlige
+  - grapheme: urørlige
     phonemes: [uh, r, oeh, l, ih, ax]
-  - grapheme: uroehrligere
+  - grapheme: urørligere
     phonemes: [uh, r, oeh, l, ih, r, ax]
-  - grapheme: uroehrligst
+  - grapheme: urørligst
     phonemes: [uh, r, oeh, l, ih, k, s, t]
-  - grapheme: uroehrligste
+  - grapheme: urørligste
     phonemes: [uh, r, oeh, l, ih, k, s, t, ax]
   - grapheme: usaklig
     phonemes: [uh, s, aa, k, l, ih]
@@ -18334,7 +18334,7 @@ entries:
     phonemes: [uh, s, t, ue, t, ax, l, ih, k, s, t]
   - grapheme: ustyrteligste
     phonemes: [uh, s, t, ue, t, ax, l, ih, k, s, t, ax]
-  - grapheme: ustoeh
+  - grapheme: ustø
     phonemes: [uh, s, t, oeh]
   - grapheme: usunn
     phonemes: [uh, s, uh, n]
@@ -18390,7 +18390,7 @@ entries:
     phonemes: [uh, t, d, aa, n, ih, ng]
   - grapheme: utdype
     phonemes: [uh, t, d, ueh, p, ax]
-  - grapheme: utdoehdd
+  - grapheme: utdødd
     phonemes: [uh, t, d, oe, d]
   - grapheme: ute
     phonemes: [uh, t, ax]
@@ -18402,7 +18402,7 @@ entries:
     phonemes: [uh, t, ax, l, uuh, k, ax]
   - grapheme: uten
     phonemes: [uh, t, ax, n]
-  - grapheme: utendoehrs
+  - grapheme: utendørs
     phonemes: [uh, t, ax, n, oeh, sz]
   - grapheme: utenfor
     phonemes: [uh, t, ax, n, f, ao, r]
@@ -18434,17 +18434,17 @@ entries:
     phonemes: [uh, t, f, oeh, r, ax]
   - grapheme: utforske
     phonemes: [uh, t, f, ao, sz, k, ax]
-  - grapheme: utfoehre
+  - grapheme: utføre
     phonemes: [uh, t, f, oeh, r, ax]
-  - grapheme: utfoehrlig
+  - grapheme: utførlig
     phonemes: [uh, t, f, oeh, l, ih]
-  - grapheme: utfoehrlige
+  - grapheme: utførlige
     phonemes: [uh, t, f, oeh, l, ih, ax]
-  - grapheme: utfoehrligere
+  - grapheme: utførligere
     phonemes: [uh, t, f, oeh, l, ih, r, ax]
-  - grapheme: utfoehrligst
+  - grapheme: utførligst
     phonemes: [uh, t, f, oeh, l, ih, k, s, t]
-  - grapheme: utfoehrligste
+  - grapheme: utførligste
     phonemes: [uh, t, f, oeh, l, ih, k, s, t, ax]
   - grapheme: utgang
     phonemes: [uh, t, g, aa, ng]
@@ -18454,7 +18454,7 @@ entries:
     phonemes: [uh, t, j, iy]
   - grapheme: utgift
     phonemes: [uh, t, j, ih, f, t]
-  - grapheme: utgjoehre
+  - grapheme: utgjøre
     phonemes: [uh, t, j, oeh, r, ax]
   - grapheme: utheve
     phonemes: [uh, t, h, ee, v, ax]
@@ -18484,17 +18484,17 @@ entries:
     phonemes: [uh, t, ih, l, s, t, r, eh, k, ax, l, ih, k, s, t, ax]
   - grapheme: utkast
     phonemes: [uh, t, k, aa, s, t]
-  - grapheme: utkjoehrt
+  - grapheme: utkjørt
     phonemes: [uh, t, xh, oeh, t]
   - grapheme: utland
     phonemes: [uh, t, l, aa, n]
   - grapheme: utlending
     phonemes: [uh, t, l, eh, n, ih, ng]
-  - grapheme: utloehpe
+  - grapheme: utløpe
     phonemes: [uh, t, l, oeh, p, ax]
-  - grapheme: utloehse
+  - grapheme: utløse
     phonemes: [uh, t, l, oeh, s, ax]
-  - grapheme: utloehser
+  - grapheme: utløser
     phonemes: [uh, t, l, oeh, s, ax, r]
   - grapheme: utmerke
     phonemes: [uh, t, m, ae, r, k, ax]
@@ -18562,11 +18562,11 @@ entries:
     phonemes: [uh, t, s, t, r, aa, k, t]
   - grapheme: utstyre
     phonemes: [uh, t, s, t, ueh, r, ax]
-  - grapheme: utstoehte
+  - grapheme: utstøte
     phonemes: [uh, t, s, t, oeh, t, ax]
   - grapheme: utstå
     phonemes: [uh, t, s, t, oo]
-  - grapheme: utsoehkt
+  - grapheme: utsøkt
     phonemes: [uh, t, s, oeh, k, t]
   - grapheme: uttale
     phonemes: [uh, t, aa, l, ax]
@@ -18576,9 +18576,9 @@ entries:
     phonemes: [uh, t, r, ue, k, ax]
   - grapheme: uttrykkelig
     phonemes: [uuh, t, r, ue, k, ax, l, ih]
-  - grapheme: uttrykksloehs
+  - grapheme: uttrykksløs
     phonemes: [uh, t, r, ue, k, s, l, oeh, s]
-  - grapheme: uttoehmmende
+  - grapheme: uttømmende
     phonemes: [uh, t, oe, m, ax, n, ax]
   - grapheme: utuktig
     phonemes: [uh, t, uh, k, t, ih]
@@ -18630,7 +18630,7 @@ entries:
     phonemes: [uh, t, ueh, d, ax, l, ih, k, s, t]
   - grapheme: utydeligste
     phonemes: [uh, t, ueh, d, ax, l, ih, k, s, t, ax]
-  - grapheme: utoehve
+  - grapheme: utøve
     phonemes: [uh, t, oeh, v, ax]
   - grapheme: utålelig
     phonemes: [uh, t, oo, l, ax, l, ih]
@@ -18652,15 +18652,15 @@ entries:
     phonemes: [uh, t, ao, l, m, uu, d, ih, k, s, t]
   - grapheme: utålmodigste
     phonemes: [uh, t, ao, l, m, uu, d, ih, k, s, t, ax]
-  - grapheme: uunngåelig
+  - grapheme: uungåelig
     phonemes: [uh, uh, n, g, oo, ax, l, ih]
-  - grapheme: uunngåelige
+  - grapheme: uungåelige
     phonemes: [uh, uh, n, g, oo, ax, l, ih, ax]
-  - grapheme: uunngåeligere
+  - grapheme: uungåeligere
     phonemes: [uh, uh, n, g, oo, ax, l, ih, r, ax]
-  - grapheme: uunngåeligst
+  - grapheme: uungåeligst
     phonemes: [uh, uh, n, g, oo, ax, l, ih, k, s, t]
-  - grapheme: uunngåeligste
+  - grapheme: uungåeligste
     phonemes: [uh, uh, n, g, oo, ax, l, ih, k, s, t, ax]
   - grapheme: uunnværlig
     phonemes: [uh, uh, n, v, ae, l, ih]
@@ -18912,7 +18912,7 @@ entries:
     phonemes: [v, aa, n, s, k, ax, l, ih, k, s, t]
   - grapheme: vanskeligste
     phonemes: [v, aa, n, s, k, ax, l, ih, k, s, t, ax]
-  - grapheme: vanskjoehtte
+  - grapheme: vanskjøtte
     phonemes: [v, aa, n, sz, oe, t, ax]
   - grapheme: vansmekte
     phonemes: [v, aa, n, s, m, eh, k, t, ax]
@@ -18966,7 +18966,7 @@ entries:
     phonemes: [v, aa, r, m]
   - grapheme: varme
     phonemes: [v, aa, r, m, ax]
-  - grapheme: varmeboehlge
+  - grapheme: varmebølge
     phonemes: [v, aa, r, m, ax, b, oe, l, g, ax]
   - grapheme: varmt
     phonemes: [v, aa, r, m, t]
@@ -19014,7 +19014,7 @@ entries:
     phonemes: [v, ee, d, k, ao, m, ax]
   - grapheme: vedlikeholde
     phonemes: [v, ee, d, l, iy, k, ax, h, ao, l, ax]
-  - grapheme: vedroehre
+  - grapheme: vedrøre
     phonemes: [v, ee, d, r, oeh, r, ax]
   - grapheme: vedstå
     phonemes: [v, ee, d, s, t, oo]
@@ -19106,7 +19106,7 @@ entries:
     phonemes: [v, eh, l, ao, p, d, r, aa, g, ax, n]
   - grapheme: veloverveid
     phonemes: [v, eh, l, oo, v, ax, r, v, ay, d]
-  - grapheme: velproehvd
+  - grapheme: velprøvd
     phonemes: [v, eh, l, p, r, oe, v, d]
   - grapheme: velsigne
     phonemes: [v, ax, l, s, ih, ng, n, ax]
@@ -19222,7 +19222,7 @@ entries:
     phonemes: [v, ae, d, ih, k, s, t]
   - grapheme: verdigste
     phonemes: [v, ae, d, ih, k, s, t, ax]
-  - grapheme: verdiloehs
+  - grapheme: verdiløs
     phonemes: [v, ae, d, iy, l, oeh, s]
   - grapheme: verdisaker
     phonemes: [v, ae, d, iy, s, aa, k, ax, r]
@@ -19250,12 +19250,12 @@ entries:
     phonemes: [v, ae, r, k, ax]
   - grapheme: verksted
     phonemes: [v, ae, r, k, s, t, ee]
-  - grapheme: verktoehy
+  - grapheme: verktøy
     phonemes: [v, ae, r, k, t, oe, j]
   - grapheme: vern
-    phonemes: [v, ae, nng]
+    phonemes: [v, ae, ng]
   - grapheme: verne
-    phonemes: [v, ae, nng, ax]
+    phonemes: [v, ae, ng, ax]
   - grapheme: verpe
     phonemes: [v, ae, r, p, ax]
   - grapheme: vers
@@ -19596,9 +19596,9 @@ entries:
     phonemes: [v, r, ih, n, s, k, ax]
   - grapheme: vræle
     phonemes: [v, r, ae, l, ax]
-  - grapheme: vroehvl
+  - grapheme: vrøvl
     phonemes: [v, r, oe, v, l]
-  - grapheme: vroehvle
+  - grapheme: vrøvle
     phonemes: [v, r, oe, v, l, ax]
   - grapheme: vugge
     phonemes: [v, uh, g, ax]
@@ -19645,7 +19645,7 @@ entries:
   - grapheme: vårluft
     phonemes: [v, oo, l, uh, f, t]
   - grapheme: vårnatt
-    phonemes: [v, oo, nng, aa, t]
+    phonemes: [v, oo, ng, aa, t]
   - grapheme: vårsol
     phonemes: [v, oo, sz, uu, l]
   - grapheme: vårtegn
@@ -19762,103 +19762,103 @@ entries:
     phonemes: [ae, r, v, ae, d, ih, k, s, t]
   - grapheme: ærverdigste
     phonemes: [ae, r, v, ae, d, ih, k, s, t, ax]
-  - grapheme: oehde
+  - grapheme: øde
     phonemes: [oeh, d, ax]
-  - grapheme: oehdelagt
+  - grapheme: ødelagt
     phonemes: [oeh, d, ax, l, aa, k, t]
-  - grapheme: oehdelegge
+  - grapheme: ødelegge
     phonemes: [oeh, d, ax, l, ay, ax]
-  - grapheme: oehdsle
+  - grapheme: ødsle
     phonemes: [oe, t, s, l, ax]
-  - grapheme: oehke
+  - grapheme: øke
     phonemes: [oeh, k, ax]
-  - grapheme: oehkologisk
+  - grapheme: økologisk
     phonemes: [oe, k, uuh, l, oo, g, ih, s, k]
-  - grapheme: oehkonomi
+  - grapheme: økonomi
     phonemes: [oe, k, uuh, n, uuh, m, iy]
-  - grapheme: oehkonomisk
+  - grapheme: økonomisk
     phonemes: [oe, k, uuh, n, uu, m, ih, s, k]
-  - grapheme: oehl
+  - grapheme: øl
     phonemes: [oe, l]
-  - grapheme: oehm
+  - grapheme: øm
     phonemes: [oe, m]
-  - grapheme: oehmfintlig
+  - grapheme: ømfintlig
     phonemes: [oe, m, f, ih, n, t, l, ih]
-  - grapheme: oehmfintlige
+  - grapheme: ømfintlige
     phonemes: [oe, m, f, ih, n, t, l, ih, ax]
-  - grapheme: oehmfintligere
+  - grapheme: ømfintligere
     phonemes: [oe, m, f, ih, n, t, l, ih, r, ax]
-  - grapheme: oehmfintligst
+  - grapheme: ømfintligst
     phonemes: [oe, m, f, ih, n, t, l, ih, k, s, t]
-  - grapheme: oehmfintligste
+  - grapheme: ømfintligste
     phonemes: [oe, m, f, ih, n, t, l, ih, k, s, t, ax]
-  - grapheme: oehnske
+  - grapheme: ønske
     phonemes: [oe, n, s, k, ax]
-  - grapheme: oehnskelig
+  - grapheme: ønskelig
     phonemes: [oe, n, s, k, ax, l, ih]
-  - grapheme: oehnskelige
+  - grapheme: ønskelige
     phonemes: [oe, n, s, k, ax, l, ih, ax]
-  - grapheme: oehnskeligere
+  - grapheme: ønskeligere
     phonemes: [oe, n, s, k, ax, l, ih, r, ax]
-  - grapheme: oehnskeligst
+  - grapheme: ønskeligst
     phonemes: [oe, n, s, k, ax, l, ih, k, s, t]
-  - grapheme: oehnskeligste
+  - grapheme: ønskeligste
     phonemes: [oe, n, s, k, ax, l, ih, k, s, t, ax]
-  - grapheme: oehr
+  - grapheme: ør
     phonemes: [oeh, r]
-  - grapheme: oehre
+  - grapheme: øre
     phonemes: [oeh, r, ax]
-  - grapheme: oehrebetennelse
+  - grapheme: ørebetennelse
     phonemes: [oeh, r, ax, b, eh, t, eh, n, eh, l, s, ax]
-  - grapheme: oehredoehvende
+  - grapheme: øredøvende
     phonemes: [oeh, r, ax, d, oeh, v, ax, n, ax]
-  - grapheme: oehremerke
+  - grapheme: øremerke
     phonemes: [oeh, r, ax, m, ae, r, k, ax]
-  - grapheme: oehrering
+  - grapheme: ørering
     phonemes: [oeh, r, ax, r, ih, ng]
-  - grapheme: oehrken
+  - grapheme: ørken
     phonemes: [oe, r, k, ax, n]
-  - grapheme: oehrliten
+  - grapheme: ørliten
     phonemes: [oeh, l, iy, t, ax, n]
-  - grapheme: oehrske
+  - grapheme: ørske
     phonemes: [oe, sz, k, ax]
-  - grapheme: oehse
+  - grapheme: øse
     phonemes: [oeh, s, ax]
-  - grapheme: oehsterriker
+  - grapheme: østerriker
     phonemes: [oe, s, t, ax, r, iy, k, ax, r]
-  - grapheme: oehsterriksk
+  - grapheme: østerriksk
     phonemes: [oe, s, t, ax, r, ih, k, s, k]
-  - grapheme: oehsters
+  - grapheme: østers
     phonemes: [oe, s, t, ax, sz]
-  - grapheme: oehstlig
+  - grapheme: østlig
     phonemes: [oe, s, t, l, ih]
-  - grapheme: oehstlige
+  - grapheme: østlige
     phonemes: [oe, s, t, l, ih, ax]
-  - grapheme: oehstligere
+  - grapheme: østligere
     phonemes: [oe, s, t, l, ih, r, ax]
-  - grapheme: oehstligst
+  - grapheme: østligst
     phonemes: [oe, s, t, l, ih, k, s, t]
-  - grapheme: oehstligste
+  - grapheme: østligste
     phonemes: [oe, s, t, l, ih, k, s, t, ax]
-  - grapheme: oehve
+  - grapheme: øve
     phonemes: [oeh, v, ax]
-  - grapheme: oehvelse
+  - grapheme: øvelse
     phonemes: [oeh, v, ax, l, s, ax]
-  - grapheme: oehvrig
+  - grapheme: øvrig
     phonemes: [oeh, v, r, ih]
-  - grapheme: oehvrige
+  - grapheme: øvrige
     phonemes: [oeh, v, r, ih, ax]
-  - grapheme: oehvrigere
+  - grapheme: øvrigere
     phonemes: [oeh, v, r, ih, r, ax]
-  - grapheme: oehvrigst
+  - grapheme: øvrigst
     phonemes: [oeh, v, r, ih, k, s, t]
-  - grapheme: oehvrigste
+  - grapheme: øvrigste
     phonemes: [oeh, v, r, ih, k, s, t, ax]
-  - grapheme: oehy
+  - grapheme: øy
     phonemes: [oe, j]
-  - grapheme: oehye
+  - grapheme: øye
     phonemes: [oe, j, ax]
-  - grapheme: oehyeblikk
+  - grapheme: øyeblikk
     phonemes: [oe, j, ax, b, l, ih, k]
   - grapheme: å
     phonemes: [oo]
@@ -19869,7 +19869,7 @@ entries:
   - grapheme: åle
     phonemes: [oo, l, ax]
   - grapheme: ålen
-    phonemes: [oo, ao, nng]
+    phonemes: [oo, ao, ng]
   - grapheme: åler
     phonemes: [oo, l, ax, r]
   - grapheme: ånd
