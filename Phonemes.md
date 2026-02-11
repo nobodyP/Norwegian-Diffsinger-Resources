@@ -22,7 +22,7 @@
 |   oo     |   oː    |   bl**å**   |
 |   ao     |   ɔ     |   b**o**dy  |
 |   uu     |   uː    |   b**o**k   |
-|   uuh    |   ʊ     | uncommon    |
+|   uuh    |   ʊ     | an**o**nym    |
 |   uh     |   ʉ     |   b**or**t  |
 |   ue     |   ʏ     |  br**y**sk  |
 |   ueh    |   yː    |   b**y**er  |
@@ -61,6 +61,7 @@
 |     r    |    ɾ   |         |
 |     rx   |    ɽ   |         |
 |     w    |    w   |         |
+
 
 
 
